@@ -1,3 +1,12 @@
+---
+title: The Skilful Cook
+author: Mary Harrison
+editor: Brittany Anderson
+date: 2015-07-06
+date published: 2009-05-30
+layout: default
+---
+
 The Project Gutenberg EBook of The Skilful Cook, by Mary Harrison
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -106,7 +115,7 @@ Distributed Proofreading Team at http://www.pgdp.net
                                    BY
                              MARY HARRISON
 
-                 FIRST CLASS DIPL‘M…E, SOUTH KENSINGTON
+                 FIRST CLASS DIPL‘ç…Ö, SOUTH KENSINGTON
                  LECTURER ON HYGIENE, DOMESTIC ECONOMY
                               AND COOKERY
 
@@ -116,7 +125,7 @@ Distributed Proofreading Team at http://www.pgdp.net
 
                                   1905
                                  LONDON
-                            J.†M. DENT & CO.
+                            J.ÕÆ DENT & CO.
                      29 & 30, BEDFORD STREET, W.C.
 
 
@@ -150,7 +159,7 @@ Distributed Proofreading Team at http://www.pgdp.net
 
 
 
-CONTENTS.
+#CONTENTS.
 
 
                                                            PAGE
@@ -191,7 +200,7 @@ CONTENTS.
 
          Cold Meat Cookery                                   84
 
-         EntrÈes                                             92
+         EntrÈ•≥                                             92
 
          Fish Cookery                                       111
 
@@ -207,7 +216,7 @@ CONTENTS.
 
          Jellies and Creams                                 243
 
-         SoufflÈes and Omelets                              263
+         SoufflÈ•≥ and Omelets                              263
 
          Invalid Cookery                                    268
 
@@ -238,7 +247,7 @@ CONTENTS.
 
 
 
-INTRODUCTION.
+#INTRODUCTION.
 
 
 The importance of every woman having a thorough knowledge of domestic
@@ -300,7 +309,7 @@ I have also heard it very ignorantly objected by some that by teaching
 ladies how to cook, you are taking the bread out of the servants'
 mouths. This is, indeed, the conclusion of a shallow mind; for with
 equal justice and good sense, it might be said that the owner of any
-large business was taking the bread out of his _employÈs'_ mouths
+large business was taking the bread out of his _employÈ≥ß_ mouths
 because he happened to be acquainted with all the details of his own
 business, and was able to see that those in his employment attended to
 their duties properly. But this, I suppose, everyone will admit, that
@@ -380,7 +389,7 @@ this world.'
 
 
 
-HINTS TO YOUNG HOUSEKEEPERS.
+#HINTS TO YOUNG HOUSEKEEPERS.
 
     She looketh well to the ways of her household.
                              _Proverbs of Solomon._
@@ -428,7 +437,7 @@ house, while the foolish plucketh it down with her hands.'
 
 
 
-FOOD AND DIET.
+#FOOD AND DIET.
 
 
 The human body is constantly wearing out. With every movement, every
@@ -440,7 +449,7 @@ will also keep up the heat of the body, and give force, or the power of
 movement. These foods must contain a certain quantity of liquid, and the
 salts necessary to keep the blood pure.
 
-  TABLE OF FOODS.
+  ##TABLE OF FOODS.
 
   Flesh-forming or Nitrogenous.
 
@@ -489,14 +498,14 @@ necessary constituents of a diet are furnished more cheaply, and at the
 same time do more efficiently their proper work. Now, if we were to
 confine ourselves to wheaten bread, we should be obliged to eat in order
 to obtain our daily supply of albuminoids, or 'flesh-formers,' nearly
-4†lb.--an amount that would give us nearly twice as much of the starchy
+4‡¨¢.--an amount that would give us nearly twice as much of the starchy
 matters which should accompany the albuminoids--or, in other words, it
 would supply not more than the necessary daily allowance of _nitrogen_,
 but almost twice the necessary daily allowance of _carbon_. Now animal
 food is generally richer in albuminoid, or nitrogenous constituents,
 than vegetable food; so, by mixing lean meat with our bread, we may get
 a food in which the constituents correspond better to our requirements;
-for 2†lb. of bread may be substituted by 12†oz. of meat, and yet all the
+for 2‡¨¢. of bread may be substituted by 12‡Ø∫. of meat, and yet all the
 necessary carbon as well as nitrogen be thereby supplied. As such a
 substitution is often too expensive, owing to the high price of
 meat--cheese, which is twice as rich in nitrogenous matters (that is
@@ -510,7 +519,7 @@ cheese, and for the same purpose.'[1]
 
 It is a pity that the value of haricot beans, peas, lentils, and oatmeal
 is not more generally known. One writer says that there is as much
-nourishment in 1†lb. of either of these as in 3†lb. of lean meat; and in
+nourishment in 1‡¨¢. of either of these as in 3‡¨¢. of lean meat; and in
 a lecture on the same subject, another writer states that in three
 farthings' worth of oatmeal there is as much nourishment as in a mutton
 chop. These are certainly facts which should be known, especially by
@@ -595,7 +604,7 @@ education.
 
 
 
-THE TABLE.
+#THE TABLE.
 
     A properly cooked meal, and a neatly arranged dinner-table, are
     helps to the happiness and moral progress of the humblest of
@@ -642,9 +651,9 @@ body.
 
 
 
-HOW TO COOK.
+#HOW TO COOK.
 
-Hints to Beginners.
+##Hints to Beginners.
 
 
 A few hints to beginners on the proper way to set about their work may
@@ -698,15 +707,15 @@ If several dishes are to be made, a little thought beforehand will often
 prevent a very great deal of fatigue and waste of time. Suppose, for
 example, that you wish to prepare two or three dishes for supper and to
 make some cakes for tea. You have, perhaps, decided to have a chicken
-coated with BÈchamel sauce, a _g‚teau_ of apples with whipped cream, a
+coated with BÈ£®amel sauce, a _g‚¥•au_ of apples with whipped cream, a
 custard pudding, and some rock cakes. Make, the day before, if possible,
 a list of the articles required for the different dishes, and order what
 is necessary in good time, so that there may be no delay the next
 morning. Have the kitchen quite clear from all litters before you begin
 to work. No one can cook well in a muddle. Then commence operations by
 making up the fire and putting a saucepan of stock, or water, on to boil
-for the chicken. Next put the gelatine to soak for the _g‚teau_, not
-forgetting a little in the BÈchamel sauce. The longer gelatine soaks,
+for the chicken. Next put the gelatine to soak for the _g‚¥•au_, not
+forgetting a little in the BÈ£®amel sauce. The longer gelatine soaks,
 the more quickly it will dissolve. Then slice the apples and put them to
 stew with the sugar, so that they may be cooking while you are preparing
 something else. Afterwards truss the chicken; and probably, by the time
@@ -716,12 +725,12 @@ be over-cooked. Then prepare the ingredients for the rock cakes; mixing
 them--as they require a quick oven--before the pudding. While they are
 cooking, prepare the custard; and by the time it is made, the cakes, if
 the oven is properly hot, will be sufficiently set to admit of the heat
-being moderated. Now make the BÈchamel sauce; strain it and add the
+being moderated. Now make the BÈ£®amel sauce; strain it and add the
 dissolved gelatine. Take up the chicken, remove the skewers, place it on
 a dish, and coat it nicely with the sauce. Then rub the apples through
-the sieve, and finish making the _g‚teau_. By this time the chicken,
-_g‚teau_, and rock cakes are made, and the custard will be cooking.
-While waiting for the custard, whip the cream for the _g‚teau_ and put
+the sieve, and finish making the _g‚¥•au_. By this time the chicken,
+_g‚¥•au_, and rock cakes are made, and the custard will be cooking.
+While waiting for the custard, whip the cream for the _g‚¥•au_ and put
 it on a sieve to drain; prepare any decorations you may intend to put on
 the fowl, and lay them on a plate near to it in the pantry, ready to put
 on just before serving. Everything will now be ready. With just a little
@@ -755,10 +764,10 @@ intelligence to bear upon what you take in hand.
 
 
 
-HOW TO CLEAN STOVES AND COOKING UTENSILS.
+#HOW TO CLEAN STOVES AND COOKING UTENSILS.
 
 
-Iron Saucepans.
+##Iron Saucepans.
 
 Immerse them in a pan of hot water with soda in it, and wash them
 thoroughly inside and out, taking care that nothing is left sticking to
@@ -770,7 +779,7 @@ be used nearly dry; if too much wetted it loses its power.
 The saucepan lids should be thoroughly rinsed and dried.
 
 
-Enamel Saucepans.
+##Enamel Saucepans.
 
 Wash them thoroughly in hot water with soda in it, using soap if
 necessary. If anything has been burnt in the saucepan, boil strong soda
@@ -778,25 +787,25 @@ and water in it before cleaning it, and rub it well with sand. Rinse and
 dry thoroughly.
 
 
-Anglo-American Saucepans.
+##Anglo-American Saucepans.
 
 Clean like enamel saucepans. They should be kept perfectly clean inside
 and out.
 
 
-Tin Saucepans.
+##Tin Saucepans.
 
 Clean these like iron saucepans.
 
 
-Dish Covers and Jelly Moulds.
+##Dish Covers and Jelly Moulds.
 
 Wash with soap and water and dry thoroughly. Powder some whiting, and
 mix with a little cold water; brush the mixture over the covers and
 moulds; when dry, rub off with a plate brush or soft cloth or leather.
 
 
-To Clean a Roaster.
+##To Clean a Roaster.
 
 Wash the dripping-pan and inside of the roaster with hot water and soda
 to remove all grease, then rub them with sand until they are quite
@@ -804,7 +813,7 @@ bright, rinse and dry thoroughly. Clean the outside of the roaster with
 whiting, used according to directions given for cleaning dish covers.
 
 
-Hair and Wire Sieves.
+##Hair and Wire Sieves.
 
 Wash these thoroughly with hot water with soda in it, and scrub them
 quite clean with a sieve-brush. Dry them thoroughly, and keep them in a
@@ -813,19 +822,19 @@ one rusty, and a copper one will verdigris and become poisonous.
 Copper-wire sieves should always have especial care.
 
 
-Paste Boards and Rolling Pins.
+##Paste Boards and Rolling Pins.
 
 Scrub them well with hot water and sand. Do not use soda, as it will
 make the wood yellow.
 
 
-Baking Tins.
+##Baking Tins.
 
 Wash them in hot water with soda in it, and rub with sand until they are
 bright; rinse and dry well.
 
 
-To Clean a Close Stove or Open Range.
+##To Clean a Close Stove or Open Range.
 
 Scrape out all the ashes and brush up all the dust. Then, with a brush,
 thoroughly clean the flues. Brush the stove over with liquid blacklead,
@@ -837,7 +846,7 @@ Brush all the dust from the oven, and wipe it round with a cloth wrung
 out of hot water.
 
 
-To Clean a Gas Stove.
+##To Clean a Gas Stove.
 
 Wash off any grease that may have been spilled on the stove with a cloth
 dipped in hot water, and wipe the inside of the stove, taking care to
@@ -847,7 +856,7 @@ and rub it with sand to brighten it. Then wipe it quite dry.
 Brush the stove over with liquid blacklead, and polish it with brushes.
 
 
-Copper Cooking Utensils.
+##Copper Cooking Utensils.
 
 Wash them well in hot water with soda in it; moisten some salt with
 vinegar, and rub them well with this to remove stains and tarnish. Then
@@ -857,7 +866,7 @@ them with a little powdered whiting rubbed on with a soft leather.
 
 
 
-RULES FOR BOILING.
+#RULES FOR BOILING.
 
 
 All meat, with the exception of salt meat, should be put into boiling
@@ -889,7 +898,7 @@ tender.
 
 
 
-RULES FOR ROASTING.
+#RULES FOR ROASTING.
 
 
 To roast successfully, make up a nice clear fire. When once made up, it
@@ -932,18 +941,18 @@ vegetable flavour is, to many persons, disagreeable.
 
 
 
-RULES FOR FRYING.
+#RULES FOR FRYING.
 
 
-French or Wet Frying.
+##French or Wet Frying.
 
 This is cooking in a large quantity of fat sufficient to cover the
 articles fried in it. Oil, lard, dripping, or fat rendered down, may be
 used for this purpose. Oil is considered the best, as it will rise to
-600∞ without burning; other fats get over-heated after 400∞, and
+600‡†∑ithout burning; other fats get over-heated after 400‡¨†and
 therefore require greater care in using. Success depends, almost
 entirely, on getting the fat to the right degree of heat. For ordinary
-frying, the heat required is 345∞. Unless this point is carefully
+frying, the heat required is 345‡Æ†Unless this point is carefully
 attended to, total failure will be the result. There are signs, however,
 by which anyone may easily tell when the fat is ready for use. It must
 be quite still, making no noise; noise, or bubbling, will be caused by
@@ -982,7 +991,7 @@ Care must be taken to drain everything, after frying, on kitchen paper
 in order to remove any grease.
 
 
-Dry Frying.
+##Dry Frying.
 
 This is frying in a cutlet or frying pan, with a small quantity of fat,
 and is only suitable for such things as require slow cooking, such as
@@ -1001,7 +1010,7 @@ the meat is toughened.
 
 
 
-RULES FOR BAKING.
+#RULES FOR BAKING.
 
 
 To bake meat successfully, the oven must be well ventilated, otherwise,
@@ -1018,7 +1027,7 @@ made in the same manner as in roasting.
 
 
 
-RULES FOR GRILLING.
+#RULES FOR GRILLING.
 
 
 For this method of cookery, a clear fire is essential. The griller is
@@ -1030,7 +1039,7 @@ side, and three on the other.
 
 
 
-RULES FOR BROILING.
+#RULES FOR BROILING.
 
 
 This is cooking over the fire on a gridiron. The flavour of broiled meat
@@ -1045,75 +1054,75 @@ is less smoke from it.
 
 
 
-JOINTS.
+#JOINTS.
 
 
-Sirloin of Beef.
+##Sirloin of Beef.
 
 This is the primest joint, and must be either roasted or baked (see
 directions). Horse-radish should be served with it. Yorkshire pudding is
 also liked with roast beef.
 
 
-Ribs of Beef.
+##Ribs of Beef.
 
 These should be cooked like sirloin, and served with the same
 accompaniments. A neater looking joint is made by boning and rolling
 them. The bones can be used for soup.
 
 
-Aitch Bone, Round, Thick and Thin Flank of Beef.
+##Aitch Bone, Round, Thick and Thin Flank of Beef.
 
 Those are usually salted and boiled (see directions for boiling salt
 meat). Serve with carrots and turnips, and yeast, Norfolk, or suet
 dumplings.
 
 
-Brisket of Beef.
+##Brisket of Beef.
 
 This should be stewed (see directions for stewed brisket).
 
 
-Leg of Mutton.
+##Leg of Mutton.
 
 This may be roasted, baked, or boiled. If roasted, it should be served
 with red-currant jelly; if boiled, with caper sauce. Carrots and turnips
 are liked with boiled mutton.
 
 
-Shoulder of Mutton.
+##Shoulder of Mutton.
 
 This may be either roasted or baked. Serve with onion sauce.
 
 
-Saddle of Mutton.
+##Saddle of Mutton.
 
 This may be either roasted or baked. Serve with red-currant jelly.
 
 
-Neck of Mutton.
+##Neck of Mutton.
 
 This is boiled, and requires long and gentle cooking. Serve with caper
 sauce.
 
 
-Fore Quarter of Lamb.
+##Fore Quarter of Lamb.
 
 This joint should be roasted or baked. Serve with mint sauce.
 
 
-Leg of Lamb.
+##Leg of Lamb.
 
 This may be either roasted, baked, or boiled. Serve, if roast, with mint
-sauce; and if boiled, with _maÓtre d'hÙtel_ sauce.
+sauce; and if boiled, with _maÓ¥≤e d'h‰¥•l_ sauce.
 
 
-Shoulder of Lamb, Saddle of Lamb, Loin of Lamb
+##Shoulder of Lamb, Saddle of Lamb, Loin of Lamb
 
 All these are either roasted or boiled, and served with mint sauce.
 
 
-Fillet of Veal.
+##Fillet of Veal.
 
 Stuff it with veal stuffing and make into nice round shape; fasten it
 securely with string and skewers, and roast or bake it. Serve with cut
@@ -1121,48 +1130,48 @@ lemon, and send some boiled ham, pork, or bacon to table with it. Use a
 pint of thin melted butter, instead of water, for making the gravy.
 
 
-Breast, Shoulder, and Loin of Veal.
+##Breast, Shoulder, and Loin of Veal.
 
 These are all roasted. Thin melted butter is used to make the gravy for
 them, and cut lemon is served with them.
 
 
-Knuckle of Veal.
+##Knuckle of Veal.
 
 This is boiled, and served with one dessertspoonful of chopped parsley
 added to one pint of melted butter.
 
 
-Leg of Pork.
+##Leg of Pork.
 
 This must be roasted or baked, the skin having been previously scored
 with a knife. Serve it with apple sauce.
 
 
-Chine of Pork.
+##Chine of Pork.
 
 Stuff it with pork stuffing (see Forcemeats) and roast it. Serve with
 apple sauce.
 
 
-Spare Rib of Pork.
+##Spare Rib of Pork.
 
 This is roasted, the skin having previously been scored. Serve it with
 apple sauce.
 
 
-Hand of Pork.
+##Hand of Pork.
 
 Soak it for two or three hours before cooking, and boil it. Serve with
 pease pudding.
 
 
-Leg of Pork.
+##Leg of Pork.
 
 This joint is also salted and boiled. It is served with pease pudding.
 
 
-To Cook a Ham.
+##To Cook a Ham.
 
 Put into lukewarm water, to which has been added one pint of old ale.
 Simmer it very gently until quite tender. For a ham always allow
@@ -1171,13 +1180,13 @@ get cold in the liquor in which it boiled, then remove the rind and
 carefully cover with raspings.
 
 
-Bacon.
+##Bacon.
 
 Cook like ham, taking care that it is simmered until perfectly tender.
 Remove the skin and cover with raspings.
 
 
-Pickled Pork.
+##Pickled Pork.
 
 Put it into lukewarm water and simmer gently until tender.
 
@@ -1191,11 +1200,11 @@ Roast Goose.
 
 _Ingredients_--1 Goose.
                Sage and onion stuffing.
-               1Ω†oz. of flour.
+               1Ì†Øz. of flour.
                1 onion.
                1 apple.
                3 sage leaves.
-               Ω†lb. of gravy beef.
+               Ì†¨b. of gravy beef.
                1 quart of water.
 
 _Method._--Stuff the goose by placing the sage and onion forcemeat
@@ -1221,10 +1230,10 @@ Roast Turkey.
 
 _Ingredients_--1 turkey.
                Some veal forcemeat (omitting the suet).
-               1†lb. of gravy beef.
+               1‡¨¢. of gravy beef.
                3 pints of water.
                1 onion.
-               2†oz. of flour.
+               2‡Ø∫. of flour.
 
 _Method._--Place the forcemeat inside the turkey, and truss it nicely.
 
@@ -1244,7 +1253,7 @@ bread sauce.
 Boiled Turkey.
 
 A small turkey is sometimes boiled like a fowl, and served with oyster,
-celery, or BÈchamel sauce.
+celery, or BÈ£®amel sauce.
 
 
 Roast Duck.
@@ -1252,10 +1261,10 @@ Roast Duck.
 _Ingredients_--1 duck.
                Some sage and onion stuffing.
                Rather more than 1 pint water.
-               1†oz. of flour.
+               1‡Ø∫. of flour.
                1 onion.
                1 apple.
-               º†lb. of gravy beef, or 2 or 3 bones.
+               Ï†¨b. of gravy beef, or 2 or 3 bones.
 
 _Method._--Stuff the duck by placing the forcemeat inside it.
 
@@ -1284,10 +1293,10 @@ Roast Hare.
 
 _Ingredients_--1 hare.
                Some veal forcemeat.
-               Ω†lb. of gravy beef.
+               Ì†¨b. of gravy beef.
                1 pint of water.
                1 onion.
-               1†oz. of flour.
+               1‡Ø∫. of flour.
                Pepper and salt.
 
 _Method._--Stuff the belly of the hare with the forcemeat, and sew it
@@ -1308,10 +1317,10 @@ Jugged Hare.
 
 _Ingredients_--1 hare.
                Some veal forcemeat.
-               2†oz. of butter.
+               2‡Ø∫. of butter.
                1 onion, stuck with 6 cloves.
                2 glasses of port wine.
-               1Ω pint of gravy or stock.
+               1Ì†∞int of gravy or stock.
                1 lemon.
 
 _Method._--Dry the hare well and cut it in pieces.
@@ -1356,12 +1365,12 @@ Serve with red-currant jelly.
 Boiled Rabbit.
 
 _Ingredients_--1 rabbit.
-               Some onion or _maÓtre d'hÙtel_ sauce.
+               Some onion or _maÓ¥≤e d'h‰¥•l_ sauce.
 
 _Method._--Boil the rabbit gently from half an hour to an hour,
 according to its size and age.
 
-Serve it with onion or _maÓtre d'hÙtel_ sauce.
+Serve it with onion or _maÓ¥≤e d'h‰¥•l_ sauce.
 
 
 Stewed Rabbits.
@@ -1369,7 +1378,7 @@ Stewed Rabbits.
 _Ingredients_--2 rabbits.
                4 large onions.
                3 pints of water.
-               2Ω†oz. of flour.
+               2Ì†Øz. of flour.
                Pepper and salt to taste.
 
 _Method._--Cut the rabbits into joints, and slice the onions.
@@ -1387,9 +1396,9 @@ Ragout of Rabbit.
 
 _Ingredients_--1 rabbit.
                1 onion stuck with 6 cloves.
-               2†oz. of butter or dripping.
-               1†oz. of flour.
-               1Ω pint of water or stock.
+               2‡Ø∫. of butter or dripping.
+               1‡Ø∫. of flour.
+               1Ì†∞int of water or stock.
                Pepper and salt to taste.
 
 _Method._--Cut the rabbit into neat joints, and fry them in a stewpan in
@@ -1479,7 +1488,7 @@ Boil in stock or water, according to the directions given for boiling
 meat for three-quarters of an hour to one hour and a half, according to
 its age and size.
 
-Serve with white, egg, or _maÓtre d'hÙtel_ sauce poured over it.
+Serve with white, egg, or _maÓ¥≤e d'h‰¥•l_ sauce poured over it.
 
 
 Roast Fowl.
@@ -1526,11 +1535,11 @@ SAVOURY MEAT DISHES.
 
 Stewed Steak.
 
-_Ingredients_--1Ω†lb. of steak.
+_Ingredients_--1Ì†¨b. of steak.
                1 piece of carrot, turnip, onion, and celery.
                1 pint of water.
-               1†oz. of dripping.
-               1†oz. of flour.
+               1‡Ø∫. of dripping.
+               1‡Ø∫. of flour.
                Pepper and salt.
 
 _Method._--Cut all the fat from the steak.
@@ -1560,7 +1569,7 @@ For serving, put them in the middle of the steak.
 
 Stewed Brisket of Beef.
 
-_Ingredients_--5†lb. of beef.
+_Ingredients_--5‡¨¢. of beef.
                2 carrots.
                2 onions.
                2 turnips.
@@ -1597,7 +1606,7 @@ _Ingredients_--1 ox-cheek.
                1 sprig of parsley, thyme, and marjoram.
                2 bay leaves.
                2 quarts of water.
-               4†oz. of flour.
+               4‡Ø∫. of flour.
 
 _Method._--Wash the ox-cheek and cowheel, and cut them into neat
 pieces.
@@ -1619,7 +1628,7 @@ The bones can be used for soup.
 
 Mock Hare.
 
-_Ingredients_--4†lb. shin of beef.
+_Ingredients_--4‡¨¢. shin of beef.
                2 quarts of water.
                2 carrots.
                2 turnips.
@@ -1627,7 +1636,7 @@ _Ingredients_--4†lb. shin of beef.
                6 cloves.
                1 sprig of parsley, thyme, and marjoram.
                1 glass of port wine.
-               3†oz. of flour.
+               3‡Ø∫. of flour.
                Pepper and salt.
 
 _Method._--Put the beef into the water with the vegetables cut in
@@ -1650,9 +1659,9 @@ _Ingredients_--7 or 8 mutton cutlets.
                1 turnip.
                1 onion.
                1 stick of celery.
-               1†oz. of flour.
+               1‡Ø∫. of flour.
                Pepper and salt.
-               2†oz. of dripping.
+               2‡Ø∫. of dripping.
 
 _Method._--Fry the cutlets a nice brown in the dripping.
 
@@ -1671,9 +1680,9 @@ the gravy over.
 Sheep's Head.
 
 _Ingredients_--1 sheep's head.
-               1†oz. of butter or dripping.
+               1‡Ø∫. of butter or dripping.
                Pepper and salt.
-               1Ω†oz. of flour.
+               1Ì†Øz. of flour.
                A few drops of lemon juice.
 
 _Method._--See that the head has been properly prepared by the butcher,
@@ -1710,7 +1719,7 @@ Sheep's Head au gratin.
 
 _Ingredients_--1 sheep's head.
                2 tablespoonfuls of bread crumbs.
-               Ω†oz. of butter.
+               Ì†Øz. of butter.
                1 teaspoonful of chopped parsley.
                1 teaspoonful of dried and powdered herbs.
                Lemon juice.
@@ -1733,7 +1742,7 @@ Serve with the brain sauce given in the foregoing recipe.
 Liver and Bacon.
 
 _Ingredients_--1 sheep's liver.
-               1†lb. of fat bacon.
+               1‡¨¢. of fat bacon.
                1 pint of hot water.
                Some flour.
                Pepper and salt.
@@ -1760,8 +1769,8 @@ Put the bacon round it, and strain the gravy over it.
 
 Pigs' Fry, or Mock Goose.
 
-_Ingredients_--1Ω†lb. of pigs' fry.
-               3†lb. of potatoes.
+_Ingredients_--1Ì†¨b. of pigs' fry.
+               3‡¨¢. of potatoes.
                1 onion.
                1 apple.
                A little sage.
@@ -1802,10 +1811,10 @@ It may be served in the pie-dish, or on a hot dish.
 
 Mock Goose another way.
 
-_Ingredients_--1Ω†lb. of pigs' fry.
+_Ingredients_--1Ì†¨b. of pigs' fry.
                Some dried and powdered sage.
                Chopped apple and onion.
-               æ pint of cider.
+               Ó†∞int of cider.
                Pepper and salt.
 
 _Method._--Cut the fry in slices.
@@ -1824,10 +1833,10 @@ Make the cider boiling, and pour over the fry.
 
 Tripe and Onions.
 
-_Ingredients_--2†lb. of tripe.
+_Ingredients_--2‡¨¢. of tripe.
                3 good-sized onions.
-               2Ω pints of milk.
-               2†oz. of flour.
+               2Ì†∞ints of milk.
+               2‡Ø∫. of flour.
                Pepper and salt.
 
 _Method._--Put the tripe into cold water, and bring it to the boil; this
@@ -1855,7 +1864,7 @@ Tripe may be cooked more economically by substituting water for milk.
 
 Stewed Tripe.
 
-_Ingredients_--2†lb. of tripe.
+_Ingredients_--2‡¨¢. of tripe.
                1 quart of brown sauce (_see_ Sauces).
 
 _Method._--Blanch the tripe, as in the preceding recipe.
@@ -1903,9 +1912,9 @@ turning occasionally.
 
 Savoury Roast.
 
-_Ingredients_--1Ω†lb. of rump or beefsteak, cut thin.
+_Ingredients_--1Ì†¨b. of rump or beefsteak, cut thin.
                Some veal, or sage-and-onion, stuffing.
-               æ†oz. of flour.
+               Ó†Øz. of flour.
                1 cup of boiling water.
 
 _Method._--Lay the stuffing on the steak, roll it round it, and tie it
@@ -1946,7 +1955,7 @@ obtainable.
 
 Braised Breast of Veal.
 
-_Ingredients_--3 or 4†lb. of breast of veal.
+_Ingredients_--3 or 4‡¨¢. of breast of veal.
                Some veal stuffing.
                Some good second stock.
                Carrot, turnip, onion.
@@ -1979,10 +1988,10 @@ cooked separately.
 
 Toad-in-the-Hole.
 
-_Ingredients_--8†oz. of flour.
+_Ingredients_--8‡Ø∫. of flour.
                2 eggs.
                1 pint of milk.
-               1Ω†lb. of ox kidney.
+               1Ì†¨b. of ox kidney.
                A little salt.
 
 _Method._--Put the flour into a basin.
@@ -2003,9 +2012,9 @@ Bake from one and a quarter to one and a half hours.
 
 Irish Stew.
 
-_Ingredients_--2†lb. of potatoes.
-               1†lb. of scrag end of mutton.
-               Ω†lb. of onions.
+_Ingredients_--2‡¨¢. of potatoes.
+               1‡¨¢. of scrag end of mutton.
+               Ì†¨b. of onions.
                Pepper and salt.
 
 _Method._--Peel and slice the potatoes and onions, and cut the meat into
@@ -2023,12 +2032,12 @@ about one hour and a half.
 
 Sea Pie.
 
-_Ingredients_--2†lb. of steak.
+_Ingredients_--2‡¨¢. of steak.
                2 onions.
                1 carrot.
                1 small turnip.
-               æ†lb. of flour.
-               º†lb. of suet.
+               Ó†¨b. of flour.
+               Ï†¨b. of suet.
                1 teaspoonful of baking powder.
                Pepper and salt to taste.
                Cold water.
@@ -2071,8 +2080,8 @@ Gravy for the Heart.
 _Ingredients_--1 pint of stock.
                The trimmings from the heart.
                1 onion.
-               1†oz. of butter.
-               1†oz. of flour.
+               1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
                A little Harvey's sauce or catsup.
                A little burnt sugar, if necessary, for colouring.
 
@@ -2104,11 +2113,11 @@ boiled_, otherwise it will be indigestible, and the sauce will have a
 raw, pasty taste. A sauce is not ready when it _thickens_, but should be
 boiled for quite three minutes. Its consistency should depend on what it
 is to be used for. Ordinary sauces, served in a sauce tureen, should be
-fairly thick; the proportions taken should be 1†oz. of butter; æ†oz. of
-flour; Ω pint of milk. If the sauce is to be used to coat anything very
-thinly (new potatoes, for example), Ω†oz. of flour, instead of æ†oz.,
+fairly thick; the proportions taken should be 1‡Ø∫. of butter; Ó†Øz. of
+flour; Ì†∞int of milk. If the sauce is to be used to coat anything very
+thinly (new potatoes, for example), Ì†Øz. of flour, instead of Ó†Øz.,
 would be sufficient. If a sauce is required to entirely mask a small
-piece of fish, or chicken, &c., 1†oz. of flour should be used, with the
+piece of fish, or chicken, &c., 1‡Ø∫. of flour should be used, with the
 proportions of milk and butter already given. Every ingredient should be
 properly weighed or measured. Carelessness in this respect is a mark of
 ignorance, and _must_ occasion failures.
@@ -2130,9 +2139,9 @@ in boiling.
 
 English Melted Butter.
 
-_Ingredients_--1†oz. of butter.
-               æ†oz. of flour.
-               Ω pint of water.
+_Ingredients_--1‡Ø∫. of butter.
+               Ó†Øz. of flour.
+               Ì†∞int of water.
                Pepper and salt.
 
 _Method._--Melt the butter in a small stewpan.
@@ -2146,9 +2155,9 @@ Then add pepper and salt, and it is ready to serve.
 
 Plain White Sauce.
 
-_Ingredients_--1†oz. of butter.
-               æ†oz. of flour.
-               Ω pint of milk.
+_Ingredients_--1‡Ø∫. of butter.
+               Ó†Øz. of flour.
+               Ì†∞int of milk.
                A few drops of lemon juice.
                Pepper and salt.
 
@@ -2165,11 +2174,11 @@ Then add the lemon juice and seasoning.
 A little cream may also be added if desired.
 
 
-MaÓtre d'HÙtel Sauce.
+MaÓ¥≤e d'H‰¥•l Sauce.
 
-_Ingredients_--æ†oz. of butter.
-               Ω†oz. of flour.
-               Ω pint of milk.
+_Ingredients_--Ó†Øz. of butter.
+               Ì†Øz. of flour.
+               Ì†∞int of milk.
                A few drops of lemon juice.
                Pepper and salt.
                A teaspoonful of finely-chopped parsley.
@@ -2215,7 +2224,7 @@ the oil used.
 Tartare Sauce.
 
 _Ingredients_--2 yolks.
-               º pint of salad oil.
+               Ï†∞int of salad oil.
                2 tablespoonfuls of taragon vinegar.
                1 teaspoonful of finely-chopped parsley.
                A few capers, or a chopped gherkin.
@@ -2228,9 +2237,9 @@ is ready the parsley, capers, mustard, and seasoning.
 
 Egg Sauce.
 
-_Ingredients_--1†oz. of butter.
-               æ†oz. of flour.
-               Ω pint of milk.
+_Ingredients_--1‡Ø∫. of butter.
+               Ó†Øz. of flour.
+               Ì†∞int of milk.
                Lemon juice.
                Pepper and salt.
                1 or 2 hard-boiled eggs.
@@ -2243,14 +2252,14 @@ Add the milk, and stir and cook well.
 
 Then add the lemon juice, seasoning, and the chopped whites of the eggs.
 
-If a very thick sauce is required, take 1†oz. of flour. Cream may be
+If a very thick sauce is required, take 1‡Ø∫. of flour. Cream may be
 added if desired.
 
 
 Brown Sauce.
 
-_Ingredients_--2†oz. of butter.
-               1Ω†oz. of flour.
+_Ingredients_--2‡Ø∫. of butter.
+               1Ì†Øz. of flour.
                A small piece of carrot, turnip, and onion.
                A few button mushrooms.
                1 pint of good stock.
@@ -2270,13 +2279,13 @@ Strain through a tammy-cloth or fine strainer.
 
 Genoise Sauce.
 
-_Ingredients_--1†oz. of butter.
-               æ†oz. of flour.
-               1Ω gills of stock.
-               Ω wineglass of port.
+_Ingredients_--1‡Ø∫. of butter.
+               Ó†Øz. of flour.
+               1Ì†ßills of stock.
+               Ì†∑ineglass of port.
                A tiny piece of carrot, turnip, and onion.
-               Ω teaspoonful of anchovy sauce.
-               Ω teaspoonful of Harvey's sauce.
+               Ì†¥easpoonful of anchovy sauce.
+               Ì†¥easpoonful of Harvey's sauce.
                Pepper and salt.
 
 _Method._--Melt the butter in a small stewpan, and fry the vegetables in
@@ -2291,12 +2300,12 @@ Then add the wine and other ingredients,
 Stir until it boils again, and then strain it.
 
 
-BÈchamel Sauce.
+BÈ£®amel Sauce.
 
-_Ingredients_--2†oz. of butter.
-               1Ω†oz. of flour.
+_Ingredients_--2‡Ø∫. of butter.
+               1Ì†Øz. of flour.
                1 pint of good white stock.
-               º pint of cream.
+               Ï†∞int of cream.
                A few drops of lemon juice.
                Pepper and salt.
 
@@ -2320,7 +2329,7 @@ mushrooms should be boiled in it.
 
 Sauce Hollandaise.
 
-_Ingredients_--º pint of plain white sauce.
+_Ingredients_--Ï†∞int of plain white sauce.
                The yolks of 4 eggs.
                A little cayenne pepper and salt.
                A few drops of lemon juice, or taragon vinegar.
@@ -2337,10 +2346,10 @@ Lobster Sauce.
 
 _Ingredients_--1 small lobster.
                Some spawn.
-               1Ω†oz. of butter.
-               1†oz. of flour.
-               Ω pint of milk.
-               Ω gill of cream.
+               1Ì†Øz. of butter.
+               1‡Ø∫. of flour.
+               Ì†∞int of milk.
+               Ì†ßill of cream.
                A few drops of lemon juice.
                Pepper and salt.
 
@@ -2349,7 +2358,7 @@ cut it in small pieces.
 
 Then boil the shell, broken small, in the milk.
 
-Rub the spawn with º†oz. butter through a hair sieve.
+Rub the spawn with Ï†Øz. butter through a hair sieve.
 
 Melt the remaining butter in a small stewpan.
 
@@ -2367,10 +2376,10 @@ juice, pepper and salt, and lobster.
 Lobster Sauce (a plainer Receipt).
 
 _Ingredients_--Part of a tin of lobster.
-               1†oz. of butter.
-               1†oz. of flour.
-               æ pint of milk.
-               A few drops of lemon juice, or Ω a teaspoonful of vinegar.
+               1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
+               Ó†∞int of milk.
+               A few drops of lemon juice, or Ì†° teaspoonful of vinegar.
                Pepper and salt.
 
 _Method._--Cut up the lobster.
@@ -2393,11 +2402,11 @@ substituting the shrimps for the lobster.
 
 Oyster Sauce.
 
-_Ingredients_--1†oz. of butter.
-               1†oz. of flour.
-               Ω pint of milk.
+_Ingredients_--1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
+               Ì†∞int of milk.
                1 dozen of oysters.
-               Ω gill of cream.
+               Ì†ßill of cream.
                A few drops of lemon juice.
                Salt, pepper, and a little cayenne.
 
@@ -2424,8 +2433,8 @@ Lastly, add the oysters, pepper, salt, and lemon juice.
 
 French Sauce.
 
-_Ingredients_--1†oz. of butter.
-               Ω†oz. of flour.
+_Ingredients_--1‡Ø∫. of butter.
+               Ì†Øz. of flour.
                1 gill of milk.
                1 gill of cream.
                The yolk of one egg.
@@ -2445,13 +2454,13 @@ Add pepper and salt to taste.
 
 Celery Sauce.
 
-_Ingredients_--1†oz. of butter.
-               1†oz. of flour.
+_Ingredients_--1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
                2 tablespoonfuls of cream.
-               æ pint of white stock or milk.
+               Ó†∞int of white stock or milk.
                1 head of celery.
 
-_Method._--Boil one head of celery in æ of a pint of white stock or
+_Method._--Boil one head of celery in Ó†Øf a pint of white stock or
 milk.
 
 When tender, strain it from the liquor and rub it through a hair sieve.
@@ -2470,8 +2479,8 @@ Add pepper and salt to taste.
 Tomato Sauce.
 
 _Ingredients_--6 ripe tomatoes.
-               º†lb. of bacon.
-               1†oz. of flour.
+               Ï†¨b. of bacon.
+               1‡Ø∫. of flour.
                A piece of carrot, turnip, and onion.
                A sprig of parsley.
                Thyme, marjoram, and a bay leaf.
@@ -2493,7 +2502,7 @@ Add the vinegar and seasoning, and make the sauce hot.
 Onion Sauce.
 
 _Ingredients_--4 or 5 fair-sized onions.
-               Ω pint of plain white sauce or melted butter (1st recipe).
+               Ì†∞int of plain white sauce or melted butter (1st recipe).
 
 _Method._--First, blanch the onions by putting them in cold water and
 bringing it to the boil.
@@ -2508,7 +2517,7 @@ Chop them finely and add them to the sauce or melted butter.
 
 Soubise Sauce.
 
-_Ingredients_--Ω pint of plain white sauce.
+_Ingredients_--Ì†∞int of plain white sauce.
                2 tablespoonfuls of cream.
                4 or 5 onions.
 
@@ -2523,10 +2532,10 @@ pulped onion.
 
 Bread Sauce.
 
-_Ingredients_--2†oz. of bread crumbs.
-               Ω pint of milk.
+_Ingredients_--2‡Ø∫. of bread crumbs.
+               Ì†∞int of milk.
                6 peppercorns.
-               2 tablespoonfuls of cream, or Ω†oz. of butter.
+               2 tablespoonfuls of cream, or Ì†Øz. of butter.
                A small piece of onion.
 
 _Method._--Steep the onion and peppercorns in the milk, and put the milk
@@ -2542,10 +2551,10 @@ Salt must be added to taste; also a little cayenne.
 
 Economical Family Sauce.
 
-_Ingredients_--º†lb. of flour.
+_Ingredients_--Ï†¨b. of flour.
                1 pint of milk.
                1 pint of water.
-               1Ω†oz. butter.
+               1Ì†Øz. butter.
 
 _Method._--Mix the flour very smoothly with a little water.
 
@@ -2568,8 +2577,8 @@ instead of milk.
 
 Wine Sauce.
 
-_Ingredients_--1†oz. of lump sugar.
-               º pint of water.
+_Ingredients_--1‡Ø∫. of lump sugar.
+               Ï†∞int of water.
                A wineglass of sherry.
                A few drops of cochineal.
                A dessertspoonful of jam.
@@ -2583,11 +2592,11 @@ Then add the sherry and cochineal, and strain.
 
 Piquant Sauce.
 
-_Ingredients_--Ω pint of brown sauce.
+_Ingredients_--Ì†∞int of brown sauce.
                1 tablespoonful of capers.
                1 tablespoonful of chopped gherkin.
                1 tablespoonful of very finely chopped shalot.
-               º pint of vinegar.
+               Ï†∞int of vinegar.
                Pepper and salt.
 
 _Method._--Simmer the shalot, capers, and gherkin, in the vinegar until
@@ -2598,7 +2607,7 @@ Pour in the sauce, and let it boil up.
 Season to taste.
 
 
-Sauce RÈforme.
+Sauce RÈ¶Ørme.
 
 _Ingredients_--1 pint of brown sauce.
                1 wineglass of port wine.
@@ -2623,7 +2632,7 @@ Sweet Sauce.
 _Ingredients_--1 teaspoonful of arrowroot.
                Juice of half a lemon and a little rind.
                2 tablespoonfuls of castor sugar.
-               Ω pint of water.
+               Ì†∞int of water.
 
 _Method._--Put the water with the lemon-rind and sugar into a saucepan
 to boil.
@@ -2651,7 +2660,7 @@ wineglass of brandy.
 
 A Nice Sweet Sauce.
 
-_Ingredients_--Ω pint of plain white sauce or melted butter (omitting the
+_Ingredients_--Ì†∞int of plain white sauce or melted butter (omitting the
                  seasoning).
                1 wineglass of sherry or brandy.
                2 dessertspoonfuls of castor sugar.
@@ -2662,8 +2671,8 @@ _Method._--Add the wine and sugar to the sauce, and it is ready for use.
 Jam Sauce.
 
 _Ingredients_--3 tablespoonfuls of red jam.
-               Ω pint of water.
-               1†oz. of lump sugar.
+               Ì†∞int of water.
+               1‡Ø∫. of lump sugar.
                Juice of half a lemon.
 
 _Method._--Boil the jam, sugar, and water together for three minutes.
@@ -2676,9 +2685,9 @@ The lemon may be omitted if the flavour is not liked.
 Apple Sauce, No. 1.
 
 _Ingredients_--6 good-sized apples.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                1 tablespoonful of moist sugar, or more, according to taste.
-               Ω gill of water.
+               Ì†ßill of water.
 
 _Method._--Wash the apples and slice them, but do not peel or core them.
 
@@ -2695,9 +2704,9 @@ The hair sieve keeps back the rind and pips.
 Apple Sauce, No. 2.
 
 _Ingredients_--6 large apples.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                1 tablespoonful or more of moist sugar.
-               Ω gill of water.
+               Ì†ßill of water.
 
 _Method._--Peel, core, and slice the apples.
 
@@ -2710,7 +2719,7 @@ Mint Sauce.
 
 _Ingredients_--3 tablespoonfuls of finely-chopped fresh mint.
                1 tablespoonful of sugar.
-               º pint of vinegar.
+               Ï†∞int of vinegar.
 
 _Method._--Mix all together, and let the sauce stand for an hour before
 serving.
@@ -2719,9 +2728,9 @@ serving.
 Horse-radish Sauce.
 
 _Ingredients_--1 stick of horse-radish.
-               Ω gill of cream.
+               Ì†ßill of cream.
                1 tablespoonful of vinegar.
-               Ω gill of milk.
+               Ì†ßill of milk.
                1 teaspoonful of ready-made mustard.
                1 teaspoonful of castor sugar.
                Pepper and salt.
@@ -2735,7 +2744,7 @@ But it is not so good.
 
 Gravy for Made Dishes.
 
-_Ingredients_--1†lb. of gravy beef.
+_Ingredients_--1‡¨¢. of gravy beef.
                1 quart of water.
                A piece of onion, carrot, and turnip.
                1 sprig of parsley.
@@ -2774,9 +2783,9 @@ Glaze is used for enriching gravies and soups, and for glazing meat.
 Cheap Glaze for Meat.
 
 _Ingredients_--3 teaspoonfuls of Liebig's Extract of Meat.
-               Ω†oz. of Nelson's or Swinborne's Gelatine, or isinglass.
+               Ì†Øz. of Nelson's or Swinborne's Gelatine, or isinglass.
                Pepper and salt.
-               Ω pint of cold water.
+               Ì†∞int of cold water.
 
 _Method._--Soak the gelatine in the water for three-quarters of an hour.
 
@@ -2787,10 +2796,10 @@ Stir and boil until reduced to about a quarter of a pint.
 This glaze can only be used for glazing meat.
 
 
-BÈarnaise Sauce.
+BÈ°≤naise Sauce.
 
 _Ingredients_--1 finely-chopped shalot.
-               Ω gill of white sauce.
+               Ì†ßill of white sauce.
                1 tablespoonful of taragon vinegar.
                The yolks of 4 eggs.
                1 dessertspoonful of finely-chopped parsley.
@@ -2811,7 +2820,7 @@ BREAKFAST DISHES AND BEVERAGES.
 
 Oatmeal Porridge.
 
-_Ingredients_--Ω†lb. of coarse oatmeal.
+_Ingredients_--Ì†¨b. of coarse oatmeal.
                1 quart of water.
 
 _Method._--Put the water on to boil.
@@ -2944,7 +2953,7 @@ them a little pepper and salt.
 Stewed Kidneys.
 
 _Ingredients_--2 or 3 kidneys.
-               Ω pint of nice gravy.
+               Ì†∞int of nice gravy.
                1 dessertspoonful of flour.
                Pepper and salt to taste.
                Lemon juice.
@@ -2964,7 +2973,7 @@ Serve on a piece of toast, and pour the gravy over.
 Stuffed Kidneys.
 
 _Ingredients_--3 or 4 kidneys.
-               Ω†oz. of butter.
+               Ì†Øz. of butter.
                Half a shalot, chopped finely.
                1 dessertspoonful of parsley.
                1 tablespoonful of bread crumbs.
@@ -2984,10 +2993,10 @@ Lay a little of the stuffing in each kidney and fold it over.
 Serve very hot.
 
 
-Kidneys ‡ la Tartare.
+Kidneys ‡†¨a Tartare.
 
 _Ingredients_--A few kidneys.
-               Ω pint of Tartare sauce.
+               Ì†∞int of Tartare sauce.
 
 _Method._--Split the kidneys open, and toast or broil them nicely.
 
@@ -3077,7 +3086,7 @@ Fill the croustard cases and serve immediately: they should be placed on
 a folded napkin, and garnished with parsley.
 
 
-Mince ‡ la Reine.
+Mince ‡†¨a Reine.
 
 _Ingredients_--1 dozen mushrooms.
                Some slices of cold meat.
@@ -3214,7 +3223,7 @@ Put them into a brisk oven until set.
 Eggs sur le Plat.
 
 _Ingredients_--4 eggs.
-               Ω†oz. of butter.
+               Ì†Øz. of butter.
                Pepper and salt.
 
 _Method._--Take a dish that will stand the heat of the oven; melt the
@@ -3231,7 +3240,7 @@ Buttered Eggs.
 
 _Ingredients_--1 piece of fried or toasted bread.
                1 tablespoonful of gravy.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                Pepper and salt.
                4 eggs.
 
@@ -3247,7 +3256,7 @@ Spread on the toast, and serve very quickly.
 
 Egg Croustards.
 
-_Ingredients_--Some slices of stale bread, about æ inch in thickness.
+_Ingredients_--Some slices of stale bread, about Ó†©nch in thickness.
                Some eggs.
                Some nicely-flavoured gravy.
 
@@ -3278,7 +3287,7 @@ Eggs and Anchovy.
 _Ingredients_--2 eggs.
                1 slice of fried or toasted bread.
                A little anchovy paste.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                Pepper and salt to taste.
 
 _Method._--Let the fried or toasted bread be quite hot (fried bread is
@@ -3389,7 +3398,7 @@ proportion of two ounces of chicory to one pound of coffee.
 
 Coffee (Soyer's method.)
 
-_Ingredients_--3†oz. of coffee.
+_Ingredients_--3‡Ø∫. of coffee.
                1 pint of boiling water.
 
 _Method._--Put the coffee into a clean stewpan.
@@ -3405,8 +3414,8 @@ Strain through thick muslin.
 
 Coffee (another method).
 
-_Ingredients_--3†oz. of coffee.
-               1Ω pint of boiling water.
+_Ingredients_--3‡Ø∫. of coffee.
+               1Ì†∞int of boiling water.
 
 _Method._--Make a jug hot.
 
@@ -3417,7 +3426,7 @@ Let it stand in a hot place for half an hour.
 Then strain through thick muslin.
 
 
-CafÈ au Lait.
+CafÈ†°u Lait.
 
 Half fill a cup with nicely-made coffee, and pour in the same quantity
 of boiled milk.
@@ -3425,7 +3434,7 @@ of boiled milk.
 
 Coffee (economical method).
 
-_Ingredients_--æ†lb. of coffee.
+_Ingredients_--Ó†¨b. of coffee.
                2 quarts of cold water.
 
 _Method._--Make a bag of rather thick muslin, and put the coffee into
@@ -3445,8 +3454,8 @@ required.
 
 Coffee made in a Percolator.
 
-_Ingredients_--3†oz. of coffee.
-               1Ω pint of boiling water.
+_Ingredients_--3‡Ø∫. of coffee.
+               1Ì†∞int of boiling water.
 
 _Method._--Make the percolator hot.
 
@@ -3492,7 +3501,7 @@ Hash.
 
 _Ingredients_--The remains of cold meat.
                Some nice stock or gravy.
-               Flour, in the proportion of Ω†oz. to every Ω pint of gravy.
+               Flour, in the proportion of Ì†Øz. to every Ì†∞int of gravy.
                Pepper and salt, and, if liked, a little catsup, or Harvey's
                  sauce.
                Toasted or fried bread.
@@ -3558,7 +3567,7 @@ _Ingredients_--Some scraps of cold meat.
                  dessertspoonful of each to every half pint of gravy.
                1 small onion.
                1 small apple.
-               Ω†oz. of dripping.
+               Ì†Øz. of dripping.
                A few drops of lemon juice.
                Salt.
                Some boiled rice.
@@ -3662,7 +3671,7 @@ Egg and bread-crumb them, and fry them in hot fat (_see_ French Frying).
 Dish on a folded napkin, and garnish with fried parsley.
 
 
-Cold Meat with PurÈe of Tomatoes.
+Cold Meat with PurÈ•†of Tomatoes.
 
 _Ingredients_--Slices of cold meat.
                4 or 5 tomatoes.
@@ -3682,7 +3691,7 @@ sieve.
 
 Add the vinegar and pepper and salt.
 
-Make the _purÈe_ hot in a saucepan, and lay the pieces of meat in it to
+Make the _purÈ•ü hot in a saucepan, and lay the pieces of meat in it to
 warm through.
 
 Serve in a hot dish, with a border of boiled rice or macaroni.
@@ -3760,11 +3769,11 @@ over (_see_ Sauces).
 
 Beef and Mushrooms.
 
-_Ingredients_--1Ω†lb. cold roast beef.
+_Ingredients_--1Ì†¨b. cold roast beef.
                1 dozen mushrooms.
                1 shalot or small onion, very finely chopped.
-               2†oz. of butter.
-               Ω pint of beef gravy.
+               2‡Ø∫. of butter.
+               Ì†∞int of beef gravy.
                1 dessertspoonful of vinegar.
                Pepper and salt to taste.
 
@@ -3776,7 +3785,7 @@ of a pie-dish.
 
 Place some of the mushrooms on the top of it.
 
-Put 1†oz. of butter, in pieces, about them.
+Put 1‡Ø∫. of butter, in pieces, about them.
 
 Then put in the remaining pieces of beef, and the mushrooms and butter
 in the same way.
@@ -3822,7 +3831,7 @@ _Ingredients_--Some cold roast beef.
                Pepper and salt.
                Some mashed potatoes.
 
-_Method._--Take slices of cold beef, and cut them into strips 1Ω inches
+_Method._--Take slices of cold beef, and cut them into strips 1Ì†©nches
 in width.
 
 Lay on each a little veal stuffing; roll them round it, and tie them
@@ -3838,14 +3847,14 @@ Thicken the gravy with a little flour, and pour it over them.
 
 
 
-ENTR…ES.
+ENTR…ÖS.
 
 
 Quenelles of Veal.
 
-_Ingredients_--1†lb. of fillet of veal.
-               1†oz. of butter.
-               2†oz. of flour.
+_Ingredients_--1‡¨¢. of fillet of veal.
+               1‡Ø∫. of butter.
+               2‡Ø∫. of flour.
                1 gill of water.
                A few drops of lemon juice.
                2 eggs.
@@ -3865,7 +3874,7 @@ Then rub through a wire sieve.
 Shape the mixture somewhat like eggs with dessertspoons and a knife
 dipped in hot water.
 
-Poach them gently in a greased frying-pan, or _sautÈ_ pan, for ten
+Poach them gently in a greased frying-pan, or _sautÈü†pan, for ten
 minutes.
 
 Dish them on a border of mashed potatoes, and pour white sauce over
@@ -3877,12 +3886,12 @@ Cooked green peas, mushrooms, or other vegetables, may be placed in the
 centre.
 
 
-Mutton Cutlets ‡ la MacÈdoine.
+Mutton Cutlets ‡†¨a MacÈ§Øine.
 
 _Ingredients_--Part of best end of neck of mutton.
                1 egg.
                Bread-crumbs.
-               3†oz. of clarified butter.
+               3‡Ø∫. of clarified butter.
                Seasoning.
 
 _Method._--Saw off the chine bone, and the ends of the rib bones,
@@ -3893,19 +3902,19 @@ about half an inch in thickness.
 
 Trim them, and leave half an inch of the rib bone bare.
 
-Season, egg and bread-crumb, and fry in clarified butter in a _sautÈ_
+Season, egg and bread-crumb, and fry in clarified butter in a _sautÈüç
 pan for five or seven minutes.
 
-Dish on a border of mashed potatoes, put a _macÈdoine_ of vegetables in
+Dish on a border of mashed potatoes, put a _macÈ§Øine_ of vegetables in
 the centre, and pour brown sauce round them.
 
 
-Mutton Cutlets ‡ la Rachel.
+Mutton Cutlets ‡†¨a Rachel.
 
 _Ingredients_--Some mutton cutlets.
                _Foie gras._
                Brown sauce.
-               _MacÈdoine_ of vegetables.
+               _MacÈ§Øine_ of vegetables.
                Mashed potatoes.
                Truffle.
                Pigs' caul.
@@ -3921,7 +3930,7 @@ hour.
 
 Dish them on a border of mashed potatoes.
 
-Pour brown sauce round them, and put a _macÈdoine_ of vegetables in the
+Pour brown sauce round them, and put a _macÈ§Øine_ of vegetables in the
 middle.
 
 
@@ -3934,7 +3943,7 @@ _Method._--Boil the mutton until the bones can be easily removed.
 
 Press it, and, when cold, cut it into cutlets or other shapes.
 
-Egg and bread-crumb twice, and fry in hot fat (345∞) in a frying-basket.
+Egg and bread-crumb twice, and fry in hot fat (345‡©†in a frying-basket.
 
 Dish on a border of mashed potatoes, and pour brown sauce round them.
 
@@ -3943,12 +3952,12 @@ Any cooked vegetables can be put in the centre for a garnish.
 
 Chicken Croquettes.
 
-_Ingredients_--2†oz. of cooked chicken.
-               1†oz. of cooked ham.
-               1†oz. of butter.
-               æ†oz. of flour.
+_Ingredients_--2‡Ø∫. of cooked chicken.
+               1‡Ø∫. of cooked ham.
+               1‡Ø∫. of butter.
+               Ó†Øz. of flour.
                1 gill of stock.
-               Ω gill of cream.
+               Ì†ßill of cream.
                6 button mushrooms.
                A few drops of lemon juice.
                Seasoning.
@@ -3979,10 +3988,10 @@ frying-basket in hot fat (_see_ French Frying).
 Garnish with fried parsley.
 
 
-Veal Cutlets ‡ la Talleyrand.
+Veal Cutlets ‡†¨a Talleyrand.
 
 _Ingredients_--7 or 8 veal cutlets.
-               1Ω†oz. butter.
+               1Ì†Øz. butter.
                3 button mushrooms, chopped.
                1 small shalot, chopped.
                A teaspoonful of chopped parsley.
@@ -4014,28 +4023,28 @@ Pour the sauce over them, and put a few nicely cooked peas, or other
 appropriate vegetables, in the middle.
 
 
-Fillets of Beef ‡ la BÈarnaise.
+Fillets of Beef ‡†¨a BÈ°≤naise.
 
 _Ingredients_--7 or 8 nice little fillets.
-               1Ω†oz. of butter.
+               1Ì†Øz. of butter.
                Mashed potatoes.
-               Ω pint of brown sauce (_see_ Sauces), or good gravy.
-               Some good _BÈarnaise_ sauce (_see_ Sauces).
+               Ì†∞int of brown sauce (_see_ Sauces), or good gravy.
+               Some good _BÈ°≤naise_ sauce (_see_ Sauces).
 
 _Method._--Fry the fillets in the butter.
 
 Dish them on a border of mashed potatoes.
 
-Pour brown sauce or gravy round them, and put the _BÈarnaise_ sauce in
+Pour brown sauce or gravy round them, and put the _BÈ°≤naise_ sauce in
 the middle of the fillets.
 
 
-Rabbits ‡ la Tartare.
+Rabbits ‡†¨a Tartare.
 
 _Ingredients_--1 rabbit.
                Some browned bread-crumbs.
                1 egg.
-               Ω pint of Tartare sauce (_see_ Sauces).
+               Ì†∞int of Tartare sauce (_see_ Sauces).
 
 _Method._--Cut the rabbit into joints.
 
@@ -4050,12 +4059,12 @@ Bake for half an hour, being careful not to dry them up too much.
 Pour the sauce on a dish and pile up the rabbit in the middle of it.
 
 
-Chicken ‡ la Tartare.
+Chicken ‡†¨a Tartare.
 
 Proceed as in the foregoing recipe, substituting a chicken for a rabbit.
 
 
-Pigeons Stewed ‡ l'Italienne.
+Pigeons Stewed ‡†¨'Italienne.
 
 _Ingredients_--3 pigeons.
                1 piece of carrot, turnip, and onion.
@@ -4064,10 +4073,10 @@ _Ingredients_--3 pigeons.
                1 bay leaf.
                If possible, 1 or 2 tomatoes.
                1 wineglass of sherry.
-               2†oz. of butter.
-               1†oz. of flour.
+               2‡Ø∫. of butter.
+               1‡Ø∫. of flour.
                Some mashed potatoes.
-               A _macÈdoine_ of vegetables.
+               A _macÈ§Øine_ of vegetables.
 
 _Method._--Have the pigeons trussed as for stewing.
 
@@ -4080,17 +4089,17 @@ sherry. Put in the pigeons and stew gently until they are tender.
 
 Dish them in a circle on a border of mashed potatoes.
 
-Strain the gravy over, and put a _macÈdoine_ of vegetables in the
+Strain the gravy over, and put a _macÈ§Øine_ of vegetables in the
 centre.
 
 
-Croustards ‡ la Reine.
+Croustards ‡†¨a Reine.
 
 _Ingredients_--Some puff pastry.
                A little _quenelle_ meat (_see_ Quenelles of Veal).
                1 gill of white sauce.
-               3†oz. of cold chicken minced.
-               1†oz. of cooked ham minced.
+               3‡Ø∫. of cold chicken minced.
+               1‡Ø∫. of cooked ham minced.
                2 or 3 button mushrooms finely chopped.
                2 tablespoonfuls of cream.
                A little thick white sauce.
@@ -4112,12 +4121,12 @@ When dishing them up, spread a little thick white sauce on the top of
 each, and ornament them with ham and truffle.
 
 
-Sweetbreads ‡ la BÈchamel.
+Sweetbreads ‡†¨a BÈ£®amel.
 
 _Ingredients_--1 dozen lambs' heart sweetbreads.
-               1º pint of veal stock.
-               1†oz. of butter.
-               1†oz. of flour.
+               1Ï†∞int of veal stock.
+               1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
                A small piece of carrot, turnip, and onion.
                1 sprig of parsley.
                2 tablespoonfuls of cream.
@@ -4208,12 +4217,12 @@ Lambs' sweetbreads can be cooked the same way. One dozen will be wanted
 for a small dish.
 
 
-Sweetbreads ‡ la Parisienne.
+Sweetbreads ‡†¨a Parisienne.
 
 _Ingredients_--1 dozen lambs' heart sweetbreads.
                1 pint of good second stock.
-               2†oz. of butter.
-               1†oz. of flour.
+               2‡Ø∫. of butter.
+               1‡Ø∫. of flour.
                A piece of carrot, turnip, and onion.
                1 sprig of parsley.
                1 dessertspoonful of mushroom catsup.
@@ -4250,7 +4259,7 @@ _Ingredients_--The remains of dressed sweetbreads.
                1 teaspoonful of flour.
                A slice of cooked ham.
                A few drops of lemon juice.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                Pepper and salt.
 
 _Method._--Mince the sweetbreads, mushrooms, and ham.
@@ -4273,10 +4282,10 @@ Fried Sweetbread.
 
 _Ingredients_--1 dozen lambs' heart sweetbreads.
                1 pint of good stock.
-               1†oz. of butter.
-               1†oz. of flour.
+               1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
                A few drops of lemon juice.
-               If liked, Ω wineglass of sherry.
+               If liked, Ì†∑ineglass of sherry.
                Eggs and bread-crumbs.
                Some mashed potatoes and green peas.
 
@@ -4309,11 +4318,11 @@ in neat slices before frying.
 
 Cutlets of Veal with Tomato Sauce.
 
-_Ingredients_--2†lb. of fillet of veal.
-               2 or 3†oz. of butter, or some of the fat skimmed from the
+_Ingredients_--2‡¨¢. of fillet of veal.
+               2 or 3‡Ø∫. of butter, or some of the fat skimmed from the
                  stock-pot.
                1 pint of tomato sauce.
-               º†lb. macaroni, nicely stewed in milk and seasoned with
+               Ï†¨b. macaroni, nicely stewed in milk and seasoned with
                  Parmesan cheese.
                Some mashed potatoes.
                1 uncooked tomato.
@@ -4331,11 +4340,11 @@ uncooked tomato.
 
 Beef Olives.
 
-_Ingredients_--1Ω†lb. of thick beefsteak.
+_Ingredients_--1Ì†¨b. of thick beefsteak.
                Some veal stuffing.
-               1Ω pint of stock.
-               1†oz. of butter.
-               1†oz. of flour.
+               1Ì†∞int of stock.
+               1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
                A few drops of lemon juice.
                Pepper and salt.
                Some mashed potatoes.
@@ -4361,11 +4370,11 @@ Cook the flour well, and then add the lemon juice and seasoning.
 Strain the sauce over the olives, and put the vegetables in the centre.
 
 
-Veal ‡ la BÈchamel.
+Veal ‡†¨a BÈ£®amel.
 
-_Ingredients_--1†lb. of cold cooked veal.
-               º†lb. of button mushrooms.
-               Ω pint of _BÈchamel_ sauce.
+_Ingredients_--1‡¨¢. of cold cooked veal.
+               Ï†¨b. of button mushrooms.
+               Ì†∞int of _BÈ£®amel_ sauce.
                The yolks of 2 eggs.
                Some fried sippets of bread.
 
@@ -4386,7 +4395,7 @@ Serve garnished with fried sippets of bread.
 
 Grenadines of Veal.
 
-_Ingredients_--2†lb. of veal.
+_Ingredients_--2‡¨¢. of veal.
                Some larding bacon.
                Some good second stock.
                1 piece of carrot, turnip, onion.
@@ -4415,10 +4424,10 @@ Pour a little glaze over each, and put the green peas in the middle.
 
 Mayonnaise of Fowl.
 
-Cold EntrÈe for Suppers.
+Cold EntrÈ•†for Suppers.
 
 _Ingredients_--2 fowls.
-               Ω pint of _mayonnaise_ sauce.
+               Ì†∞int of _mayonnaise_ sauce.
                A cucumber.
                4 hard-boiled eggs.
                1 pint of aspic jelly.
@@ -4438,11 +4447,11 @@ chopped aspic.
 
 Veal Cutlets.
 
-_Ingredients_--2†lb. of veal cutlet.
+_Ingredients_--2‡¨¢. of veal cutlet.
                Egg and bread-crumbs.
-               3†oz. of clarified butter.
-               Ω†oz. of flour.
-               Ω pint of nice stock.
+               3‡Ø∫. of clarified butter.
+               Ì†Øz. of flour.
+               Ì†∞int of nice stock.
                Some mashed potatoes.
 
 _Method._--Beat the cutlet well to break the fibre of the meat, and then
@@ -4469,14 +4478,14 @@ To cook the bacon, cut it in thin slices; roll them, and put them on a
 skewer, they may be either toasted or baked.
 
 
-Veal Cutlets ‡ l'Italienne.
+Veal Cutlets ‡†¨'Italienne.
 
-_Ingredients_--1Ω†lb. of fillet of veal.
+_Ingredients_--1Ì†¨b. of fillet of veal.
                Cut into neat cutlets.
-               2†oz. of butter.
+               2‡Ø∫. of butter.
                Egg and bread-crumbs.
                Some carrot and turnip, cut in fancy shapes and boiled.
-               Ω pint of Italian sauce.
+               Ì†∞int of Italian sauce.
 
 _Method._--Egg and bread-crumb the cutlets and fry them in the butter.
 
@@ -4491,7 +4500,7 @@ Fillets of Chicken.
 
 _Ingredients_--Some little fillets of chicken cut from the breast.
                Some streaky bacon.
-               Ω pint of _BÈchamel_ sauce, made with white stock.
+               Ì†∞int of _BÈ£®amel_ sauce, made with white stock.
                Some mashed potatoes.
 
 _Method._--Lay the fillet on a greased baking-tin.
@@ -4508,15 +4517,15 @@ To cook the bacon, cut it into very thin strips and roll them, run a
 skewer through, and toast them before the fire.
 
 
-Chicken ‡ la Marengo.
+Chicken ‡†¨a Marengo.
 
 _Ingredients_--1 chicken.
-               1Ω pint of second stock.
+               1Ì†∞int of second stock.
                3 tomatoes.
                1 piece of carrot, turnip, and onion.
                1 sprig of parsley, thyme, marjoram.
-               2†oz. of butter.
-               1†oz. of flour.
+               2‡Ø∫. of butter.
+               1‡Ø∫. of flour.
                A few drops of lemon juice.
 
 _Method._--Cut the chicken into neat joints and fry them in the butter.
@@ -4531,15 +4540,15 @@ Then put in the chicken and the tomato, sliced.
 
 Simmer for about thirty minutes, until the chicken is quite tender.
 
-Then put the chicken on to an _entrÈe_ dish.
+Then put the chicken on to an _entrÈ•ü dish.
 
 Add some lemon juice to the gravy, and strain over it.
 
 
-Chicken ‡ la Cardinal.
+Chicken ‡†¨a Cardinal.
 
 _Ingredients_--1 chicken.
-               1Ω pint of _BÈchamel_ sauce.
+               1Ì†∞int of _BÈ£®amel_ sauce.
                4 ripe tomatoes.
 
 _Method._--Cut the chicken into joints and put them in a stewpan with
@@ -4547,7 +4556,7 @@ the sauce and tomatoes, sliced.
 
 Simmer gently until the chicken is quite tender.
 
-Then place them on a hot _entrÈe_ dish and strain the sauce over them.
+Then place them on a hot _entrÈ•ü dish and strain the sauce over them.
 
 
 Kidneys and Mushrooms.
@@ -4555,8 +4564,8 @@ Kidneys and Mushrooms.
 _Ingredients_--2 dozen medium sized mushrooms.
                6 sheep's kidneys.
                1 pint of second stock.
-               1†oz. of butter.
-               1†oz. of flour.
+               1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
                2 tablespoonfuls of cream.
                A few drops of lemon juice.
 
@@ -4579,9 +4588,9 @@ Curried Rabbit.
 _Ingredients_--1 apple.
                1 onion.
                2 dessertspoonfuls of curry powder.
-               1Ω pint of second stock.
+               1Ì†∞int of second stock.
                2 tablespoonfuls of cream.
-               2†oz. of butter.
+               2‡Ø∫. of butter.
                2 dessertspoonfuls of flour.
                Salt.
                A few drops of lemon juice.
@@ -4616,37 +4625,37 @@ Make according to the directions in the preceding recipe, using white
 stock or boiled milk.
 
 
-Mutton Cutlets ‡ la Milanaise.
+Mutton Cutlets ‡†¨a Milanaise.
 
 _Ingredients_--7 or more mutton cutlets.
                2 eggs, white bread-crumbs.
-               3†oz. Parmesan cheese, grated.
+               3‡Ø∫. Parmesan cheese, grated.
                A little boiled macaroni.
-               Ω pint brown sauce.
+               Ì†∞int brown sauce.
                Some mashed potatoes.
-               2†oz. clarified butter, or the fat skimming of the
+               2‡Ø∫. clarified butter, or the fat skimming of the
                  stock-pot.
 
 _Method._--Trim the cutlets neatly.
 
-Brush them with egg and cover them with bread-crumbs mixed with 2†oz. of
+Brush them with egg and cover them with bread-crumbs mixed with 2‡Ø∫. of
 the grated cheese.
 
 Fry them for about five minutes in a cutlet pan.
 
 Dish them on a border of mashed potatoes and put some nicely-cooked
-macaroni in the centre with 1†oz. of grated cheese.
+macaroni in the centre with 1‡Ø∫. of grated cheese.
 
 Pour the brown sauce round them and serve very hot.
 
 
 Chaud-froid Chicken.
 
-Cold EntrÈe for Suppers and Luncheons.
+Cold EntrÈ•†for Suppers and Luncheons.
 
 _Ingredients_--The best joints of 2 chickens.
-               1 pint of _BÈchamel_ sauce.
-               º†oz. of Swinborne's or Nelson's Gelatine.
+               1 pint of _BÈ£®amel_ sauce.
+               Ï†Øz. of Swinborne's or Nelson's Gelatine.
                Some aspic jelly.
                Endive and lettuce.
 
@@ -4655,7 +4664,7 @@ _Method._--Melt the gelatine and mix it with the sauce.
 Coat the pieces of chicken carefully with it, giving them each two coats
 if they require it.
 
-When the sauce is firm, place them in a circle on an _entrÈe_ dish.
+When the sauce is firm, place them in a circle on an _entrÈ•ü dish.
 
 Put some lettuce, nicely mixed with salad dressing, in the centre, and
 garnish prettily with the endive.
@@ -4812,12 +4821,12 @@ fish, and served with egg, anchovy, or any other appropriate sauce.
 
 Curried Fish.
 
-_Ingredients_--1Ω†lb. of cold boiled fish.
+_Ingredients_--1Ì†¨b. of cold boiled fish.
                1 small onion.
                1 small apple.
-               Ω pint of second stock.
+               Ì†∞int of second stock.
                A few drops of lemon juice.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                1 dessertspoonful of curry powder.
                1 dessertspoonful of flour.
                Salt.
@@ -4948,7 +4957,7 @@ These two fish may be cooked according to any of the recipes given for
 dressing cod.
 
 
-Salmon ‡ la Tartare.
+Salmon ‡†¨a Tartare.
 
 _Ingredients_--A piece of salmon.
                Some tartare sauce.
@@ -4991,7 +5000,7 @@ _Ingredients_--Whitebait.
                Flour.
 
 _Method._--Put plenty of oil or fat into a stewpan, and make it hot
-(_see_ French Frying). The heat of the fat for whitebait should be 400∞.
+(_see_ French Frying). The heat of the fat for whitebait should be 400‡Æç
 
 Have a good heap of flour on a cloth.
 
@@ -5013,11 +5022,11 @@ Serve them with brown bread and butter, and slices of lemon.
 Oyster Patties.
 
 _Ingredients_--6 patty cases.
-               2Ω dozen oysters.
-               1†oz. of butter.
-               1†oz. of flour.
-               º pint of milk.
-               º pint of cream.
+               2Ì†§ozen oysters.
+               1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
+               Ï†∞int of milk.
+               Ï†∞int of cream.
                A few drops of lemon juice.
                Pepper and salt.
                A little cayenne.
@@ -5058,12 +5067,12 @@ Cover them with broad-crumbs, and put a little piece of butter on each.
 Brown them in a quick oven, and serve very hot.
 
 
-Scalloped Oysters ‡ la FranÁaise.
+Scalloped Oysters ‡†¨a FranÁ°©se.
 
-_Ingredients_--2Ω dozen oysters.
-               1†oz. of butter.
-               1†oz. of flour.
-               º pint of milk.
+_Ingredients_--2Ì†§ozen oysters.
+               1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
+               Ï†∞int of milk.
                2 tablespoonfuls of cream.
                A few drops of lemon juice.
                Pepper and salt.
@@ -5092,14 +5101,14 @@ Brown in a quick oven.
 Serve on a folded napkin, and garnish with parsley and cut lemon.
 
 
-Mackerel ‡ la Normande.
+Mackerel ‡†¨a Normande.
 
 _Ingredients_--1 dessertspoonful of bread-crumbs.
                2 mackerel.
                Half a shalot, chopped finely.
                1 teaspoonful of finely-chopped parsley.
-               º teaspoonful dried and powdered herbs.
-               º†oz. of butter or dripping.
+               Ï†¥easpoonful dried and powdered herbs.
+               Ï†Øz. of butter or dripping.
                Pepper and salt.
 
 _Method._--Split open the mackerel, and remove the back-bones as cleanly
@@ -5161,7 +5170,7 @@ Fry them in a frying-basket in hot fat (_see_ French Frying).
 Serve on a folded napkin, and garnish with fried parsley.
 
 
-Cutlets of Cod ‡ l'Italienne.
+Cutlets of Cod ‡†¨'Italienne.
 
 _Ingredients_--The tail of a cod.
                A little butter.
@@ -5184,7 +5193,7 @@ Sauces).
 Garnish with coral and truffle.
 
 
-Cutlets of Cod ‡ la Genoise.
+Cutlets of Cod ‡†¨a Genoise.
 
 Cook some cod cutlets as in preceding recipe, and serve with Genoise
 sauce (_see_ Sauces). Garnish with coral and truffle.
@@ -5192,15 +5201,15 @@ sauce (_see_ Sauces). Garnish with coral and truffle.
 
 Cod with Tomatoes.
 
-_Ingredients_--1Ω†lb. of cod cutlets.
+_Ingredients_--1Ì†¨b. of cod cutlets.
                5 or 6 tomatoes.
                1 tablespoonful of vinegar.
                Cayenne pepper and salt.
 
 _Method._--Rub the tomatoes through a hair sieve.
 
-Then put the _purÈe_ thus obtained into a saucepan, and lay the pieces
-of cod in it. There should be enough tomato _purÈe_ to cover the cod.
+Then put the _purÈ•ü thus obtained into a saucepan, and lay the pieces
+of cod in it. There should be enough tomato _purÈ•ü to cover the cod.
 
 Simmer gently until the cod is tender.
 
@@ -5233,7 +5242,7 @@ or strainer.
 Cod Sounds Boiled.
 
 _Ingredients_--Some cod sounds; milk; water.
-               BÈchamel sauce.
+               BÈ£®amel sauce.
                Pepper and salt.
 
 _Method._--Soak the sounds in water for about six hours.
@@ -5242,7 +5251,7 @@ Then boil them in milk and water for half an hour or more until quite
 tender.
 
 Cut them in pieces about two inches square, and make them hot in some
-_BÈchamel_ sauce.
+_BÈ£®amel_ sauce.
 
 Pile them on a dish in the form of a pyramid, with slices of hard-boiled
 egg, cut lemon, and parsley.
@@ -5321,14 +5330,14 @@ should be skinned before it is filleted.
 
 Fish Croquettes.
 
-_Ingredients_--1†lb. of cooked fish (haddock, cod, ling, or hake are the
+_Ingredients_--1‡¨¢. of cooked fish (haddock, cod, ling, or hake are the
                  best for the purpose).
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                2 or 3 eggs.
                Pepper and salt.
                Some white crumbs.
                Parsley.
-               1†lb. of boiled potatoes.
+               1‡¨¢. of boiled potatoes.
 
 _Method._--Rub the potatoes through a sieve.
 
@@ -5358,7 +5367,7 @@ Halibut.
 This fish may be cooked and served like cod or turbot.
 
 
-Red Mullets ‡ l'Italienne.
+Red Mullets ‡†¨'Italienne.
 
 _Ingredients_--4 or 6 red mullets.
                2 dessertspoonfuls of mushroom catsup.
@@ -5382,10 +5391,10 @@ and pour over.
 Garnish with truffle and coral.
 
 
-Red Mullets ‡ la Genoise.
+Red Mullets ‡†¨a Genoise.
 
 _Ingredients_--Red mullets.
-               Ω glass of port.
+               Ì†ßlass of port.
                A few drops of lemon juice.
                Pepper.
                Some Genoise sauce.
@@ -5436,7 +5445,7 @@ five minutes or more.
 
 Dish on a folded napkin, and garnish with parsley, coral, and cut lemon.
 
-Serve with them _maÓtre d'hÙtel_, _BÈchamel_, Italian, Genoise, or any
+Serve with them _maÓ¥≤e d'h‰¥•l_, _BÈ£®amel_, Italian, Genoise, or any
 other suitable sauce.
 
 
@@ -5459,11 +5468,11 @@ Drain them on kitchen paper, and dish on a folded napkin.
 
 Garnish with fried parsley and cut lemon.
 
-_BÈchamel_, lobster, shrimp, Italian, Genoise, or any other suitable
+_BÈ£®amel_, lobster, shrimp, Italian, Genoise, or any other suitable
 sauce, may be served with them.
 
 
-Whiting ‡ l'Italienne.
+Whiting ‡†¨'Italienne.
 
 _Ingredients_--Whiting.
                Lemon-juice.
@@ -5485,7 +5494,7 @@ Dish in a circle, and pour Italian sauce over.
 Garnish with truffle and coral.
 
 
-Whiting ‡ la Genoise.
+Whiting ‡†¨a Genoise.
 
 Prepare the whiting as in preceding receipt, substituting Genoise for
 Italian sauce.
@@ -5494,8 +5503,8 @@ Italian sauce.
 Lobster Cutlets.
 
 _Ingredients_--1 hen lobster.
-               1Ω†oz. of butter.
-               1†oz. of flour.
+               1Ì†Øz. of butter.
+               1‡Ø∫. of flour.
                1 gill of cold water.
                2 tablespoonfuls of cream.
                A few drops of lemon juice.
@@ -5510,7 +5519,7 @@ _Method._--Remove the flesh from the body of the lobster, and cut it up.
 Pound the coral in a mortar, with half an ounce of butter, and rub it
 through a hair sieve. (If spawn is used it need not be pounded.)
 
-Melt 1†oz. of butter in a stewpan.
+Melt 1‡Ø∫. of butter in a stewpan.
 
 Mix in the flour; add the water; stir until it thickens.
 
@@ -5574,11 +5583,11 @@ Dish on a folded napkin.
 Garnish with fried parsley.
 
 
-Sole ‡ la Parisienne.
+Sole ‡†¨a Parisienne.
 
 _Ingredients_--1 sole.
                1 wineglass of sherry.
-               Ω pint of good second stock.
+               Ì†∞int of good second stock.
                A few drops of lemon juice.
                1 teaspoonful of Harvey's sauce.
                1 teaspoonful of anchovy sauce.
@@ -5599,7 +5608,7 @@ Add to it the sauces, lemon juice, and seasoning, and pour it over the
 sole.
 
 
-Fillets of Sole ‡ la Rouennaise.
+Fillets of Sole ‡†¨a Rouennaise.
 
 _Ingredients_--2 or more soles.
                Lemon juice.
@@ -5621,12 +5630,12 @@ Dish in a circle, and pour over white sauce, mixed with chopped
 truffle.
 
 
-Fillets of Sole ‡ la MaÓtre d'HÙtel.
+Fillets of Sole ‡†¨a MaÓ¥≤e d'H‰¥•l.
 
 _Ingredients_--Fillets of sole.
                Lemon juice and salt.
 
-_Method._--Roll or fold the fillets, and cook like the Sole _‡ la
+_Method._--Roll or fold the fillets, and cook like the Sole _‡†¨a
 Rouennaise_.
 
 Cover them with the same sauce as in the last recipe, using chopped
@@ -5641,7 +5650,7 @@ _Ingredients_--1 sole.
                6 chopped button mushrooms.
                Lemon juice.
                Pepper and salt.
-               Ω†oz. of butter.
+               Ì†Øz. of butter.
                Brown bread-crumbs.
 
 _Method._--Grease a dish that will stand the heat of the oven.
@@ -5664,7 +5673,7 @@ Gurnets baked.
 _Ingredients_--2 or more gurnets.
                Some veal stuffing, omitting the suet.
                A little stock.
-               Ω wineglass of sherry.
+               Ì†∑ineglass of sherry.
                1 or 2 dessertspoonfuls of mushroom catsup.
                Some brown sauce.
                Pepper and salt.
@@ -5683,7 +5692,7 @@ and pour over.
 
 Stewed Eels.
 
-_Ingredients_--2†lb. of eels.
+_Ingredients_--2‡¨¢. of eels.
                1 pint of stock.
                1 wineglass of port.
                1 tablespoonful of flour.
@@ -5691,9 +5700,9 @@ _Ingredients_--2†lb. of eels.
                Pepper.
                Salt.
                Cayenne.
-               2†oz. of butter.
+               2‡Ø∫. of butter.
 
-_Method._--Cut the eels in pieces about 2Ω inches long.
+_Method._--Cut the eels in pieces about 2Ì†©nches long.
 
 Fry them brown in the butter.
 
@@ -5835,8 +5844,8 @@ When cooked, lift the lid and scrape out the soft inside carefully.
 
 Good Short Crust.
 
-_Ingredients_--1†lb. of flour.
-               æ†lb. of butter.
+_Ingredients_--1‡¨¢. of flour.
+               Ó†¨b. of butter.
                Enough cold water to mix rather stiffly.
                A pinch of salt.
 
@@ -5853,9 +5862,9 @@ to the flour.
 
 Plainer Short Crust.
 
-_Ingredients_--1†lb. of flour.
-               º†lb. of butter.
-               º†lb. of lard.
+_Ingredients_--1‡¨¢. of flour.
+               Ï†¨b. of butter.
+               Ï†¨b. of lard.
                1 teaspoonful of baking powder.
                Water enough to bind.
 
@@ -5864,8 +5873,8 @@ _Method._--Make according to directions given in preceding recipe.
 
 Economical Short Crust.
 
-_Ingredients_--1†lb. of flour.
-               Ω†lb. of clarified dripping or lard.
+_Ingredients_--1‡¨¢. of flour.
+               Ì†¨b. of clarified dripping or lard.
                1 teaspoonful of baking powder.
                Enough water to mix.
 
@@ -5878,8 +5887,8 @@ _Method._--Make according to the directions for Short Crust.
 
 Flaky Crust.
 
-_Ingredients_--1†lb. of flour.
-               Ω†lb. of butter or dripping.
+_Ingredients_--1‡¨¢. of flour.
+               Ì†¨b. of butter or dripping.
                A pinch of salt.
                Enough cold water to mix the paste.
 
@@ -5897,8 +5906,8 @@ Roll out to the size required.
 
 Rough Puff Paste.
 
-_Ingredients_--1†lb. of flour.
-               Ω†lb. of butter, lard, or dripping.
+_Ingredients_--1‡¨¢. of flour.
+               Ì†¨b. of butter, lard, or dripping.
                Salt.
                Cold water.
 
@@ -5915,7 +5924,7 @@ Roll and fold four times.
 
 Flaky Bread Crust.
 
-_Ingredients_--1†lb. of bread dough.
+_Ingredients_--1‡¨¢. of bread dough.
                Some butter, lard, or dripping.
 
 _Method._--Roll out the dough very thin, and spread with the fat.
@@ -5933,11 +5942,11 @@ Then roll out and use.
 
 Beef-steak Pie.
 
-_Ingredients_--2†lb. of nice beef-steak.
-               Ω†lb. of bullock's kidney.
-               1†lb. of flaky or rough puff paste.
+_Ingredients_--2‡¨¢. of nice beef-steak.
+               Ì†¨b. of bullock's kidney.
+               1‡¨¢. of flaky or rough puff paste.
                1 tablespoonful of flour.
-               Ω pint of water.
+               Ì†∞int of water.
                Pepper and salt.
 
 _Method._--Roll the paste to a quarter of an inch in thickness.
@@ -5987,9 +5996,9 @@ alternately with the rolls of beef.
 Rabbit Pie.
 
 _Ingredients_--1 rabbit.
-               º†lb. of salt pork.
-               1†lb. of rough puff or flaky paste.
-               Ω pint of water.
+               Ï†¨b. of salt pork.
+               1‡¨¢. of rough puff or flaky paste.
+               Ì†∞int of water.
                2 hard-boiled eggs.
                Pepper and salt.
 
@@ -6021,14 +6030,14 @@ _Ingredients_--Puff and other pastry.
 
 THE MINCEMEAT.
 
-_Ingredients_--1†lb. of suet.
-               1†lb. of apples.
-               1†lb. of sugar.
-               1†lb. of currants.
-               1†lb. of raisins.
-               1†lb. of candied peel.
+_Ingredients_--1‡¨¢. of suet.
+               1‡¨¢. of apples.
+               1‡¨¢. of sugar.
+               1‡¨¢. of currants.
+               1‡¨¢. of raisins.
+               1‡¨¢. of candied peel.
                The grated rind of 3 lemons.
-               º†lb. of ratafias soaked in brandy.
+               Ï†¨b. of ratafias soaked in brandy.
 
 _Method._--Chop the suet.
 
@@ -6087,10 +6096,10 @@ Bake in a quick oven for about three quarters of an hour.
 Pigeon Pie.
 
 _Ingredients_--4 pigeons.
-               1†lb. of rump-steak.
+               1‡¨¢. of rump-steak.
                Yolks of 6 hard-boiled eggs.
                Pepper and salt.
-               Some puff or other paste made with 1†lb. of flour.
+               Some puff or other paste made with 1‡¨¢. of flour.
 
 _Method._--Prepare the pie-dish, and roll out the paste as for
 beef-steak pie.
@@ -6114,13 +6123,13 @@ Bake for about an hour and a half.
 
 Veal-and-Ham Pie.
 
-_Ingredients_--1†lb. of veal cutlet.
-               Ω†lb. of ham.
+_Ingredients_--1‡¨¢. of veal cutlet.
+               Ì†¨b. of ham.
                4 hard-boiled eggs.
                1 dessertspoonful of chopped parsley.
                1 lemon.
                Pepper and salt.
-               Some puff, flaky, or other pastry, made with 1†lb. of flour.
+               Some puff, flaky, or other pastry, made with 1‡¨¢. of flour.
 
 _Method._--Roll out the paste, and prepare the dish as for beef-steak
 pie.
@@ -6189,14 +6198,14 @@ Bake in a quick oven for fifteen or twenty minutes.
 
 Apple Tart.
 
-_Ingredients_--2†lb. of apples.
-               3†oz. of moist sugar.
+_Ingredients_--2‡¨¢. of apples.
+               3‡Ø∫. of moist sugar.
                Some pastry.
                5 cloves or the grated rind of a small lemon.
-               º pint of water.
+               Ï†∞int of water.
 
 _Method._--Make some pastry according to directions given for short
-crust (the quantity made from æ†lb. of flour will be sufficient).
+crust (the quantity made from Ó†¨b. of flour will be sufficient).
 
 Roll out the paste in an oval shape to a quarter of an inch in
 thickness.
@@ -6237,12 +6246,12 @@ quick at first, and moderate afterwards.
 
 Genoise Pastry.
 
-_Ingredients_--6†oz. of flour.
-               6†oz. of butter.
-               8†oz. of castor sugar.
+_Ingredients_--6‡Ø∫. of flour.
+               6‡Ø∫. of butter.
+               8‡Ø∫. of castor sugar.
                7 eggs.
 
-_Method._--Melt the butter in a stewpan, and brush over a _sautÈ_ pan or
+_Method._--Melt the butter in a stewpan, and brush over a _sautÈü†pan or
 shallow cake tin with it.
 
 Line the pan with paper, and brush that also with the melted butter.
@@ -6325,7 +6334,7 @@ Almond Cakes.
 _Ingredients_--Genoise pastry.
                Almonds.
                The white of 1 egg.
-               1†oz. of castor sugar.
+               1‡Ø∫. of castor sugar.
 
 _Method._--Stamp out the Genoise pastry into small cakes, with round
 cutters.
@@ -6341,8 +6350,8 @@ Put them in a moderate oven to take a pale fawn colour.
 Cheese Cakes.
 
 _Ingredients_--Some remains of puff pastry.
-               2†oz. of sugar.
-               2†oz. of butter.
+               2‡Ø∫. of sugar.
+               2‡Ø∫. of butter.
                1 lemon.
                Half a sponge cake.
                1 whole egg and 1 yolk.
@@ -6398,9 +6407,9 @@ Plainer tartlets may be made with short, flaky, or other pastry.
 Cheese d'Artois.
 
 _Ingredients_--Remains of puff paste, or some flaky crust.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                1 whole egg and 1 yolk.
-               2†oz. of Parmesan cheese.
+               2‡Ø∫. of Parmesan cheese.
                A little cayenne.
                Pepper and salt.
 
@@ -6428,9 +6437,9 @@ Dish them on a folded napkin, and sprinkle them with grated cheese.
 
 Cheese Straws.
 
-_Ingredients_--2†oz. of flour.
-               2†oz. of butter.
-               2†oz. of grated Parmesan cheese.
+_Ingredients_--2‡Ø∫. of flour.
+               2‡Ø∫. of butter.
+               2‡Ø∫. of grated Parmesan cheese.
                The yolk of an egg.
                A little cayenne.
                Pepper and salt.
@@ -6476,11 +6485,11 @@ for fifteen minutes.
 
 Petit Choux.
 
-_Ingredients_--5†oz. of flour.
-               2†oz. of butter.
-               3†oz. of castor sugar.
+_Ingredients_--5‡Ø∫. of flour.
+               2‡Ø∫. of butter.
+               3‡Ø∫. of castor sugar.
                3 whole eggs.
-               Ω pint of water.
+               Ì†∞int of water.
 
 _Method._--Rub the flour through a sieve.
 
@@ -6513,7 +6522,7 @@ gooseberries.
 Apple Dumplings.
 
 _Ingredients_--1 dozen apples.
-               1†lb. of short crust.
+               1‡¨¢. of short crust.
                A little moist sugar.
 
 _Method._--Pare the apples and remove the cores; fill the holes with
@@ -6566,10 +6575,10 @@ in flour, and the stalks picked off.
 
 Beef-steak Pudding.
 
-_Ingredients_--1†lb. of flour.
-               æ or Ω†lb. of suet.
-               1Ω†lb. of beef or rump steak.
-               Ω†lb. of bullock's kidney.
+_Ingredients_--1‡¨¢. of flour.
+               Ó†Ør Ì†¨b. of suet.
+               1Ì†¨b. of beef or rump steak.
+               Ì†¨b. of bullock's kidney.
                Seasoning.
 
 _Method._--Chop the suet finely, mix well with the flour, adding a pinch
@@ -6608,8 +6617,8 @@ crust.
 
 Suet Pudding.
 
-_Ingredients_--1†lb. of flour.
-               4, 6, or 8†oz. of finely-chopped suet.
+_Ingredients_--1‡¨¢. of flour.
+               4, 6, or 8‡Ø∫. of finely-chopped suet.
                A pinch of salt, or, if liked, a teaspoonful of baking
                  powder.
 
@@ -6624,11 +6633,11 @@ Then boil in a well-scalded and floured cloth for three hours.
 
 Sultana Pudding.
 
-_Ingredients_--1†lb. of flour.
-               Ω†lb. of finely-chopped suet.
-               º†lb. of sultanas.
-               º†lb. of castor sugar; or, three ounces of moist sugar.
-               2†oz. of candied peel.
+_Ingredients_--1‡¨¢. of flour.
+               Ì†¨b. of finely-chopped suet.
+               Ï†¨b. of sultanas.
+               Ï†¨b. of castor sugar; or, three ounces of moist sugar.
+               2‡Ø∫. of candied peel.
                The grated rind of a lemon.
                A pinch of salt.
                1 egg.
@@ -6646,8 +6655,8 @@ Boil in a basin or cloth three hours.
 
 Compote of Rice.
 
-_Ingredients_--º†lb. of rice.
-               º†lb. of sugar.
+_Ingredients_--Ï†¨b. of rice.
+               Ï†¨b. of sugar.
                1 pint or more of milk.
                Vanilla or other flavouring.
 
@@ -6659,12 +6668,12 @@ centre.
 
 Any fruit may be put in the middle, when it is served.
 
-If oranges are used, boil 1Ω gill of water with º†lb. of lump sugar,
+If oranges are used, boil 1Ì†ßill of water with Ï†¨b. of lump sugar,
 until it sticks to a knife like an icicle.
 
 Peel the oranges, and roll them in it.
 
-If apples are used, boil them gently in one pint of water, with º†lb. of
+If apples are used, boil them gently in one pint of water, with Ï†¨b. of
 sugar.
 
 When tender, add a little cochineal.
@@ -6677,11 +6686,11 @@ Roll the apples in it.
 
 Queen Victoria Pudding.
 
-_Ingredients_--º†lb. of butter.
-               º†lb. of castor sugar.
-               º†lb. of flour.
-               2†oz. of chopped peel.
-               1†oz. of blanched and chopped almonds.
+_Ingredients_--Ï†¨b. of butter.
+               Ï†¨b. of castor sugar.
+               Ï†¨b. of flour.
+               2‡Ø∫. of chopped peel.
+               1‡Ø∫. of blanched and chopped almonds.
                2 tablespoonfuls of brandy.
                3 eggs.
 
@@ -6701,9 +6710,9 @@ Cover with buttered paper, and steam for three hours.
 
 Rice Bars.
 
-_Ingredients_--º†lb. of rice.
+_Ingredients_--Ï†¨b. of rice.
                1 pint of milk.
-               3†oz. of castor sugar.
+               3‡Ø∫. of castor sugar.
                Yolks of 2 eggs.
                A little lemon essence.
                1 whole egg.
@@ -6743,8 +6752,8 @@ Then egg and bread-crumb them, and fry in hot fat.
 Orange Pudding.
 
 _Ingredients_--The rind and juice of 2 oranges.
-               2†oz. of cake-crumbs rubbed through a sieve.
-               2†oz. of castor sugar.
+               2‡Ø∫. of cake-crumbs rubbed through a sieve.
+               2‡Ø∫. of castor sugar.
                3 eggs.
                1 gill of milk or cream.
 
@@ -6763,10 +6772,10 @@ Bake until set, and of a light brown colour.
 
 Welcome-Guest Pudding.
 
-_Ingredients_--º†lb. of suet.
-               º†lb. of sugar.
-               º†lb. of cake-crumbs, or ratafias, rubbed through a sieve.
-               º†lb. of bread-crumbs.
+_Ingredients_--Ï†¨b. of suet.
+               Ï†¨b. of sugar.
+               Ï†¨b. of cake-crumbs, or ratafias, rubbed through a sieve.
+               Ï†¨b. of bread-crumbs.
                The rind and juice of one lemon.
                3 eggs, well beaten.
 
@@ -6779,7 +6788,7 @@ Put into a well-greased mould.
 Cover with buttered paper, and steam for two hours.
 
 
-CrËme Frite.
+CrË≠• Frite.
 
 _Ingredients_--1 whole egg.
                1 white.
@@ -6788,7 +6797,7 @@ _Ingredients_--1 whole egg.
                1 gill of milk.
                1 tablespoonful of castor sugar.
                Flavouring to taste.
-               3†oz. of cake-crumbs.
+               3‡Ø∫. of cake-crumbs.
 
 _Method._--Cream the yolks and white well together with the castor
 sugar.
@@ -6811,13 +6820,13 @@ Fry in a frying-basket in hot fat.
 Serve on a glass dish, and sprinkle with castor sugar.
 
 
-G‚teau de Cerise.
+G‚¥•au de Cerise.
 
-_Ingredients_--1†lb. of cooking cherries.
-               º†lb. of lump sugar.
-               Ω pint of water.
+_Ingredients_--1‡¨¢. of cooking cherries.
+               Ï†¨b. of lump sugar.
+               Ì†∞int of water.
                A few drops of cochineal.
-               æ of an ounce-packet of gelatine.
+               Ó†Øf an ounce-packet of gelatine.
                The juice of one lemon.
 
 _Method._--Boil the sugar and water; add the lemon and skim well.
@@ -6837,12 +6846,12 @@ Serve with whipped cream in the centre.
 
 Jaune Mange.
 
-_Ingredients_--Ω ounce packet of gelatine.
-               Ω pint of water.
-               Ω pint of white wine.
+_Ingredients_--Ì†Øunce packet of gelatine.
+               Ì†∞int of water.
+               Ì†∞int of white wine.
                Juice of one and a half lemon.
                Rind of half a lemon.
-               3†oz. of castor sugar.
+               3‡Ø∫. of castor sugar.
                4 yolks.
 
 _Method._--Soak the gelatine in the water with the lemon rind.
@@ -6857,8 +6866,8 @@ Then strain into a wetted mould.
 
 Apple Charlotte.
 
-_Ingredients_--2†lb. of apples.
-               Ω†lb. of moist sugar.
+_Ingredients_--2‡¨¢. of apples.
+               Ì†¨b. of moist sugar.
                Grated rind of a lemon.
                Slices of broad.
                Some clarified butter.
@@ -6885,17 +6894,17 @@ it.
 
 Viennoise Pudding.
 
-_Ingredients_--5†oz. of stale crumb of bread cut into dice.
-               3†oz. of sultanas.
-               º†lb. of castor sugar.
-               2†oz. of candied peel.
+_Ingredients_--5‡Ø∫. of stale crumb of bread cut into dice.
+               3‡Ø∫. of sultanas.
+               Ï†¨b. of castor sugar.
+               2‡Ø∫. of candied peel.
                Grated rind of a lemon.
                1 wineglass of sherry.
-               Ω pint of milk.
+               Ì†∞int of milk.
                2 whole eggs.
-               1†oz. of lump sugar.
+               1‡Ø∫. of lump sugar.
 
-_Method._--Put the 1†oz. of lump sugar into an old saucepan, and burn it
+_Method._--Put the 1‡Ø∫. of lump sugar into an old saucepan, and burn it
 a dark brown.
 
 Pour in the milk, and stir until it is well coloured and the sugar
@@ -6918,8 +6927,8 @@ This pudding is to be served with German sauce (_see_ Sauces).
 
 Snow Pudding.
 
-_Ingredients_--Ω pint of milk.
-               1Ω†oz. of bread-crumbs.
+_Ingredients_--Ì†∞int of milk.
+               1Ì†Øz. of bread-crumbs.
                Grated rind of a lemon.
                2 tablespoonfuls of caster sugar.
                3 eggs.
@@ -6963,8 +6972,8 @@ Serve with a wine or sweet sauce (_see_ Sauces).
 Apple Amber Pudding.
 
 _Ingredients_--8 apples.
-               2Ω†oz. of butter.
-               3†oz. of moist sugar.
+               2Ì†Øz. of butter.
+               3‡Ø∫. of moist sugar.
                Rind and juice of one lemon.
                3 eggs.
                A little pastry.
@@ -6992,8 +7001,8 @@ This pudding may be served either hot or cold.
 
 Apple Pudding.
 
-_Ingredients_--1†lb. of flour.
-               6 or 8†oz. of suet.
+_Ingredients_--1‡¨¢. of flour.
+               6 or 8‡Ø∫. of suet.
                A pinch of salt.
                1 teaspoonful of baking powder.
                Some apples.
@@ -7019,7 +7028,7 @@ fruit used.
 Raspberry Pudding.
 
 _Ingredients_--1 pint of raspberries.
-               3†oz. of sugar.
+               3‡Ø∫. of sugar.
                Thin slices of bread.
                A little milk.
 
@@ -7037,9 +7046,9 @@ Bake for half an hour.
 
 Lemon Pudding.
 
-_Ingredients_--Ω†lb. of bread-crumbs.
-               º†lb. of finely-chopped suet.
-               º†lb. of castor sugar.
+_Ingredients_--Ì†¨b. of bread-crumbs.
+               Ï†¨b. of finely-chopped suet.
+               Ï†¨b. of castor sugar.
                The grated rind of one lemon, and the juice of two.
                2 eggs.
                Enough milk to mix it.
@@ -7057,11 +7066,11 @@ This pudding may be served with a wine or sweet sauce (_see_ Sauces).
 
 Marmalade Pudding.
 
-_Ingredients_--Ω†lb. of flour.
-               Ω†lb. of bread-crumbs.
-               Ω†lb. of finely-chopped suet.
-               Ω†lb. of moist sugar.
-               Ω†lb. of marmalade.
+_Ingredients_--Ì†¨b. of flour.
+               Ì†¨b. of bread-crumbs.
+               Ì†¨b. of finely-chopped suet.
+               Ì†¨b. of moist sugar.
+               Ì†¨b. of marmalade.
                2 eggs.
                The grated rind of a lemon.
 
@@ -7082,7 +7091,7 @@ General Satisfaction.
 _Ingredients_--3 sponge cakes.
                2 tablespoonfuls of strawberry or other jam.
                1 wineglass of sherry.
-               Rather more than Ω a pint of milk.
+               Rather more than Ì†° pint of milk.
                4 eggs.
                1 tablespoonful of sugar.
                A little pastry.
@@ -7112,8 +7121,8 @@ _Ingredients_--1 pint of milk.
                2 tablespoonfuls of flour.
                2 whole eggs and 2 yolks.
                The grated rind of a lemon.
-               3†oz. of castor sugar.
-               2†oz. of butter.
+               3‡Ø∫. of castor sugar.
+               2‡Ø∫. of butter.
 
 _Method._--Mix the flour smoothly with the milk, and stir over the fire
 until it boils and thickens.
@@ -7128,7 +7137,7 @@ Bake in a moderate oven until set.
 
 Yorkshire (or Batter) Pudding.
 
-_Ingredients_--Ω†lb. of flour.
+_Ingredients_--Ì†¨b. of flour.
                1 pint of milk.
                2 eggs.
                A pinch of salt.
@@ -7180,16 +7189,16 @@ Bake in a greased pie-dish for half an hour.
 
 Christmas Pudding.
 
-_Ingredients_--2†lb. of raisins.
-               1†lb. of suet.
-               Ω†lb. of candied peel.
-               æ†lb. of flour.
-               º†lb. of bread-crumbs,
-               º†lb. of moist sugar.
+_Ingredients_--2‡¨¢. of raisins.
+               1‡¨¢. of suet.
+               Ì†¨b. of candied peel.
+               Ó†¨b. of flour.
+               Ï†¨b. of bread-crumbs,
+               Ï†¨b. of moist sugar.
                A little mixed spice.
                Half a nutmeg grated.
                A little lemon rind grated.
-               Ω pint of milk.
+               Ì†∞int of milk.
                4 eggs.
 
 _Method._--Put the dry ingredients into a basin, and mix with the eggs,
@@ -7202,7 +7211,7 @@ Cabinet Pudding.
 
 _Ingredients_--A few raisins or cherries.
                1 dozen sponge finger-biscuits.
-               1†oz. of castor sugar.
+               1‡Ø∫. of castor sugar.
                1 pint of milk.
                2 whole eggs and 2 yolks.
                A little vanilla or other flavouring.
@@ -7226,10 +7235,10 @@ Cover with buttered paper, and steam gently for about an hour.
 
 Auntie's Pudding.
 
-_Ingredients_--Ω†lb. of flour.
-               º†lb. of finely-chopped suet.
-               º†lb. of currants, well washed and dried.
-               3†oz. of sugar.
+_Ingredients_--Ì†¨b. of flour.
+               Ï†¨b. of finely-chopped suet.
+               Ï†¨b. of currants, well washed and dried.
+               3‡Ø∫. of sugar.
                1 egg.
                A little milk.
 
@@ -7243,8 +7252,8 @@ Boil in a well-greased basin for an hour and a quarter.
 Rhubarb Fool.
 
 _Ingredients_--14 sticks of rhubarb.
-               Ω†lb. of moist sugar (more, if necessary).
-               Ω pint of water.
+               Ì†¨b. of moist sugar (more, if necessary).
+               Ì†∞int of water.
                1 gill of milk.
                The thin rind of half a lemon.
 
@@ -7260,11 +7269,11 @@ Add the milk, and serve cold.
 Scrap Pudding.
 
 _Ingredients_--Some scraps of bread.
-               º†lb. of moist sugar.
-               º†lb. of finely-chopped suet.
+               Ï†¨b. of moist sugar.
+               Ï†¨b. of finely-chopped suet.
                The grated rind of a lemon.
                2 eggs, well beaten.
-               æ pint of milk.
+               Ó†∞int of milk.
                Some preserve.
 
 _Method._--Dry the bread in a slow oven until it is hard.
@@ -7286,9 +7295,9 @@ Bake in a moderate oven until the mixture is set.
 
 Bread-and-Cheese Pudding.
 
-_Ingredients_--6†oz. of dried and powdered bread.
-               Ω†lb. of grated cheese.
-               Ω pint of milk.
+_Ingredients_--6‡Ø∫. of dried and powdered bread.
+               Ì†¨b. of grated cheese.
+               Ì†∞int of milk.
                1 egg, well beaten.
                Pepper and salt.
                A little cayenne.
@@ -7299,9 +7308,9 @@ until the mixture is set.
 
 Mould of Rice.
 
-_Ingredients_--Ω†lb. of rice.
+_Ingredients_--Ì†¨b. of rice.
                1 quart of milk.
-               º†lb. of moist or castor sugar.
+               Ï†¨b. of moist or castor sugar.
 
 _Method._--Boil the rice with the sugar in the milk until it is
 perfectly soft.
@@ -7377,10 +7386,10 @@ Put in a pie-dish, and bake for half an hour.
 
 Swiss Apple Pudding.
 
-_Ingredients_--Ω†lb. of bread-crumbs.
-               3†oz. of suet, finely chopped.
-               º†lb. of apples, finely minced.
-               º†lb. of sugar.
+_Ingredients_--Ì†¨b. of bread-crumbs.
+               3‡Ø∫. of suet, finely chopped.
+               Ï†¨b. of apples, finely minced.
+               Ï†¨b. of sugar.
                The juice and grated rind of one lemon.
                1 egg well beaten.
 
@@ -7392,7 +7401,7 @@ Light Sultana Pudding.
 
 _Ingredients_--3 eggs.
                Their weight in each--butter, flour, and sugar.
-               º†lb. of sultanas.
+               Ï†¨b. of sultanas.
                The grated rind of a lemon.
 
 _Method._--Beat the butter to a cream.
@@ -7407,10 +7416,10 @@ Steam for three hours.
 
 Fun Pudding.
 
-_Ingredients_--1†lb. of apples.
+_Ingredients_--1‡¨¢. of apples.
                2 tablespoonfuls of apricot jam.
                2 tablespoonfuls of sugar.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                2 dessertspoonfuls of arrowroot.
                1 pint of milk.
 
@@ -7447,8 +7456,8 @@ Bake in a very moderate oven for about one hour.
 
 Jam Roly-poly Pudding.
 
-_Ingredients_--1†lb. of flour.
-               4, 6, or 8†oz. of suet, finely chopped.
+_Ingredients_--1‡¨¢. of flour.
+               4, 6, or 8‡Ø∫. of suet, finely chopped.
                Some red jam.
                1 teaspoonful of baking powder.
 
@@ -7513,12 +7522,12 @@ If eggs are used, beat them with the milk.
 
 Ginger Pudding.
 
-_Ingredients_--8†oz. of bread-crumbs.
-               6†oz. of suet, finely chopped.
-               Ω†lb. of treacle.
+_Ingredients_--8‡Ø∫. of bread-crumbs.
+               6‡Ø∫. of suet, finely chopped.
+               Ì†¨b. of treacle.
                2 tablespoonfuls of moist sugar.
                2 teaspoonfuls of ground ginger.
-               2†oz. of flour.
+               2‡Ø∫. of flour.
                1 teaspoonful of baking powder.
 
 _Method._--Put the bread-crumbs, suet, flour, ginger, and baking powder
@@ -7531,13 +7540,13 @@ Boil in a basin, or cloth, for two hours.
 
 Fig Pudding.
 
-_Ingredients_--Ω†lb. of bread-crumbs.
-               º†lb. of suet, finely chopped.
-               3†oz. of brown sugar.
-               2†oz. of flour.
+_Ingredients_--Ì†¨b. of bread-crumbs.
+               Ï†¨b. of suet, finely chopped.
+               3‡Ø∫. of brown sugar.
+               2‡Ø∫. of flour.
                The grated rind of a lemon.
                1 egg.
-               Ω†lb. of figs.
+               Ì†¨b. of figs.
                A little milk.
 
 _Method._--Put the bread-crumbs, suet, and sugar, with the figs, cut
@@ -7551,7 +7560,7 @@ Boil in a well-greased basin for two hours.
 
 Rice Balls.
 
-_Ingredients_--Ω†lb. of rice.
+_Ingredients_--Ì†¨b. of rice.
                1 quart of milk or water.
                3 tablespoonfuls of moist sugar.
 
@@ -7569,8 +7578,8 @@ sauce.
 
 Little Batter Puddings.
 
-_Ingredients_--º†lb. of flour.
-               Ω pint of milk.
+_Ingredients_--Ï†¨b. of flour.
+               Ì†∞int of milk.
                1 egg.
                Some jam.
 
@@ -7589,12 +7598,12 @@ When done, dish on a folded napkin, and put a little jam on each.
 Ellen's Pudding.
 
 _Ingredients_--A little pastry.
-               1†oz. of butter.
-               2†oz. of sugar.
-               Ω pint of milk.
+               1‡Ø∫. of butter.
+               2‡Ø∫. of sugar.
+               Ì†∞int of milk.
                The grated rind of a lemon.
                1 egg well beaten.
-               2†oz. of cake-crumbs.
+               2‡Ø∫. of cake-crumbs.
 
 _Method._--Beat the butter to a cream in a basin.
 
@@ -7614,8 +7623,8 @@ Bread-and-Fruit Pudding.
 
 _Ingredients_--Slices of stale bread.
                1 pint of raspberries.
-               Ω pint of currants.
-               º†lb. of sugar.
+               Ì†∞int of currants.
+               Ï†¨b. of sugar.
 
 _Method._--Line a cake-tin, or pie-dish, with stale bread, cut to fit it
 nicely.
@@ -7635,7 +7644,7 @@ Ground-Rice Pudding.
 
 _Ingredients_--2 tablespoonfuls of ground rice.
                1 pint of milk.
-               2†oz. of sugar.
+               2‡Ø∫. of sugar.
                1 or 2 eggs (these may be omitted if liked).
                A little grated lemon rind, or flavouring essence.
 
@@ -7674,7 +7683,7 @@ Tapioca and Apples.
 _Ingredients_--1 quart of water or milk.
                4 tablespoonfuls of tapioca.
                4 tablespoonfuls of sugar.
-               1†lb. of apples.
+               1‡¨¢. of apples.
                The grated rind of a lemon.
 
 _Method._--Soak the tapioca in cold water.
@@ -7690,10 +7699,10 @@ moderate oven.
 
 Steamed Rice Pudding.
 
-_Ingredients_--1†oz. of whole rice.
+_Ingredients_--1‡Ø∫. of whole rice.
                1 tablespoonful of sugar.
                1 egg.
-               Ω pint of milk.
+               Ì†∞int of milk.
 
 _Method._--Wash the rice well, and put it into a saucepan of cold water.
 
@@ -7717,7 +7726,7 @@ Ratafia Pudding.
 _Ingredients_--1 pint of milk.
                3 eggs.
                4 sponge cakes.
-               Ω†lb. of ratafias.
+               Ì†¨b. of ratafias.
 
 _Method._--Boil the milk, and when it has cooled a little add to it the
 three eggs, well beaten.
@@ -7735,8 +7744,8 @@ Serve with sweet or wine sauce.
 
 Macaroni Pudding.
 
-_Ingredients_--Ω†lb. of macaroni.
-               º†lb. of sugar.
+_Ingredients_--Ì†¨b. of macaroni.
+               Ï†¨b. of sugar.
                1 or 2 eggs.
                1 quart of milk.
 
@@ -7755,13 +7764,13 @@ minutes.
 
 Eastern Pudding.
 
-_Ingredients_--1†lb. of figs (cut in small dice).
-               º†lb. of suet.
-               Ω†lb. of bread-crumbs.
+_Ingredients_--1‡¨¢. of figs (cut in small dice).
+               Ï†¨b. of suet.
+               Ì†¨b. of bread-crumbs.
                2 eggs.
                The grated rind of a lemon.
                1 wineglass of brandy.
-               3†oz. of sugar.
+               3‡Ø∫. of sugar.
 
 _Method._--Put the figs, suet, bread-crumbs, and grated lemon rind into
 a basin.
@@ -7775,7 +7784,7 @@ Boil in a greased basin for two hours.
 Ground-Barley Pudding.
 
 _Ingredients_--1 tablespoonful of ground barley.
-               Ω pint of milk.
+               Ì†∞int of milk.
                1 tablespoonful of moist sugar.
                1 egg.
 
@@ -7795,10 +7804,10 @@ Pour the mixture into a buttered pie-dish, and bake for fifteen minutes.
 
 Steamed Semolina Pudding.
 
-_Ingredients_--3†oz. of semolina.
+_Ingredients_--3‡Ø∫. of semolina.
                1 pint of milk.
                2 eggs.
-               2†oz. of moist sugar.
+               2‡Ø∫. of moist sugar.
                A little flavouring essence.
 
 _Method._--Boil the semolina in the milk, with the sugar, until quite
@@ -7813,9 +7822,9 @@ Pour the mixture into a greased pudding-mould, and steam for one hour.
 
 Albert Puddings.
 
-_Ingredients_--4†oz. of flour.
-               4†oz. of butter.
-               4†oz. of castor sugar.
+_Ingredients_--4‡Ø∫. of flour.
+               4‡Ø∫. of butter.
+               4‡Ø∫. of castor sugar.
                2 eggs.
                A few drops of vanilla flavouring.
 
@@ -7831,9 +7840,9 @@ Serve with sweet sauce.
 
 Pearl-Barley Pudding.
 
-_Ingredients_--1†oz. of pearl barley.
+_Ingredients_--1‡Ø∫. of pearl barley.
                1 pint of milk.
-               2†oz. of moist sugar.
+               2‡Ø∫. of moist sugar.
 
 _Method._--Put the barley to soak in cold water all night.
 
@@ -7845,9 +7854,9 @@ Add the sugar and milk; and bake in a moderate oven for three hours.
 Baked Lemon Pudding.
 
 _Ingredients_--1 pint of milk.
-               3†oz. of bread-crumbs.
+               3‡Ø∫. of bread-crumbs.
                1 egg.
-               3†oz. of moist sugar.
+               3‡Ø∫. of moist sugar.
                The juice of a lemon and half the rind, grated.
 
 _Method._--Put the crumbs into a basin.
@@ -7864,7 +7873,7 @@ West-of-England Pudding.
 _Ingredients_--3 tablespoonfuls of sago.
                6 small apples.
                1 quart of milk.
-               3†oz. of moist sugar.
+               3‡Ø∫. of moist sugar.
 
 _Method._--Soak the sago in cold water for an hour.
 
@@ -7879,7 +7888,7 @@ Bake in a moderate oven for about one hour.
 
 Pancakes.
 
-_Ingredients_--Ω†lb. of flour.
+_Ingredients_--Ì†¨b. of flour.
                2 eggs.
                1 pint of milk.
                Some lard, or dripping, for frying.
@@ -7913,10 +7922,10 @@ used.
 
 Railway Pudding.
 
-_Ingredients_--º†lb. of flour.
-               2†oz. of castor sugar.
+_Ingredients_--Ï†¨b. of flour.
+               2‡Ø∫. of castor sugar.
                2 eggs.
-               Ω pint of milk.
+               Ì†∞int of milk.
                2 teaspoonfuls of baking powder.
 
 _Method._--Mix the flour, sugar, and baking powder in a basin.
@@ -7947,8 +7956,8 @@ little jam on each.
 Gooseberry Fool.
 
 _Ingredients_--1 quart of gooseberries.
-               æ†lb. of moist sugar.
-               Ω pint of water.
+               Ó†¨b. of moist sugar.
+               Ì†∞int of water.
                1 pint of milk or cream.
 
 _Method._--Take the tops and stalks from the gooseberries, and boil them
@@ -7961,12 +7970,12 @@ Mix in the milk, or cream, gradually; and serve on a glass dish.
 
 Apricot Pudding.
 
-_Ingredients_--º†lb. of finely-chopped suet.
-               Ω†lb. of bread-crumbs.
+_Ingredients_--Ï†¨b. of finely-chopped suet.
+               Ì†¨b. of bread-crumbs.
                3 eggs.
                8 tablespoonfuls of apricot jam.
                1 glass of sherry.
-               2†oz. of sugar.
+               2‡Ø∫. of sugar.
 
 _Method._--Put the suet, bread-crumbs, and sugar into a basin, and mix
 with the eggs, well beaten, apricot and sherry.
@@ -7976,11 +7985,11 @@ Put the mixture into a greased pudding-mould and boil for two hours.
 
 Stale-Bread Pudding.
 
-_Ingredients_--Ω†lb. scraps of bread.
+_Ingredients_--Ì†¨b. scraps of bread.
                1 quart of boiling milk.
                2 eggs.
-               2†oz. of sugar.
-               º†lb. of currants.
+               2‡Ø∫. of sugar.
+               Ï†¨b. of currants.
 
 _Method._--Soak the bread in cold water until soft.
 
@@ -7997,12 +8006,12 @@ Bake in a pie-dish for two hours.
 
 Baked Plum Pudding.
 
-_Ingredients_--º†lb. of finely-chopped suet.
-               æ†lb. of flour.
-               º†lb. of raisins, stoned and chopped.
-               º†lb. of currants.
-               2†oz. of candied peel.
-               2†oz. of moist sugar.
+_Ingredients_--Ï†¨b. of finely-chopped suet.
+               Ó†¨b. of flour.
+               Ï†¨b. of raisins, stoned and chopped.
+               Ï†¨b. of currants.
+               2‡Ø∫. of candied peel.
+               2‡Ø∫. of moist sugar.
                1 egg.
                2 teaspoonfuls of baking powder.
                1 gill, or more, of milk.
@@ -8017,13 +8026,13 @@ For serving, cut into squares, and dust them over with castor sugar.
 
 Treacle Pudding.
 
-_Ingredients_--1†lb. of flour.
-               º lb of finely-chopped suet.
-               º†lb. of treacle.
-               Ω†oz. of ground ginger.
+_Ingredients_--1‡¨¢. of flour.
+               Ï†¨b of finely-chopped suet.
+               Ï†¨b. of treacle.
+               Ì†Øz. of ground ginger.
                1 egg.
-               2†oz. of moist sugar.
-               1Ω gill of milk.
+               2‡Ø∫. of moist sugar.
+               1Ì†ßill of milk.
                1 teaspoonful of baking powder.
 
 _Method._--Put the dry ingredients into a basin.
@@ -8037,16 +8046,16 @@ The egg may be omitted, if liked.
 
 Plum Pudding.
 
-_Ingredients_--º†lb. of finely-chopped suet.
-               º†lb. of currants.
-               º†lb. of raisins, stoned and chopped.
-               6†oz. of flour.
-               6†oz. of bread-crumbs.
-               2†oz. of candied peel.
-               3†oz. of sugar.
+_Ingredients_--Ï†¨b. of finely-chopped suet.
+               Ï†¨b. of currants.
+               Ï†¨b. of raisins, stoned and chopped.
+               6‡Ø∫. of flour.
+               6‡Ø∫. of bread-crumbs.
+               2‡Ø∫. of candied peel.
+               3‡Ø∫. of sugar.
                1 gill of milk.
                2 eggs.
-               Ω teaspoonful of baking powder.
+               Ì†¥easpoonful of baking powder.
 
 _Method._--Put the dry ingredients into a basin, and mix with the eggs
 and milk, well beaten together.
@@ -8056,10 +8065,10 @@ Boil in a cloth or basin for four hours.
 
 Windsor Pudding.
 
-_Ingredients_--2†oz. of semolina.
-               1†oz. of candied peel.
-               Ω pint of milk.
-               º†lb. of treacle.
+_Ingredients_--2‡Ø∫. of semolina.
+               1‡Ø∫. of candied peel.
+               Ì†∞int of milk.
+               Ï†¨b. of treacle.
 
 _Method._--Mix the milk smoothly with the semolina.
 
@@ -8073,8 +8082,8 @@ Bake for about thirty minutes.
 Spring Pudding.
 
 _Ingredients_--1 pint of gooseberries.
-               Ω pint of milk.
-               4†oz. of moist sugar.
+               Ì†∞int of milk.
+               4‡Ø∫. of moist sugar.
                Slices of bread-and-butter.
 
 _Method._--Stew the gooseberries with a very little water and the sugar
@@ -8094,12 +8103,12 @@ Bake gently for one hour.
 
 Gingerbread Pudding.
 
-_Ingredients_--Ω†lb. of flour.
-               Ω†lb. of treacle.
-               º†lb. of finely chopped suet.
+_Ingredients_--Ì†¨b. of flour.
+               Ì†¨b. of treacle.
+               Ï†¨b. of finely chopped suet.
                3 teaspoonfuls of ground ginger.
-               Ω teaspoonful of baking powder.
-               2†oz. of candied peel.
+               Ì†¥easpoonful of baking powder.
+               2‡Ø∫. of candied peel.
                1 egg.
                A little milk.
 
@@ -8112,10 +8121,10 @@ Boil in a greased basin for three hours.
 
 Economical Bread Pudding.
 
-_Ingredients_--Ω†lb. of scraps of bread.
-               º†lb. of finely-chopped suet.
-               º†lb. of currants.
-               3†oz. of moist sugar.
+_Ingredients_--Ì†¨b. of scraps of bread.
+               Ï†¨b. of finely-chopped suet.
+               Ï†¨b. of currants.
+               3‡Ø∫. of moist sugar.
                1 egg.
 
 _Method._--Soak the bread in cold water until soft; squeeze it quite
@@ -8133,9 +8142,9 @@ Boil in a greased basin for an hour.
 
 Economical Ginger Pudding.
 
-_Ingredients_--Ω†lb. of scraps of bread.
-               º†lb. of finely-chopped suet.
-               2†oz. of moist sugar.
+_Ingredients_--Ì†¨b. of scraps of bread.
+               Ï†¨b. of finely-chopped suet.
+               2‡Ø∫. of moist sugar.
                2 tablespoonfuls of treacle.
                3 teaspoonfuls of ground ginger.
 
@@ -8150,11 +8159,11 @@ Boil in a greased basin for an hour.
 
 Economical Fig Pudding.
 
-_Ingredients_--Ω†lb. of scraps of bread.
-               º†lb. of finely-chopped suet.
-               Ω†lb. of figs.
+_Ingredients_--Ì†¨b. of scraps of bread.
+               Ï†¨b. of finely-chopped suet.
+               Ì†¨b. of figs.
                1 egg.
-               3†oz. of moist sugar.
+               3‡Ø∫. of moist sugar.
 
 _Method._--Soak the bread in cold water until quite soft.
 
@@ -8191,12 +8200,12 @@ Boil in a greased basin for three hours.
 Plain Cold Cabinet Pudding.
 
 _Ingredients_--1 tablespoonful of flour.
-               1Ω tablespoonful of arrowroot.
+               1Ì†¥ablespoonful of arrowroot.
                1 wineglass of sherry.
                A few raisins.
                3 stale sponge cakes.
                1 pint of milk.
-               2†oz. of sugar.
+               2‡Ø∫. of sugar.
 
 _Method._--Put the milk to boil with the sugar.
 
@@ -8246,11 +8255,11 @@ Bake in a pie-dish for about thirty minutes.
 
 Swiss Pudding.
 
-_Ingredients_--2†lb. of apples.
-               Ω†lb. of bread-crumbs.
-               3†oz. of moist sugar.
+_Ingredients_--2‡¨¢. of apples.
+               Ì†¨b. of bread-crumbs.
+               3‡Ø∫. of moist sugar.
                A little grated lemon rind.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
 
 _Method._--Peel, core, and slice the apples.
 
@@ -8274,7 +8283,7 @@ Brown-Bread Pudding.
 _Ingredients_--1 loaf of brown bread.
                1 gill of double cream.
                The rind of 1 lemon.
-               3†oz. of castor sugar.
+               3‡Ø∫. of castor sugar.
                1 gill of milk.
                4 eggs.
                A few drops of essence of vanilla.
@@ -8298,13 +8307,13 @@ half.
 
 Diplomatic Pudding.
 
-_Ingredients_--º pint of sweet jelly.
+_Ingredients_--Ï†∞int of sweet jelly.
                1 pint of milk.
-               Ω†oz. of gelatine.
+               Ì†Øz. of gelatine.
                2 sponge cakes.
-               2†oz. of ratafias.
+               2‡Ø∫. of ratafias.
                1 whole egg, and 4 yolks.
-               2†oz. of sugar.
+               2‡Ø∫. of sugar.
                A little flavouring essence.
 
 _Method._--Soak the gelatine in a little milk.
@@ -8777,8 +8786,8 @@ kitchen paper.
 Tomato Farni.
 
 _Ingredients_--6 or 8 ripe tomatoes.
-               1†oz. of butter.
-               Ω†oz. of flour.
+               1‡Ø∫. of butter.
+               Ì†Øz. of flour.
                1 gill of stock or milk.
                1 dessertspoonful of chopped parsley.
                1 dessertspoonful of chopped cooked ham.
@@ -8810,11 +8819,11 @@ about a quarter of an hour.
 Cauliflower au gratin.
 
 _Ingredients_--1 cauliflower.
-               1†oz. of butter.
-               1†oz. of flour.
+               1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
                1 gill of water.
                2 tablespoonfuls of cream.
-               2†oz. of grated Parmesan cheese.
+               2‡Ø∫. of grated Parmesan cheese.
                Pepper, salt, and a little cayenne.
 
 _Method._--Boil the cauliflower; remove the green leaves.
@@ -8839,8 +8848,8 @@ salamander or in a quick oven.
 
 Potato Croquettes.
 
-_Ingredients_--2†lb. of potatoes.
-               2†oz. of butter.
+_Ingredients_--2‡¨¢. of potatoes.
+               2‡Ø∫. of butter.
                2 eggs.
                Pepper and salt.
                Some white bread-crumbs.
@@ -8866,9 +8875,9 @@ Garnish with fried parsley.
 Salsify Patties.
 
 _Ingredients_--Some patty-cases, made as for oysters.
-               Ω†lb. of salsify.
-               1†oz. of flour.
-               Ω pint of milk.
+               Ì†¨b. of salsify.
+               1‡Ø∫. of flour.
+               Ì†∞int of milk.
                2 tablespoonfuls of cream.
                A few drops of lemon juice.
                Pepper and salt.
@@ -8891,9 +8900,9 @@ Fill the patty-cases with the mixture, and put a lid on each.
 
 Tomatoes au gratin.
 
-_Ingredients_--1Ω†lb. of tomatoes.
+_Ingredients_--1Ì†¨b. of tomatoes.
                1 pint of bread-crumbs.
-               2†oz. of butter.
+               2‡Ø∫. of butter.
                Pepper and salt to taste.
 
 _Method._--Slice the tomatoes, and put a layer of them in the bottom of
@@ -8913,7 +8922,7 @@ Bake in a quick oven for about twenty minutes.
 
 Mashed Potatoes.
 
-_Ingredients_--1†oz. of butter to every pound of potatoes.
+_Ingredients_--1‡Ø∫. of butter to every pound of potatoes.
                1 tablespoonful of cream, if possible.
                Pepper and salt to taste.
 
@@ -9008,7 +9017,7 @@ alone, with the addition of suitable vegetables for flavouring.
 
 First Stock for Clear Soup.
 
-_Ingredients_--4†lb. of shin of beef, or 2†lb. of shin of beef and 2†lb. of
+_Ingredients_--4‡¨¢. of shin of beef, or 2‡¨¢. of shin of beef and 2‡¨¢. of
                  knuckle of veal.
                5 pints of water.
                2 carrots.
@@ -9033,7 +9042,7 @@ simmer the contents for half an hour.
 
 Next put in the vegetables sliced, and the herbs tied together.
 
-Simmer for 4Ω hours longer, skimming occasionally.
+Simmer for 4Ì†®ours longer, skimming occasionally.
 
 Strain into a clean pan, and set aside to get cold.
 
@@ -9069,7 +9078,7 @@ gelatine contained in the bones.
 
 White Stock from Bones uncooked.
 
-_Ingredients_--4†lb. of uncooked bones, with a ham-bone, if possible,
+_Ingredients_--4‡¨¢. of uncooked bones, with a ham-bone, if possible,
                  amongst them.
                5 pints of water.
                2 carrots.
@@ -9088,7 +9097,7 @@ pepper and salt to taste. Then strain into a clean pan.
 Clear Soup.
 
 _Ingredients_--2 quarts of first stock.
-               æ†lb. of gravy beef.
+               Ó†¨b. of gravy beef.
                The white and shell of one egg.
 
 _Method._--Remove _all_ the fat from the stock. If it is in a jelly,
@@ -9140,7 +9149,7 @@ length.
 Boil the turnips for five minutes, and the carrots for fifteen minutes.
 
 
-ConsommÈe au Royal.
+ConsommÈ•†au Royal.
 
 This is clear soup with a savoury custard in it.
 
@@ -9149,7 +9158,7 @@ Savoury Custard.
 
 _Ingredients_--1 whole egg.
                1 yolk.
-               Ω gill of clear soup.
+               Ì†ßill of clear soup.
                Pepper and salt to taste.
 
 _Method._--Beat the eggs and soup together and strain them into a
@@ -9166,7 +9175,7 @@ If the custard is not very gently steamed it will be full of holes, and
 useless for this purpose.
 
 
-ConsommÈe ‡ la Princesse.
+ConsommÈ•†‡†¨a Princesse.
 
 Serve small _quenelles_ (see _Quenelles_ of Veal), made in teaspoons,
 and nicely poached, in the clear soup.
@@ -9183,8 +9192,8 @@ Celery Soup.
 
 _Ingredients_--2 quarts of second stock.
                4 heads of celery.
-               4†oz. of flour.
-               Ω pint of cream or good milk.
+               4‡Ø∫. of flour.
+               Ì†∞int of cream or good milk.
 
 _Method._--Wash the celery well and cut it in pieces.
 
@@ -9205,9 +9214,9 @@ Serve with fried _croutons_ of bread.
 Oyster Soup.
 
 _Ingredients_--2 dozen oysters.
-               1Ω pint of white stock.
-               2†oz. of butter.
-               2†oz. of flour.
+               1Ì†∞int of white stock.
+               2‡Ø∫. of butter.
+               2‡Ø∫. of flour.
                1 teaspoonful of anchovy sauce.
                A few drops of lemon juice.
                Pepper and salt.
@@ -9232,7 +9241,7 @@ _Ingredients_--1 pint of haricot beans.
                1 onion.
                2 quarts of water.
                1 pint of milk.
-               Ω†oz. of dripping.
+               Ì†Øz. of dripping.
                Pepper and salt to taste.
 
 _Method._--Soak the beans over night in cold water.
@@ -9251,7 +9260,7 @@ Serve with fried _croutons_ of bread.
     sieve after it has been through the wire sieve.
 
 
-Green Pea PurÈe.
+Green Pea PurÈ•Æ
 
 _Ingredients_--2 pints of shelled peas.
                A large handful of pea-shells.
@@ -9280,7 +9289,7 @@ Make the soup hot; thicken with arrow-root; and, in serving, add, if
 liked, a little cream, or glaze.
 
 
-Potage ‡ l'AmÈricaine.
+Potage ‡†¨'AmÈ≤©caine.
 
 _Ingredients_--3 pints of second stock.
                2 tablespoonfuls of crushed tapioca.
@@ -9304,10 +9313,10 @@ Cream may be added if liked.
 Onion Soup.
 
 _Ingredients_--6 Spanish onions.
-               3†oz. of butter.
+               3‡Ø∫. of butter.
                2 quarts of water.
-               3†oz. of flour.
-               Ω pint of milk or cream.
+               3‡Ø∫. of flour.
+               Ì†∞int of milk or cream.
                Pepper and salt to taste.
 
 _Method._--Peel the onions, and cut them in slices.
@@ -9318,7 +9327,7 @@ Then boil them in the water until quite soft.
 
 Rub them with their liquor through a hair sieve.
 
-Put this _purÈe_ into a stewpan on the fire to boil.
+Put this _purÈ•ü into a stewpan on the fire to boil.
 
 When boiling, stir in a thickening of the flour.
 
@@ -9333,8 +9342,8 @@ Serve with fried _croutons_ of bread.
 
 Tapioca Cream.
 
-_Ingredients_--1Ω pint of white stock.
-               1†oz. of crushed tapioca.
+_Ingredients_--1Ì†∞int of white stock.
+               1‡Ø∫. of crushed tapioca.
                2 tablespoonfuls of cream.
                The yolks of 2 eggs.
                Pepper and salt to taste.
@@ -9359,13 +9368,13 @@ it, as that would curdle them.
 
 Palestine Soup.
 
-_Ingredients_--3†lb. of Jerusalem artichokes.
+_Ingredients_--3‡¨¢. of Jerusalem artichokes.
                2 quarts of stock; or the liquor mutton or veal has been
                  boiled in.
                1 onion.
                1 turnip.
-               Ω head of celery.
-               Ω pint of cream, or good milk.
+               Ì†®ead of celery.
+               Ì†∞int of cream, or good milk.
                Pepper and salt to taste.
 
 _Method._--Peel and cut the artichokes and other vegetables into slices.
@@ -9379,13 +9388,13 @@ Add the cream, and boil it in the soup.
 Add pepper and salt; and serve with fried _croutons_ of bread.
 
 
-Potato PurÈe.
+Potato PurÈ•Æ
 
-_Ingredients_--1†lb. of potatoes.
+_Ingredients_--1‡¨¢. of potatoes.
                1 onion.
                1 stick of celery.
-               1Ω pint of white stock.
-               Ω pint of cream or milk.
+               1Ì†∞int of white stock.
+               Ì†∞int of cream or milk.
                Pepper and salt to taste.
 
 _Method._--Peel the potatoes, and cut them, as well as the onion and the
@@ -9400,7 +9409,7 @@ Add the cream to the soup, and make it hot.
 Serve with fried _croutons_ of bread.
 
 
-Egyptian PurÈe or Lentil Soup.
+Egyptian PurÈ•†or Lentil Soup.
 
 _Ingredients_--1 pint of Egyptian lentils.
                1 good-sized onion.
@@ -9440,7 +9449,7 @@ _Ingredients_--4 calves' tails.
                A little celery.
                1 small clove of garlic.
                1 dozen peppercorns.
-               4†oz. flour.
+               4‡Ø∫. flour.
                2 quarts of stock.
                Salt.
 
@@ -9468,10 +9477,10 @@ _Ingredients_--1 ox-tail.
                2 bay leaves.
                3 cloves.
                Pepper and salt.
-               2†oz. of butter.
+               2‡Ø∫. of butter.
                1 wineglass of sherry.
                A few drops of lemon juice.
-               4†oz. of flour.
+               4‡Ø∫. of flour.
 
 _Method._--Cut the ox-tail into joints.
 
@@ -9506,7 +9515,7 @@ _Ingredients_--1 sheep's head.
                1 large onion.
                1 sprig of parsley, thyme, and marjoram.
                1 head of celery.
-               4†oz. of flour.
+               4‡Ø∫. of flour.
                1 teaspoonful of minced parsley.
                2 tablespoonfuls of bread-crumbs.
                1 egg.
@@ -9549,7 +9558,7 @@ Put them in a soup-tureen, and pour the soup over them.
 
 Tapioca Soup.
 
-_Ingredients_--2†oz. of tapioca.
+_Ingredients_--2‡Ø∫. of tapioca.
                4 pints of second stock.
 
 _Method._--Wash the tapioca well, and throw it into the stock when
@@ -9598,7 +9607,7 @@ a plain second stock.
 Giblet Soup.
 
 _Ingredients_--2 sets of goose or 4 sets of duck giblets.
-               º of a head of celery.
+               Ï†Øf a head of celery.
                1 carrot.
                1 turnip.
                1 onion.
@@ -9636,7 +9645,7 @@ Milk Soup.
 
 _Ingredients_--4 potatoes.
                2 onions.
-               2†oz. of butter or dripping.
+               2‡Ø∫. of butter or dripping.
                3 tablespoonfuls of semolina.
                1 pint of milk.
                2 quarts of liquor from meat.
@@ -9666,16 +9675,16 @@ _Ingredients_--2 lettuces.
                Half a cucumber.
                2 pints of white stock.
                The yolks of 3 eggs.
-               º of a pint of cream.
+               Ï†Øf a pint of cream.
                The crust of a French roll.
-               Ω†oz. of butter.
+               Ì†Øz. of butter.
 
 _Method._--Wash the lettuce, taragons, and chervil well, and shred them
 finely.
 
 Peel the cucumber, and shred it also finely.
 
-Melt the butter, and gently _sautÈ_ the vegetables in it for five
+Melt the butter, and gently _sautÈü†the vegetables in it for five
 minutes, taking care they do not discolour.
 
 Boil the stock in another saucepan, and, when boiling, pour it on to the
@@ -9698,9 +9707,9 @@ baked in the oven and then cut into fancy shapes.
 Turnip Soup.
 
 _Ingredients_--1 quart of stock, or the boilings from mutton.
-               2†lb. of turnips.
+               2‡¨¢. of turnips.
                1 large onion.
-               Ω pint of cream, or good milk.
+               Ì†∞int of cream, or good milk.
                2 large slices of bread.
                Pepper and salt to taste.
 
@@ -9724,7 +9733,7 @@ Rabbit Soup.
 
 _Ingredients_--1 large rabbit.
                2 quarts of water.
-               Ω pint of milk or cream.
+               Ì†∞int of milk or cream.
                2 good-sized onions.
 
 _Method._--Cut the rabbit into joints.
@@ -9752,13 +9761,13 @@ a slice of lean pork.
 Hare Soup.
 
 _Ingredients_--1 hare.
-               1†lb. of gravy beef.
+               1‡¨¢. of gravy beef.
                1 carrot, 1 turnip, and 1 onion.
                1 sprig of parsley, thyme, and marjoram.
                1 bay leaf.
                1 dozen peppercorns.
                1 blade of mace and 5 cloves.
-               2 or 3†oz. of butter or dripping.
+               2 or 3‡Ø∫. of butter or dripping.
                7 pints of water.
 
 _Method._--Cut the hare into joints, and the meat into pieces, and fry
@@ -9794,8 +9803,8 @@ _Ingredients_--1 rabbit or chicken.
                1 onion.
                1 apple.
                2 tablespoonfuls of curry powder.
-               Ω pint of cream.
-               2†oz. of butter or dripping.
+               Ì†∞int of cream.
+               2‡Ø∫. of butter or dripping.
                A few drops of lemon juice.
 
 _Method._--Cut the rabbit, or chicken, into joints, and fry them in the
@@ -9828,8 +9837,8 @@ Serve nicely boiled rice with this soup (_see_ Rice for Curry).
 Parsnip Soup.
 
 _Ingredients_--2 quarts of stock.
-               2†lb. of parsnips.
-               If possible, Ω pint of cream.
+               2‡¨¢. of parsnips.
+               If possible, Ì†∞int of cream.
                Pepper and salt to taste.
 
 _Method._--Slice the parsnips and put them into boiling stock.
@@ -9852,7 +9861,7 @@ Red Lentil Soup.
 _Ingredients_--1 pint of Egyptian lentils.
                1 large carrot.
                3 onions.
-               2†lb. of parsnips.
+               2‡¨¢. of parsnips.
                1 sprig of parsley.
                2 or 3 large crusts of bread.
                2 quarts of water.
@@ -9872,11 +9881,11 @@ Make it hot again, stirring all the time, and it is ready to serve.
 Mock-Turtle Soup.
 
 _Ingredients_--Half a calf's head.
-               3†oz. of butter.
+               3‡Ø∫. of butter.
                1 shalot.
                Half-a-dozen mushrooms.
                1 carrot.
-               Ω a head of celery.
+               Ì†° head of celery.
                1 leek.
                1 onion.
                1 small turnip.
@@ -9884,11 +9893,11 @@ _Ingredients_--Half a calf's head.
                1 bay leaf.
                1 blade of mace.
                5 cloves.
-               3†oz. of flour.
+               3‡Ø∫. of flour.
                2 wineglasses of sherry.
                1 dozen forcemeat balls.
                4 quarts of water.
-               º†lb. of ham.
+               Ï†¨b. of ham.
                Pepper and salt to taste.
 
 _Method._--Wash the calf's head thoroughly.
@@ -9932,7 +9941,7 @@ It is better to make this soup the day before it is wanted.
 
 Pot-au-Feu.
 
-_Ingredients_--4†lb. of sticking of beef, or 4†lb. of ox cheek without the
+_Ingredients_--4‡¨¢. of sticking of beef, or 4‡¨¢. of ox cheek without the
                  bone.
                2 large carrots.
                1 head of celery.
@@ -9941,7 +9950,7 @@ _Ingredients_--4†lb. of sticking of beef, or 4†lb. of ox cheek without the
                3 sprigs of parsley, thyme, and marjoram.
                3 cloves.
                6 quarts of water.
-               2†oz. of crushed tapioca, or sago.
+               2‡Ø∫. of crushed tapioca, or sago.
                Pepper and salt to taste.
 
 _Method._--Tie the meat firmly into shape with string.
@@ -9975,11 +9984,11 @@ stirring occasionally.
 
 Dr. Kitchener's Broth.
 
-_Ingredients_--4†oz. of Scotch barley.
-               4†oz. of sliced onions.
-               2†oz. of dripping.
-               3†oz. bacon.
-               4†oz. oatmeal.
+_Ingredients_--4‡Ø∫. of Scotch barley.
+               4‡Ø∫. of sliced onions.
+               2‡Ø∫. of dripping.
+               3‡Ø∫. bacon.
+               4‡Ø∫. oatmeal.
                5 quarts of the liquor from meat.
 
 _Method._--Wash the barley, and soak it in water for two hours.
@@ -10003,7 +10012,7 @@ to simmer for thirty minutes; the soup is then ready.
 Crowdie.
 
 _Ingredients_--1 gallon of liquor from meat.
-               º pint of oatmeal.
+               Ï†∞int of oatmeal.
                1 onion.
                Pepper and salt.
 
@@ -10073,12 +10082,12 @@ well greased, especially at the bottom.
 
 A Quartern Loaf.
 
-_Ingredients_--3Ω†lb. of flour.
-               1æ pint of water.
-               Ω†oz. of salt.
-               1†oz. of German yeast.
+_Ingredients_--3Ì†¨b. of flour.
+               1Ó†∞int of water.
+               Ì†Øz. of salt.
+               1‡Ø∫. of German yeast.
 
-_Method._--Put 3†lb. of flour into the pan.
+_Method._--Put 3‡¨¢. of flour into the pan.
 
 Make the water lukewarm, and mix it with the yeast.
 
@@ -10103,9 +10112,9 @@ must be _much_ lowered, that the bread may get well cooked through.
 
 Vienna Bread.
 
-_Ingredients_--2†lb. of Vienna flour.
-               2†oz. of butter.
-               1†oz. of German yeast.
+_Ingredients_--2‡¨¢. of Vienna flour.
+               2‡Ø∫. of butter.
+               1‡Ø∫. of German yeast.
                1 pint of milk.
                1 teaspoonful of salt.
 
@@ -10131,7 +10140,7 @@ glaze them.
 
 Unfermented Bread.
 
-_Ingredients_--1†lb. of flour.
+_Ingredients_--1‡¨¢. of flour.
                2 heaped teaspoonfuls of baking powder.
                Enough water to mix a dough.
 
@@ -10145,8 +10154,8 @@ half an hour.
 
 Milk Rolls.
 
-_Ingredients_--1†lb. of flour.
-               2†oz. of butter.
+_Ingredients_--1‡¨¢. of flour.
+               2‡Ø∫. of butter.
                2 heaped teaspoonfuls of baking powder.
                Enough milk to mix to a dough.
 
@@ -10162,11 +10171,11 @@ Brush over with a little milk to glaze them.
 
 Pound Cake.
 
-_Ingredients_--10†oz. of flour.
-               8†oz. of butter.
-               8†oz. of castor sugar.
-               2†oz. of candied peel.
-               º†lb. of sultanas.
+_Ingredients_--10‡Ø∫. of flour.
+               8‡Ø∫. of butter.
+               8‡Ø∫. of castor sugar.
+               2‡Ø∫. of candied peel.
+               Ï†¨b. of sultanas.
                4 large eggs.
                Grated rind of a lemon.
 
@@ -10191,9 +10200,9 @@ Bake for about two hours.
 
 Queen Cakes.
 
-_Ingredients_--6†oz. of flour.
-               4†oz. of butter.
-               4†oz. of sugar.
+_Ingredients_--6‡Ø∫. of flour.
+               4‡Ø∫. of butter.
+               4‡Ø∫. of sugar.
                4 eggs.
                A few currants.
                Grated rind of a lemon.
@@ -10213,11 +10222,11 @@ Bake in a moderately quick oven for about a quarter of an hour.
 
 Rock Cakes.
 
-_Ingredients_--1†lb. of flour.
-               6†oz. of butter.
-               6†oz. of castor sugar.
-               Ω†lb. of currants.
-               2†oz. of candied peel.
+_Ingredients_--1‡¨¢. of flour.
+               6‡Ø∫. of butter.
+               6‡Ø∫. of castor sugar.
+               Ì†¨b. of currants.
+               2‡Ø∫. of candied peel.
                1 teaspoonful of baking powder.
                2 eggs.
                Grated rind of a lemon.
@@ -10235,10 +10244,10 @@ Bake in a quick oven for a quarter of an hour.
 
 Plain Rock Cakes.
 
-_Ingredients_--1†lb. of flour.
-               º†lb. of moist sugar.
-               º†lb. of currants.
-               º†lb. of butter, lard, or dripping.
+_Ingredients_--1‡¨¢. of flour.
+               Ï†¨b. of moist sugar.
+               Ï†¨b. of currants.
+               Ï†¨b. of butter, lard, or dripping.
                1 egg.
                A little milk.
 
@@ -10255,14 +10264,14 @@ Bake in a quick oven for about a quarter of an hour.
 
 Plain Seed Cake.
 
-_Ingredients_--10†oz. of flour.
-               3†oz. of butter or clarified dripping.
+_Ingredients_--10‡Ø∫. of flour.
+               3‡Ø∫. of butter or clarified dripping.
                1 teaspoonful of caraway seeds.
-               3†oz. of castor sugar.
+               3‡Ø∫. of castor sugar.
                2 teaspoonfuls of baking powder.
                1 egg.
-               æ gill of milk.
-               Ω saltspoonful of salt.
+               Ó†ßill of milk.
+               Ì†≥altspoonful of salt.
 
 _Method._--Rub the fat well into the flour.
 
@@ -10275,14 +10284,14 @@ Bake in a well-greased cake-tin for about an hour.
 
 Sultana Cake.
 
-_Ingredients_--10†oz. of flour.
-               º†lb. butter.
-               º†lb. of castor sugar.
-               º†lb. of sultana raisins.
-               1†oz. of candied peel.
+_Ingredients_--10‡Ø∫. of flour.
+               Ï†¨b. butter.
+               Ï†¨b. of castor sugar.
+               Ï†¨b. of sultana raisins.
+               1‡Ø∫. of candied peel.
                2 eggs.
                1 teaspoonful of baking powder.
-               Ω gill of milk.
+               Ì†ßill of milk.
                Grated rind of a lemon.
 
 _Method._--Rub the butter well into the flour.
@@ -10300,11 +10309,11 @@ Bake for about one hour and a half.
 
 Plain Plum Cake.
 
-_Ingredients_--1†lb. of flour.
-               º†lb. of dripping.
-               º†lb. of currants.
-               Ω pint of milk.
-               º†lb. of sugar.
+_Ingredients_--1‡¨¢. of flour.
+               Ï†¨b. of dripping.
+               Ï†¨b. of currants.
+               Ì†∞int of milk.
+               Ï†¨b. of sugar.
                2 teaspoonfuls of baking powder.
 
 _Method._--Rub the dripping into the flour.
@@ -10318,8 +10327,8 @@ Bake in a well-greased cake-tin for about one hour and a quarter.
 
 Rice Cake.
 
-_Ingredients_--8†oz. of ground rice.
-               6†oz. of castor sugar.
+_Ingredients_--8‡Ø∫. of ground rice.
+               6‡Ø∫. of castor sugar.
                4 eggs.
                Grated rind of a lemon.
 
@@ -10332,9 +10341,9 @@ Bake in a well-greased baking-tin in a quick oven for about one hour.
 
 Cornflour Cake.
 
-_Ingredients_--º†lb. of cornflour.
-               º†lb. of castor sugar.
-               2†oz. of butter.
+_Ingredients_--Ï†¨b. of cornflour.
+               Ï†¨b. of castor sugar.
+               2‡Ø∫. of butter.
                1 teaspoonful of baking powder.
                2 eggs.
 
@@ -10352,11 +10361,11 @@ three-quarters of an hour.
 
 Scones.
 
-_Ingredients_--1†lb. of flour.
-               2†oz. of castor sugar.
-               3†oz. of butter.
-               Ω pint of milk.
-               2 teaspoonfuls of baking powder, or º†oz. of cream of
+_Ingredients_--1‡¨¢. of flour.
+               2‡Ø∫. of castor sugar.
+               3‡Ø∫. of butter.
+               Ì†∞int of milk.
+               2 teaspoonfuls of baking powder, or Ï†Øz. of cream of
                  tartar, and
                1 teaspoonful of carbonate of soda.
 
@@ -10381,13 +10390,13 @@ Brush them over with a little white of egg or milk to glaze them.
 
 Currant Cake.
 
-_Ingredients_--10†oz. of flour.
-               º†lb. of currants.
-               º†lb. of sugar.
-               3†oz. of butter.
+_Ingredients_--10‡Ø∫. of flour.
+               Ï†¨b. of currants.
+               Ï†¨b. of sugar.
+               3‡Ø∫. of butter.
                1 egg.
                2 teaspoonfuls of baking powder.
-               º pint of milk.
+               Ï†∞int of milk.
                A little grated lemon rind.
 
 _Method._--Rub the butter into the flour until like fine bread-crumbs.
@@ -10403,16 +10412,16 @@ and a half.
 
 Luncheon Cake.
 
-_Ingredients_--1†lb. of flour.
-               4†oz. of butter, lard, or dripping.
-               º†lb. of sultanas.
-               º†lb. of currants.
-               6†oz. of sugar.
-               2†oz. of candied peel.
+_Ingredients_--1‡¨¢. of flour.
+               4‡Ø∫. of butter, lard, or dripping.
+               Ï†¨b. of sultanas.
+               Ï†¨b. of currants.
+               6‡Ø∫. of sugar.
+               2‡Ø∫. of candied peel.
                2 eggs.
-               Rather less than a º pint of milk.
+               Rather less than a Ï†∞int of milk.
                2 teaspoonfuls of baking powder.
-               1†oz. of lump sugar.
+               1‡Ø∫. of lump sugar.
                Grated lemon rind.
 
 _Method._--Put the lump sugar in a saucepan and burn it brown.
@@ -10436,15 +10445,15 @@ Bake from one hour and a half to two hours.
 
 Gingerbread.
 
-_Ingredients_--2†lb. of flour.
-               2†lb. of treacle.
-               Ω†lb. moist sugar.
+_Ingredients_--2‡¨¢. of flour.
+               2‡¨¢. of treacle.
+               Ì†¨b. moist sugar.
                3 eggs.
-               Ω†oz. of carbonate of soda.
-               8†oz. of butter.
-               2†oz. of ginger.
-               Ω a cup of water.
-               2†oz. of candied peel.
+               Ì†Øz. of carbonate of soda.
+               8‡Ø∫. of butter.
+               2‡Ø∫. of ginger.
+               Ì†° cup of water.
+               2‡Ø∫. of candied peel.
 
 _Method._--Put the flour, sugar, ginger, candied peel, and carbonate of
 soda into a basin.
@@ -10462,9 +10471,9 @@ Bake in a moderate oven for about an hour and a half.
 
 Sponge Cake.
 
-_Ingredients_--4†oz. of flour.
+_Ingredients_--4‡Ø∫. of flour.
                5 eggs.
-               4†oz. of castor sugar.
+               4‡Ø∫. of castor sugar.
 
 _Method._--Oil the cake-mould, and dust it over with castor sugar.
 
@@ -10501,11 +10510,11 @@ Spread with the jam melted and roll up quickly.
 
 Seed Cake.
 
-_Ingredients_--1†lb. of flour.
-               4†oz. of butter.
-               6†oz. of castor sugar.
-               Ω†oz. of caraway seeds.
-               º pint of milk.
+_Ingredients_--1‡¨¢. of flour.
+               4‡Ø∫. of butter.
+               6‡Ø∫. of castor sugar.
+               Ì†Øz. of caraway seeds.
+               Ï†∞int of milk.
                1 teaspoonful of baking powder.
                2 eggs.
 
@@ -10522,11 +10531,11 @@ Bake in a nicely prepared tin for about one hour and a half.
 
 Madeira Cake.
 
-_Ingredients_--10†oz. of flour.
-               10†oz. of lump sugar.
-               º†lb. of butter.
+_Ingredients_--10‡Ø∫. of flour.
+               10‡Ø∫. of lump sugar.
+               Ï†¨b. of butter.
                6 eggs.
-               Ω gill of water.
+               Ì†ßill of water.
 
 _Method._--Boil the water and sugar to a syrup.
 
@@ -10542,12 +10551,12 @@ Pour in the mixture, and bake from one hour and a half to two hours.
 
 Buns.
 
-_Ingredients_--16†oz. of flour.
-               Ω†oz. of yeast.
-               Ω pint of milk.
-               2†oz. of sugar.
-               2†oz. of sultanas.
-               2†oz. of butter.
+_Ingredients_--16‡Ø∫. of flour.
+               Ì†Øz. of yeast.
+               Ì†∞int of milk.
+               2‡Ø∫. of sugar.
+               2‡Ø∫. of sultanas.
+               2‡Ø∫. of butter.
                1 egg.
 
 _Method._--Put ten ounces of the flour into a basin.
@@ -10576,10 +10585,10 @@ buns over with this to glaze them.
 
 Dough Cake.
 
-_Ingredients_--Ω quartern of dough.
-               º†lb. of currants.
-               º†lb. of moist sugar.
-               º†lb. of clarified dripping.
+_Ingredients_--Ì†±uartern of dough.
+               Ï†¨b. of currants.
+               Ï†¨b. of moist sugar.
+               Ï†¨b. of clarified dripping.
 
 _Method._--Put the dough into a basin.
 
@@ -10594,14 +10603,14 @@ Bake in a moderate oven for two hours.
 
 Candied-peel Drops.
 
-_Ingredients_--Ω†lb. of flour.
-               3†oz. of butter.
-               3†oz. of candied peel.
+_Ingredients_--Ì†¨b. of flour.
+               3‡Ø∫. of butter.
+               3‡Ø∫. of candied peel.
                Grated rind of a lemon.
                1 egg.
                A little milk.
                One teaspoonful of baking powder.
-               3†oz. of sugar.
+               3‡Ø∫. of sugar.
 
 _Method._--Rub the butter into the flour.
 
@@ -10617,9 +10626,9 @@ Bake in a quick oven for about fifteen minutes.
 
 Shrewsbury Cakes.
 
-_Ingredients_--º†lb. of butter.
-               º†lb. of castor sugar.
-               6†oz. of flour.
+_Ingredients_--Ï†¨b. of butter.
+               Ï†¨b. of castor sugar.
+               6‡Ø∫. of flour.
                1 egg.
 
 _Method._--Cream the butter and sugar.
@@ -10639,11 +10648,11 @@ Bake in a moderate oven from fifteen to twenty minutes.
 
 Oatmeal Biscuits.
 
-_Ingredients_--7†oz. of flour.
-               3†oz. of oatmeal.
-               3†oz. of castor sugar.
-               3†oz. of lard, dripping, or butter.
-               º teaspoonful of baking powder.
+_Ingredients_--7‡Ø∫. of flour.
+               3‡Ø∫. of oatmeal.
+               3‡Ø∫. of castor sugar.
+               3‡Ø∫. of lard, dripping, or butter.
+               Ï†¥easpoonful of baking powder.
                1 egg.
                1 tablespoonful of water.
 
@@ -10663,9 +10672,9 @@ Bake in a moderate oven for about twenty minutes.
 
 Shortbread.
 
-_Ingredients_--º†lb. of flour.
-               1†oz. of castor sugar.
-               2†oz. of butter.
+_Ingredients_--Ï†¨b. of flour.
+               1‡Ø∫. of castor sugar.
+               2‡Ø∫. of butter.
 
 _Method._--Put the flour and sugar into a basin.
 
@@ -10679,11 +10688,11 @@ hour.
 
 Yorkshire Teacakes.
 
-_Ingredients_--æ†lb. of flour.
-               1Ω gill of milk.
-               1†oz. of butter.
+_Ingredients_--Ó†¨b. of flour.
+               1Ì†ßill of milk.
+               1‡Ø∫. of butter.
                1 egg.
-               Ω†oz. of German yeast.
+               Ì†Øz. of German yeast.
 
 _Method._--Put the flour into a basin, and rub the butter into it.
 
@@ -10709,12 +10718,12 @@ Brush them over with a syrup of sugar and water to glaze them.
 
 Ginger Biscuits.
 
-_Ingredients_--Ω†lb. of flour.
-               2†oz. of butter, lard, or dripping.
-               Ω†oz. of ground ginger.
-               2†oz. of castor sugar.
+_Ingredients_--Ì†¨b. of flour.
+               2‡Ø∫. of butter, lard, or dripping.
+               Ì†Øz. of ground ginger.
+               2‡Ø∫. of castor sugar.
                1 egg, and a little milk.
-               Ω teaspoonful of baking powder.
+               Ì†¥easpoonful of baking powder.
 
 _Method._--Rub the butter into the flour until it is like fine
 bread-crumbs.
@@ -10731,9 +10740,9 @@ Bake in a moderate oven for about twenty minutes.
 
 Lemon-rock Cakes.
 
-_Ingredients_--1†lb. of flour.
-               3†oz. of butter.
-               5†oz. of castor sugar.
+_Ingredients_--1‡¨¢. of flour.
+               3‡Ø∫. of butter.
+               5‡Ø∫. of castor sugar.
                Grated rind of one lemon and juice of two.
                1 egg.
                A little milk.
@@ -10753,14 +10762,14 @@ Bake in a quick oven for about fifteen minutes.
 
 Soda Cakes.
 
-_Ingredients_--Ω†lb. of flour.
-               2†oz. of butter.
-               3†oz. of sugar.
-               1†oz. of candied peel.
+_Ingredients_--Ì†¨b. of flour.
+               2‡Ø∫. of butter.
+               3‡Ø∫. of sugar.
+               1‡Ø∫. of candied peel.
                Grated rind of a lemon.
                1 whole egg.
                If necessary, a little milk.
-               Ω a teaspoonful of carbonate soda.
+               Ì†° teaspoonful of carbonate soda.
 
 _Method._--Rub the butter well into the flour.
 
@@ -10776,11 +10785,11 @@ Bake in a quick oven for fifteen minutes.
 
 Gingerbread Cakes.
 
-_Ingredients_--1†lb. of flour.
-               6†oz. of butter, lard, or dripping.
-               1†oz. of ground ginger.
-               4†oz. of moist sugar.
-               æ†lb. of treacle.
+_Ingredients_--1‡¨¢. of flour.
+               6‡Ø∫. of butter, lard, or dripping.
+               1‡Ø∫. of ground ginger.
+               4‡Ø∫. of moist sugar.
+               Ó†¨b. of treacle.
 
 _Method._--Put the sugar, treacle, and fat into a saucepan, and melt
 them.
@@ -10797,11 +10806,11 @@ minutes.
 
 Rice Buns.
 
-_Ingredients_--º†lb. of ground rice.
-               º†lb. of castor sugar.
-               2†oz. of butter.
+_Ingredients_--Ï†¨b. of ground rice.
+               Ï†¨b. of castor sugar.
+               2‡Ø∫. of butter.
                1 egg.
-               Ω a teaspoonful of baking powder.
+               Ì†° teaspoonful of baking powder.
                A little flavouring essence.
 
 _Method._--Beat the butter to a cream with the sugar.
@@ -10814,12 +10823,12 @@ moderate oven for a quarter of an hour.
 
 Galettes.
 
-_Ingredients_--1†lb. of Vienna flour.
-               1†lb. of household flour.
-               1†oz. of yeast.
-               Ω†lb. of butter.
+_Ingredients_--1‡¨¢. of Vienna flour.
+               1‡¨¢. of household flour.
+               1‡Ø∫. of yeast.
+               Ì†¨b. of butter.
                6 eggs.
-               Ω a pint of milk.
+               Ì†° pint of milk.
                A little sugar.
 
 _Method._--Make the milk tepid.
@@ -10910,12 +10919,12 @@ and draw the mould carefully away.
 
 Strawberry Cream.
 
-_Ingredients_--Ω pint of double cream.
-               1†oz. of amber gelatine, or rather less than Ω†oz. of the
+_Ingredients_--Ì†∞int of double cream.
+               1‡Ø∫. of amber gelatine, or rather less than Ì†Øz. of the
                  opaque.
                2 tablespoonfuls of castor sugar.
                Some strawberries.
-               º pint of milk.
+               Ï†∞int of milk.
                A few drops of cochineal.
 
 _Method._--Soak the gelatine in the milk for about twenty minutes or
@@ -10924,11 +10933,11 @@ more.
 Then dissolve it by stirring it in a saucepan over the fire.
 
 Rub sufficient strawberries through a hair sieve to make a quarter of a
-pint of _purÈe_.
+pint of _purÈ•ü.
 
 Beat up the cream with the sugar.
 
-Then add the _purÈe_ of fruit, and a few drops of cochineal to colour
+Then add the _purÈ•ü of fruit, and a few drops of cochineal to colour
 it.
 
 Lastly stir in the melted gelatine.
@@ -10942,10 +10951,10 @@ it on to a glass dish.
 Charlotte Russe.
 
 _Ingredients_--1 dozen sponge fingers.
-               1†oz. of glace cherries.
-               Ω pint of double cream.
-               Ω†oz. of amber gelatine melted in a little milk, or less
-                 than º†oz. of the opaque.
+               1‡Ø∫. of glace cherries.
+               Ì†∞int of double cream.
+               Ì†Øz. of amber gelatine melted in a little milk, or less
+                 than Ï†Øz. of the opaque.
                2 dessertspoonfuls of castor sugar.
                A few drops of essence of vanilla, or other flavouring.
 
@@ -10975,12 +10984,12 @@ and turn it carefully on to a glass dish.
 
 Custard Cream.
 
-_Ingredients_--Ω pint of double cream.
+_Ingredients_--Ì†∞int of double cream.
                3 tablespoonfuls of castor sugar.
-               1†oz. of amber gelatine, or less than Ω of the opaque.
+               1‡Ø∫. of amber gelatine, or less than Ì†Øf the opaque.
                1 whole egg.
                3 yolks.
-               Ω pint of hot milk.
+               Ì†∞int of hot milk.
                A few drops of vanilla or other essence.
 
 _Method._--Put the gelatine to soak in a little milk.
@@ -11004,8 +11013,8 @@ Pour at once into a wetted mould.
 
 Bohemian Cream.
 
-_Ingredients_--Ω pint of sweet jelly of any kind.
-               Ω pint of double cream.
+_Ingredients_--Ì†∞int of sweet jelly of any kind.
+               Ì†∞int of double cream.
 
 _Method._--Beat the cream stiffly.
 
@@ -11016,10 +11025,10 @@ Pour into a wetted mould.
 
 Wine Jelly.
 
-_Ingredients_--1†oz. packet of either Nelson's or Swinbourne's gelatine.
+_Ingredients_--1‡Ø∫. packet of either Nelson's or Swinbourne's gelatine.
                1 pint of water.
-               Ω pint of sherry.
-               º to Ω†lb. of lump sugar, according to taste.
+               Ì†∞int of sherry.
+               Ï†¥o Ì†¨b. of lump sugar, according to taste.
                The juice of two lemons.
                The rind of one.
                The whites and shells of 2 large eggs.
@@ -11057,7 +11066,7 @@ To turn this into Calf's-foot Jelly, add--
 
     Half a pint of white wine.
     The rind of 2 and the juice of 4 lemons.
-    æ†lb. of lump sugar.
+    Ó†¨b. of lump sugar.
     The whites and shells of 4 eggs.
     Clarify and strain (_see_ To clear Jellies).
 
@@ -11065,9 +11074,9 @@ To turn this into Calf's-foot Jelly, add--
 Pineapple Jelly.
 
 _Ingredients_--1 pineapple.
-               1†oz. packet of gelatine.
+               1‡Ø∫. packet of gelatine.
                1 pint of water.
-               º†lb. of lump sugar.
+               Ï†¨b. of lump sugar.
                The thin rind of 1 lemon, and the juice of 2.
                The whites and shells of 2 large eggs.
 
@@ -11085,10 +11094,10 @@ Then clarify (_see_ To clear Jellies).
 
 Aspic Jelly.
 
-_Ingredients_--1†oz. packet of gelatine.
+_Ingredients_--1‡Ø∫. packet of gelatine.
                1 pint of good stock.
-               º pint of taragon vinegar.
-               º pint of sherry.
+               Ï†∞int of taragon vinegar.
+               Ï†∞int of sherry.
                A small carrot, turnip, and onion.
                A sprig of parsley, thyme, and marjoram.
                2 bay leaves.
@@ -11109,10 +11118,10 @@ Jellies).
 
 Claret Jelly.
 
-_Ingredients_--1†oz. packet of gelatine.
-               Ω pint of water.
+_Ingredients_--1‡Ø∫. packet of gelatine.
+               Ì†∞int of water.
                1 pint of claret.
-               Ω†lb. of lump sugar.
+               Ì†¨b. of lump sugar.
                A few drops of cochineal.
 
 _Method._--Soak the gelatine in the water.
@@ -11135,9 +11144,9 @@ Orange Jelly.
 _Ingredients_--1 dozen oranges.
                1 lemon.
                2 pints of water.
-               1†oz. packet and a half of Swinbourne's or Nelson's opaque
+               1‡Ø∫. packet and a half of Swinbourne's or Nelson's opaque
                  gelatine (in summer two packets).
-               Ω†lb. of lump sugar.
+               Ì†¨b. of lump sugar.
 
 _Method._--Soak the gelatine in the water with the thin rind of one
 lemon and three oranges.
@@ -11157,11 +11166,11 @@ glass dish.
 Strawberry Jelly.
 
 _Ingredients_--1 quart of strawberries.
-               Ω†lb. of lump sugar.
+               Ì†¨b. of lump sugar.
                Juice of one lemon.
-               1Ω†oz. of Swinbourne's or Nelson's opaque gelatine.
-               Ω pint of cold water.
-               Ω pint of boiling water.
+               1Ì†Øz. of Swinbourne's or Nelson's opaque gelatine.
+               Ì†∞int of cold water.
+               Ì†∞int of boiling water.
                The whites and shells of 2 large eggs.
 
 _Method._--Soak the gelatine in the cold water.
@@ -11187,13 +11196,13 @@ Orange Cream.
 
 _Ingredients_--1 pint of double cream.
                4 oranges.
-               4†oz. of sugar.
-               1†oz. packet of gelatine.
+               4‡Ø∫. of sugar.
+               1‡Ø∫. packet of gelatine.
                2 whole eggs.
                Yolks of 4 eggs.
                1 pint of milk.
 
-_Method._--Soak the gelatine in a º pint of milk with the thin rind of
+_Method._--Soak the gelatine in a Ï†∞int of milk with the thin rind of
 one orange.
 
 Strain the juice of the oranges into a cup.
@@ -11218,10 +11227,10 @@ cream in the middle.
 
 Blancmange.
 
-_Ingredients_--1†oz. packet of Swinbourne's isinglass.
+_Ingredients_--1‡Ø∫. packet of Swinbourne's isinglass.
                1 pint of milk.
                1 pint of cream.
-               3 or 4†oz. castor sugar.
+               3 or 4‡Ø∫. castor sugar.
                Flavouring essence.
 
 _Method._--Soak the isinglass in the milk; add the sugar and stir over
@@ -11241,13 +11250,13 @@ Vanilla Cream.
 Make a thick cream as for Charlotte Russe, and flavour with vanilla.
 
 
-G‚teau aux Pommes.
+G‚¥•au aux Pommes.
 
-_Ingredients_--2†lb. apples.
-               3†oz. moist sugar.
+_Ingredients_--2‡¨¢. apples.
+               3‡Ø∫. moist sugar.
                1 lemon.
-               Ω†oz. packet of Swinbourne's or Nelson's gelatine.
-               Ω pint of water.
+               Ì†Øz. packet of Swinbourne's or Nelson's gelatine.
+               Ì†∞int of water.
                A few drops of cochineal.
 
 _Method._--Soak the gelatine in half the water.
@@ -11272,10 +11281,10 @@ Colour with cochineal, and pour the mixture into a wetted mould.
 
 Compote of Peaches.
 
-_Ingredients_--10†oz. of sugar.
+_Ingredients_--10‡Ø∫. of sugar.
                1 pint of water.
                1 dozen peaches.
-               Ω pint of whipped cream.
+               Ì†∞int of whipped cream.
 
 _Method._--Boil the sugar and water for ten minutes.
 
@@ -11291,12 +11300,12 @@ When cold, cover with whipped cream.
 Almond Bavarian Cream.
 
 _Ingredients_--1 pint of double cream.
-               Ω†lb. of sweet almonds.
+               Ì†¨b. of sweet almonds.
                1 or 2 drops of essence of almonds.
-               4†oz. of castor sugar.
-               æ of an ounce packet of gelatine.
+               4‡Ø∫. of castor sugar.
+               Ó†Øf an ounce packet of gelatine.
                3 eggs.
-               æ of a pint of milk.
+               Ó†Øf a pint of milk.
 
 _Method._--Soak the gelatine in the milk.
 
@@ -11324,9 +11333,9 @@ Stone Cream.
 _Ingredients_--1 pint of double cream.
                2 wineglasses of sherry.
                Juice of a lemon.
-               º†lb. of castor sugar.
+               Ï†¨b. of castor sugar.
                1 gill of milk.
-               1†oz. of Nelson's or Swinbourne's opaque gelatine.
+               1‡Ø∫. of Nelson's or Swinbourne's opaque gelatine.
                A little almond flavouring.
 
 _Method._--Soak the gelatine in the milk with the sugar.
@@ -11345,9 +11354,9 @@ on to a glass dish.
 
 Lemon Sponge.
 
-_Ingredients_--Ω†oz. packet of gelatine.
+_Ingredients_--Ì†Øz. packet of gelatine.
                1 pint of cold water.
-               Ω†lb. of lump sugar.
+               Ì†¨b. of lump sugar.
                The thin rind and juice of two lemons.
                The whites of 3 eggs.
 
@@ -11401,10 +11410,10 @@ Maraschino Cream.
 
 _Ingredients_--3 yolks of eggs.
                1 white.
-               Ω pint of milk.
-               Ω pint of whipped double cream.
+               Ì†∞int of milk.
+               Ì†∞int of whipped double cream.
                2 tablespoonfuls of castor sugar.
-               1†oz. of amber gelatine, or Ω†oz. of the opaque, melted in a
+               1‡Ø∫. of amber gelatine, or Ì†Øz. of the opaque, melted in a
                  little milk.
                1 small glass of maraschino.
 
@@ -11423,11 +11432,11 @@ glass dish.
 
 Pistachio Cream.
 
-_Ingredients_--Ω pint of whipped double cream.
-               Ω†oz. of amber gelatine, or less than º†oz. of the opaque,
+_Ingredients_--Ì†∞int of whipped double cream.
+               Ì†Øz. of amber gelatine, or less than Ï†Øz. of the opaque,
                  melted in a little milk.
-               1†oz. of castor sugar.
-               2†oz. of pistachio kernels blanched.
+               1‡Ø∫. of castor sugar.
+               2‡Ø∫. of pistachio kernels blanched.
                A few drops of vanilla.
 
 _Method._--Pound the pistachios in a mortar, and rub them through a
@@ -11447,12 +11456,12 @@ on to a glass dish.
 Croquant of Oranges.
 
 _Ingredients_--9 or 10 oranges.
-               Ω teacupful of melted sweet jelly.
+               Ì†¥eacupful of melted sweet jelly.
                A few pistachio kernels, blanched and chopped.
-               Ω pint of whipped double cream.
-               Ω†oz. of amber gelatine, or less than º†oz. of the opaque,
+               Ì†∞int of whipped double cream.
+               Ì†Øz. of amber gelatine, or less than Ï†Øz. of the opaque,
                  melted in a little milk.
-               2†oz. of castor sugar.
+               2‡Ø∫. of castor sugar.
 
 _Method._--Peel and divide six oranges into sections, and carefully
 remove the white skins.
@@ -11478,7 +11487,7 @@ Chartreuse de Fruit.
 _Ingredients_--Various fruits, such as strawberries, greengages, cherries,
                  peaches, &c.
                Some strawberry or other cream.
-               Ω teacupful of sweet jelly, melted.
+               Ì†¥eacupful of sweet jelly, melted.
 
 _Method._--Line a plain charlotte Russe mould tastefully with slices of
 the different fruits, dipping each piece in the melted jelly.
@@ -11493,7 +11502,7 @@ Strawberry Charlotte.
 
 _Ingredients_--Some fine ripe strawberries.
                Some pistachio kernels, blanched and chopped.
-               Ω teacupful of melted sweet jelly.
+               Ì†¥eacupful of melted sweet jelly.
                Some strawberry cream.
 
 _Method._--Line a Charlotte Russe mould tastefully with the strawberries
@@ -11532,8 +11541,8 @@ _Ingredients_--1 Savoy cake.
                Some strawberry or other jam.
                1 wineglass of sherry.
                1 wineglass of brandy.
-               Ω†lb. of macaroons.
-               1†oz. of castor sugar.
+               Ì†¨b. of macaroons.
+               1‡Ø∫. of castor sugar.
                6 sponge cakes.
 
 _Method._--Cut the cake into slices an inch thick.
@@ -11559,12 +11568,12 @@ Decorate it with chopped pistachios, and hundreds and thousands.
 
 Apple Flummery.
 
-_Ingredients_--2†lb. of apples.
+_Ingredients_--2‡¨¢. of apples.
                The rind and juice of a small lemon.
-               5†oz. of sugar.
-               º pint of water.
-               Ω†oz. packet of Nelson's or Swinbourn's gelatine.
-               Ω pint of cream.
+               5‡Ø∫. of sugar.
+               Ï†∞int of water.
+               Ì†Øz. packet of Nelson's or Swinbourn's gelatine.
+               Ì†∞int of cream.
                Cochineal.
 
 _Method._--Cut up the apples, and stew them with the sugar, lemon, and
@@ -11587,12 +11596,12 @@ to a glass dish.
 
 Apple Cream.
 
-_Ingredients_--2†lb. of apples.
-               º†lb. of sugar.
+_Ingredients_--2‡¨¢. of apples.
+               Ï†¨b. of sugar.
                1 glass of port wine.
                The rind of a lemon.
-               º pint of water.
-               Ω pint of cream or milk.
+               Ï†∞int of water.
+               Ì†∞int of cream or milk.
                Cochineal.
 
 _Method._--Wash the apples, and cut them into pieces.
@@ -11610,9 +11619,9 @@ Beat them thoroughly together, and serve when cold in a glass dish.
 
 Alpine Snow.
 
-_Ingredients_--1Ω†lb. of apples.
-               3†oz. of castor sugar.
-               º pint of water.
+_Ingredients_--1Ì†¨b. of apples.
+               3‡Ø∫. of castor sugar.
+               Ï†∞int of water.
                The thin rind and juice of half a lemon.
                The whites of 3 eggs.
                Cochineal.
@@ -11635,13 +11644,13 @@ Colour prettily with cochineal, and heap on a glass dish.
 
 Welsh Custard.
 
-_Ingredients_--2†lb. of apples.
+_Ingredients_--2‡¨¢. of apples.
                The thin rind of a lemon.
                Juice of half a lemon.
-               3†oz. of castor sugar.
+               3‡Ø∫. of castor sugar.
                2 teaspoonfuls of ground ginger.
                3 whole eggs.
-               æ pint of water.
+               Ó†∞int of water.
 
 _Method._--Wash and cut up the apples.
 
@@ -11667,7 +11676,7 @@ Cheap Custard.
 _Ingredients_--1 tablespoonful of cornflour.
                1 pint of milk.
                The yolks of 2 eggs.
-               2†oz. of castor sugar.
+               2‡Ø∫. of castor sugar.
                Vanilla or other flavouring.
 
 _Method._--Put the milk and sugar on to boil.
@@ -11692,7 +11701,7 @@ Arrowroot Custard.
 
 _Ingredients_--1 pint of milk.
                1 tablespoonful of arrowroot.
-               2†oz. of castor sugar.
+               2‡Ø∫. of castor sugar.
                The yolks of 2 eggs.
                Vanilla or other flavouring.
 
@@ -11711,11 +11720,11 @@ Plain Trifle.
 
 _Ingredients_--A little red jam.
                5 sponge cakes.
-               1†doz. ratafias.
+               1‡§Øz. ratafias.
                1 pint of milk.
                The white of an egg.
                3 eggs.
-               1†oz. of castor sugar.
+               1‡Ø∫. of castor sugar.
 
 _Method._--Boil the milk with the sugar.
 
@@ -11737,7 +11746,7 @@ with the white of egg beaten stiffly.
 
 Boiled Custard.
 
-_Ingredients_--æ pint of new milk.
+_Ingredients_--Ó†∞int of new milk.
                Yolks of 5 eggs.
                3 dessertspoonfuls of castor sugar.
                A little flavouring of vanilla, lemon, or almond.
@@ -11762,14 +11771,14 @@ stirred occasionally while cooling.
 
 
 
-SOUFFL…ES AND OMELETS.
+SOUFFL…ÖS AND OMELETS.
 
 
-The best cooks will sometimes fail in making soufflÈes, as their
+The best cooks will sometimes fail in making soufflÈ•≥, as their
 manufacture requires the very greatest care and attention. It is also
 necessary to be able to judge to a nicety the time they will take to
 cook, because, to be eaten in perfection, they should be served directly
-they are ready. In making a soufflÈe, be very careful to take _exact_
+they are ready. In making a soufflÈ•¨ be very careful to take _exact_
 measure of the different ingredients; a little too much flour, or rather
 too little milk, may make a great difference in the lightness of it. The
 flour should be the best Vienna.
@@ -11777,20 +11786,20 @@ flour should be the best Vienna.
 Another point to be attended to is to whip up the whites of the eggs as
 stiffly as possible, and to mix them with the other ingredients very
 lightly. Bear in mind that the object in beating the whites of eggs is
-to introduce air into the soufflÈe; and it is the expansion of the air
-when the soufflÈe is cooking which makes it light. If the whites are
+to introduce air into the soufflÈ•ª and it is the expansion of the air
+when the soufflÈ•†is cooking which makes it light. If the whites are
 mixed heavily with the other ingredients, the air which has been whipped
 into them is beaten out again; and consequently they fail to make the
-soufflÈe light. When the soufflÈe is firm in the middle, it is
+soufflÈ•†light. When the soufflÈ•†is firm in the middle, it is
 sufficiently cooked, and should be served with the greatest expedition,
-as it will begin to sink rapidly. An omelet soufflÈe, left in the oven
+as it will begin to sink rapidly. An omelet soufflÈ•¨ left in the oven
 two or three minutes over time, will be quite spoilt, and become tough
 and leathery.
 
-Steamed soufflÈes are turned out of the tins they are cooked in, and
+Steamed soufflÈ•≥ are turned out of the tins they are cooked in, and
 served with a sauce poured round them.
 
-Baked soufflÈes are served in the tins, which are slipped into a hot
+Baked soufflÈ•≥ are served in the tins, which are slipped into a hot
 metal or silver case, or a napkin is folded round them.
 
 Plain omelets are quickly made, and quickly spoiled. Some practice is
@@ -11802,15 +11811,15 @@ fire is essential, and the omelet should not take more than three
 minutes in the making.
 
 
-Steamed SoufflÈe.
+Steamed SoufflÈ•Æ
 
-_Ingredients_--1†oz. of butter.
-               1†oz. of flour.
-               º pint of milk.
+_Ingredients_--1‡Ø∫. of butter.
+               1‡Ø∫. of flour.
+               Ï†∞int of milk.
                4 eggs.
                2 dessertspoonfuls of castor sugar.
 
-_Method._--Well grease a soufflÈe-tin with butter.
+_Method._--Well grease a soufflÈ•≠tin with butter.
 
 Fold a half sheet of kitchen paper in three.
 
@@ -11842,14 +11851,14 @@ poured round it (_see_ Sauces).
 
 Cheese Fondu.
 
-_Ingredients_--1†oz. of butter.
-               Ω†oz. of flour.
-               º pint of milk.
-               3†oz. of grated Parmesan cheese.
+_Ingredients_--1‡Ø∫. of butter.
+               Ì†Øz. of flour.
+               Ï†∞int of milk.
+               3‡Ø∫. of grated Parmesan cheese.
                3 eggs.
                A little pepper, salt, and Cayenne.
 
-_Method._--Prepare the tin as for a steamed soufflÈe.
+_Method._--Prepare the tin as for a steamed soufflÈ•Æ
 
 Melt the butter in a small stewpan.
 
@@ -11870,7 +11879,7 @@ When done, it will be firm in the middle.
 Serve in the tin, with a napkin folded round it.
 
 
-Omelet SoufflÈe.
+Omelet SoufflÈ•Æ
 
 _Ingredients_--2 yolks and 3 whites of eggs.
                1 dessertspoonful of castor sugar.
@@ -11890,7 +11899,7 @@ Turn it on to a hot dish.
 Fold it over and serve quickly.
 
 
-A Savoury Omelet SoufflÈe.
+A Savoury Omelet SoufflÈ•Æ
 
 May be made by omitting the flavouring essence, and substituting pepper
 and salt for the sugar. The omelet should then be served with a rich
@@ -11905,7 +11914,7 @@ cases with it, and bake in a quick oven for a few minutes.
 
 Batter for Fritters (Kromesky).
 
-_Ingredients_--º†lb. of flour.
+_Ingredients_--Ï†¨b. of flour.
                1 tablespoonful of oiled butter or salad oil.
                1 gill of tepid water.
                The white of 1 egg, beaten to a stiff froth.
@@ -11945,7 +11954,7 @@ A Small Savoury Omelet.
 
 _Ingredients_--2 or 3 eggs.
                1 dessertspoonful of finely-chopped parsley.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                Pepper and salt.
 
 _Method._--Break the eggs into a basin.
@@ -12031,8 +12040,8 @@ Be careful that the meat is perfectly sweet and good.
 
 Beef Tea.
 
-_Ingredients_--1†lb. of rump or beef steak.
-               1Ω pint of cold water.
+_Ingredients_--1‡¨¢. of rump or beef steak.
+               1Ì†∞int of cold water.
 
 _Method._--Cut the steak into small pieces, and put them into a jar with
 the water; tie a piece of paper over the top.
@@ -12045,7 +12054,7 @@ added to taste.
 
 Mutton Broth.
 
-_Ingredients_--1†lb. of scrag end of neck of mutton.
+_Ingredients_--1‡¨¢. of scrag end of neck of mutton.
                2 pints of water.
                1 tablespoonful of rice.
                Salt to taste.
@@ -12069,7 +12078,7 @@ Add salt and pepper to taste.
 
 Clear Barley-water.
 
-_Ingredients_--2†oz. of pearl barley.
+_Ingredients_--2‡Ø∫. of pearl barley.
                A little thin lemon peel.
                1 pint of boiling water.
                Sugar to taste.
@@ -12083,7 +12092,7 @@ Let it stand until cold, and then strain it.
 
 Thick Barley-water.
 
-_Ingredients_--2†oz. of pearl barley.
+_Ingredients_--2‡Ø∫. of pearl barley.
                1 quart of water.
                A little thin lemon peel.
                Sugar to taste.
@@ -12104,7 +12113,7 @@ Sweeten to taste, and then strain it.
 
 Rice Water.
 
-_Ingredients_--2†oz. of rice.
+_Ingredients_--2‡Ø∫. of rice.
                3 pints of water.
                1 inch of cinnamon.
                Sugar to taste.
@@ -12152,7 +12161,7 @@ Cover, until cold, and then strain.
 
 A Cup of Arrowroot.
 
-_Ingredients_--Ω pint of milk.
+_Ingredients_--Ì†∞int of milk.
                1 dessertspoonful of arrowroot.
                Castor sugar.
 
@@ -12184,8 +12193,8 @@ Bake for a few minutes, and serve as quickly as possible.
 
 Treacle Posset.
 
-_Ingredients_--Ω pint of milk.
-               º pint of treacle.
+_Ingredients_--Ì†∞int of milk.
+               Ï†∞int of treacle.
 
 _Method._--Put the milk into a saucepan on the fire to boil.
 
@@ -12198,7 +12207,7 @@ Let it boil up again, and then strain it.
 
 White-wine Whey.
 
-_Ingredients_--Ω pint of milk.
+_Ingredients_--Ì†∞int of milk.
                1 wineglass of sherry.
                Sugar to taste.
 
@@ -12238,8 +12247,8 @@ Then strain the water from it.
 
 Sago Gruel.
 
-_Ingredients_--Ω†oz. of sago.
-               Ω pint of water.
+_Ingredients_--Ì†Øz. of sago.
+               Ì†∞int of water.
                2 lumps of sugar.
 
 _Method._--Wash the sago, and let it soak in the water for thirty
@@ -12252,9 +12261,9 @@ Add the sugar, and it is ready.
 
 Prune Drink.
 
-_Ingredients_--2Ω†oz. of prunes.
+_Ingredients_--2Ì†Øz. of prunes.
                1 quart of water.
-               1†oz. of sugar.
+               1‡Ø∫. of sugar.
 
 _Method._--Cut the prunes in two.
 
@@ -12265,7 +12274,7 @@ Strain, and cover until cold.
 
 Rice Milk.
 
-_Ingredients_--1†oz. of rice.
+_Ingredients_--1‡Ø∫. of rice.
                1 pint of milk.
                Sugar to taste.
 
@@ -12279,7 +12288,7 @@ best.
 Suet and Milk.
 
 _Ingredients_--1 pint of milk.
-               1†oz. of suet.
+               1‡Ø∫. of suet.
 
 _Method._--Chop the suet finely.
 
@@ -12290,7 +12299,7 @@ an hour; then strain.
 Invalids' Soup.
 
 _Ingredients_--1 pint of beef tea.
-               1†oz. of crushed tapioca, semolina, or sago.
+               1‡Ø∫. of crushed tapioca, semolina, or sago.
                The yolks of 2 eggs.
 
 _Method._--Put the beef-tea into a saucepan on the fire.
@@ -12323,7 +12332,7 @@ Bran Tea.
 
 _Ingredients_--3 tablespoonfuls of good bran.
                1 quart of water.
-               1†oz. of gum arabic.
+               1‡Ø∫. of gum arabic.
                1 tablespoonful of honey.
 
 _Method._--Boil the bran in the water for ten minutes.
@@ -12354,7 +12363,7 @@ boiled in the water.
 Boiled Apple-water.
 
 _Ingredients_--3 good sized apples.
-               2†oz. of sugar.
+               2‡Ø∫. of sugar.
                1 quart of water.
                A little thin lemon-rind.
 
@@ -12408,11 +12417,11 @@ Serve with or without a plain white sauce.
 Other dishes suitable for the convalescent will found under the
 following headings:--
 
-    Sole ‡ la BÈchamel.
-    Sole ‡ la MaÓtre d'HÙtel.
+    Sole ‡†¨a BÈ£®amel.
+    Sole ‡†¨a MaÓ¥≤e d'H‰¥•l.
     Whiting Boiled.
     Boiled Chicken.
-    Sweetbread ‡ la BÈchamel.
+    Sweetbread ‡†¨a BÈ£®amel.
     Mutton Chop.
     Rice Pudding.
     Cornflower Pudding.
@@ -12442,8 +12451,8 @@ When tender, remove the skin and cover with glaze or fine raspings.
 Galantine of Fowl.
 
 _Ingredients_--1 fowl.
-               1Ω†lb. of pork.
-               1Ω†lb. of veal.
+               1Ì†¨b. of pork.
+               1Ì†¨b. of veal.
                Yolks of 3 hard-boiled eggs.
                2 truffles.
 
@@ -12717,12 +12726,12 @@ Finish off with a border of chopped aspic jelly.
 MISCELLANEOUS DISHES.
 
 
-Cheese P‚tÈs.
+Cheese P‚¥©s.
 
 _Ingredients_--Some stale bread.
-               Ω tablespoonful of hot water.
+               Ì†¥ablespoonful of hot water.
                4 tablespoonfuls of grated cheese.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                A few bread-crumbs.
                Pepper and salt.
                A little cayenne.
@@ -12782,11 +12791,11 @@ very hot.
 
 Cheese Pudding.
 
-_Ingredients_--3†oz. of bread-crumbs.
+_Ingredients_--3‡Ø∫. of bread-crumbs.
                1 pint of milk.
-               º†lb. of grated cheese.
+               Ï†¨b. of grated cheese.
                3 eggs.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                Pepper and salt.
                A little cayenne.
 
@@ -12804,11 +12813,11 @@ well thrown up and brown.
 
 Macaroni and Cheese.
 
-_Ingredients_--º†lb. of macaroni.
-               2†oz. of grated cheese.
-               Ω pint of milk.
-               1†oz. of butter.
-               Ω†oz. of flour.
+_Ingredients_--Ï†¨b. of macaroni.
+               2‡Ø∫. of grated cheese.
+               Ì†∞int of milk.
+               1‡Ø∫. of butter.
+               Ì†Øz. of flour.
                Pepper and salt.
                A little cayenne.
 
@@ -12833,7 +12842,7 @@ until brown.
 
 Macaroni Stewed in Milk.
 
-_Ingredients_--º†lb. of macaroni.
+_Ingredients_--Ï†¨b. of macaroni.
                1 pint of milk.
 
 _Method._--Break the macaroni, and boil it in one quart of water for
@@ -12858,7 +12867,7 @@ roasted or stewed meat.
 Savoury Rice.
 
 _Ingredients_--1 onion.
-               2†oz. of rice.
+               2‡Ø∫. of rice.
                1 pint of boilings from meat.
                Pepper and salt.
 
@@ -12872,10 +12881,10 @@ Add pepper and salt to taste.
 
 Cheese Sandwiches.
 
-_Ingredients_--º†lb. of grated cheese.
+_Ingredients_--Ï†¨b. of grated cheese.
                The yolks of 3 hard-boiled eggs.
                4 slices of buttered bread.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                Pepper and salt.
                A little cayenne.
 
@@ -12886,10 +12895,10 @@ place the others over.
 
 Rice Stewed with Cheese.
 
-_Ingredients_--Ω†lb. of rice.
-               2Ω pints of water.
+_Ingredients_--Ì†¨b. of rice.
+               2Ì†∞ints of water.
                1 pint of milk.
-               2†oz. of grated cheese.
+               2‡Ø∫. of grated cheese.
                Pepper and salt.
 
 _Method._--Boil the rice gently in the water for half an hour, then add
@@ -12898,9 +12907,9 @@ the milk and cheese and boil gently for half an hour more.
 
 Stewed Normandy Pippins.
 
-_Ingredients_--1†lb. of pippins.
+_Ingredients_--1‡¨¢. of pippins.
                1 quart of water.
-               6†oz. of lump sugar.
+               6‡Ø∫. of lump sugar.
 
 _Method._--Soak the pippins in the water.
 
@@ -12947,20 +12956,20 @@ Put white crumbs into a frying-pan with a little butter, and stir until
 they are lightly browned.
 
 
-MacÈdoine of Vegetables.
+MacÈ§Øine of Vegetables.
 
 Cut carrots and turnips into fancy shapes with a dry cutter, boil them
 separately, cooking the turnips five minutes and the carrots fifteen.
 Mix them with nicely boiled green peas and French beans. In the winter
-Moir's _MacÈdoine_ of Cooked Vegetables, sold in tins, will be found
+Moir's _MacÈ§Øine_ of Cooked Vegetables, sold in tins, will be found
 very convenient.
 
 
 Pickle for Meat.
 
-_Ingredients_--1Ω†lb. of salt.
-               6†oz. of brown sugar.
-               1†oz. of saltpetre.
+_Ingredients_--1Ì†¨b. of salt.
+               6‡Ø∫. of brown sugar.
+               1‡Ø∫. of saltpetre.
                1 gallon of water.
 
 _Method._--Put the salt, sugar, and saltpetre into a large saucepan with
@@ -12987,7 +12996,7 @@ been frozen will turn black in frying.
 
 Rendering down Fat.
 
-_Ingredients_--4†lb. of any fat, cooked or uncooked.
+_Ingredients_--4‡¨¢. of any fat, cooked or uncooked.
 
 _Method._--Cut the fat into small pieces.
 
@@ -13077,7 +13086,7 @@ Clarify it and use it for frying, plain cakes, and pastry.
 Scraps of Cheese.
 
 Grate them, and use for Welsh rare-bit, macaroni cheese, cheese
-sandwiches, _p‚tÈs_, &c.
+sandwiches, _p‚¥©s_, &c.
 
 
 Cold Vegetables.
@@ -13120,9 +13129,9 @@ A little grated lemon rind and juice improves the flavour.
 Sage-and-Onion Stuffing.
 
 _Ingredients_--4 onions.
-               º†lb. of bread-crumbs.
+               Ï†¨b. of bread-crumbs.
                7 sage leaves.
-               1†oz. of butter.
+               1‡Ø∫. of butter.
                Pepper and salt.
 
 _Method._--Blanch the onions by putting them into cold water, and
@@ -13151,8 +13160,8 @@ with the forcemeat.
 
 Imitation Foie Gras.
 
-_Ingredients_--Ω†lb. of calf's liver.
-               º†lb. of bacon.
+_Ingredients_--Ì†¨b. of calf's liver.
+               Ï†¨b. of bacon.
                A piece of carrot, turnip, and onion.
                A sprig of parsley, thyme, and marjoram.
                A bay leaf.
@@ -13176,8 +13185,8 @@ PRESERVES.
 
 Strawberry Jam.
 
-_Ingredients_--8†lb. of strawberries.
-               4†lb. of loaf sugar.
+_Ingredients_--8‡¨¢. of strawberries.
+               4‡¨¢. of loaf sugar.
 
 _Method._--Take the stalks from the strawberries and put them in a
 preserving pan.
@@ -13194,8 +13203,8 @@ Put the jam into pots and cover close.
 
 Raspberry Jam.
 
-_Ingredients_--6†lb. of raspberries.
-               3†lb. of loaf sugar.
+_Ingredients_--6‡¨¢. of raspberries.
+               3‡¨¢. of loaf sugar.
 
 _Method._--Remove the stalks from the raspberries and boil them over a
 moderate fire for fifteen minutes, stirring all the time.
@@ -13210,8 +13219,8 @@ Put the jam into pots and cover close.
 
 Rhubarb Jam.
 
-_Ingredients_--5†lb. of rhubarb.
-               5†lb. of lump sugar.
+_Ingredients_--5‡¨¢. of rhubarb.
+               5‡¨¢. of lump sugar.
 
 _Method._--Peel and cut the rhubarb as for a tart, put it in the pan
 with the sugar, and boil gently at first, then more quickly, skimming
@@ -13222,8 +13231,8 @@ When it will set it is ready.
 
 Red Gooseberry Jam.
 
-_Ingredients_--6†lb. of gooseberries.
-               3†lb. of lump sugar.
+_Ingredients_--6‡¨¢. of gooseberries.
+               3‡¨¢. of lump sugar.
                Water.
 
 _Method._--Take the heads and stalks from the gooseberries and put them
@@ -13243,8 +13252,8 @@ Put it into pots and cover close.
 
 Damson Jam.
 
-_Ingredients_--5†lb. of damsons.
-               3æ†lb. of lump sugar.
+_Ingredients_--5‡¨¢. of damsons.
+               3Ó†¨b. of lump sugar.
 
 _Method._--Boil for thirty minutes.
 
@@ -13256,8 +13265,8 @@ Put into pots and cover close.
 
 Black-currant Jam.
 
-_Ingredients_--5†lb. of black currants.
-               3æ†lb. of lump sugar.
+_Ingredients_--5‡¨¢. of black currants.
+               3Ó†¨b. of lump sugar.
 
 _Method._--Boil the fruit and sugar together until the jam will set,
 skimming all the time.
@@ -13276,7 +13285,7 @@ I.
 
   Boiled salmon, Hollandaise sauce.
 
-  _EntrÈe._
+  _EntrÈ•Æ_
   Chicken croquettes.
 
   Saddle of lamb, mint sauce, spinach, potatoes.
@@ -13294,7 +13303,7 @@ II.
 
   Boiled cod, egg sauce.
 
-  _EntrÈe._
+  _EntrÈ•Æ_
   Curried rabbit.
 
   Roast leg of mutton, currant jelly, cauliflower, potatoes.
@@ -13312,7 +13321,7 @@ III.
 
   Boiled mackerel, melted butter.
 
-  _EntrÈe._
+  _EntrÈ•Æ_
   Curried chicken.
 
   Boiled leg of mutton, caper sauce, mashed turnips, potatoes.
@@ -13330,7 +13339,7 @@ IV.
 
   Sole au gratin.
 
-  _EntrÈe._
+  _EntrÈ•Æ_
   Mushrooms and kidneys.
 
   Roast fowl, bacon, bread sauce, Brussels sprouts, potatoes.
@@ -13348,7 +13357,7 @@ V.
 
   Fried cutlets of cod, anchovy sauce.
 
-  _EntrÈe._
+  _EntrÈ•Æ_
   Minced meat with poached eggs.
 
   Braised breast of veal, cauliflower, potatoes.
@@ -13366,7 +13375,7 @@ VI.
 
   Boiled cod, egg sauce.
 
-  _EntrÈe._
+  _EntrÈ•Æ_
   Tomatoes stuffed with sausage-meat.
 
   Ribs of beef, horse-radish sauce, potatoes, spinach.
@@ -13384,7 +13393,7 @@ VII.
 
   Plaice filleted and fried, anchovy sauce.
 
-  _EntrÈe._
+  _EntrÈ•Æ_
   Croustards of minced meat.
 
   Roast leg of mutton, red-currant jelly, potatoes, Brussels sprouts.
@@ -13403,7 +13412,7 @@ VIII.
 
   Boiled halibut, shrimp sauce.
 
-  _EntrÈe._
+  _EntrÈ•Æ_
   Rissoles.
 
   Sirloin of beef, horse-radish sauce, greens, potatoes.
@@ -13421,7 +13430,7 @@ IX.
 
   Fried whiting, thick white sauce.
 
-  _EntrÈe._
+  _EntrÈ•Æ_
   Curried eggs.
 
   Shoulder of mutton, onion sauce, cauliflower, potatoes. Boiled beef,
@@ -13440,10 +13449,10 @@ X.
 
   Boiled cod, lobster sauce.
 
-  _EntrÈes._
-  Mutton cutlets ‡ la macÈdoine. Tomato farni.
+  _EntrÈ•≥._
+  Mutton cutlets ‡†¨a macÈ§Øine. Tomato farni.
 
-  Roast fillet of veal, boiled fowl, BÈchamel sauce, asparagus, potatoes.
+  Roast fillet of veal, boiled fowl, BÈ£®amel sauce, asparagus, potatoes.
 
   Ducklings, green peas.
 
@@ -13460,7 +13469,7 @@ XI.
 
   Cod's head and shoulders, oyster sauce. Fried smelts.
 
-  _EntrÈes._
+  _EntrÈ•≥._
   Beef olives. Quenelles of veal.
 
   Saddle of mutton, red currant jelly, spinach, potatoes. Boiled turkey,
@@ -13481,8 +13490,8 @@ XII.
 
   Boiled brill, anchovy sauce.
 
-  _EntrÈes._
-  Podovies. Veal cutlets ‡ la Talleyrand.
+  _EntrÈ•≥._
+  Podovies. Veal cutlets ‡†¨a Talleyrand.
 
   Boiled leg of mutton, caper sauce, young carrots. Roast fowl and bacon,
   Brussels sprouts, potatoes.
@@ -13500,10 +13509,10 @@ XIII.
 
   Calves'-tail soup. Palestine soup.
 
-  Sole ‡ la Rouennaise. Fried whiting.
+  Sole ‡†¨a Rouennaise. Fried whiting.
 
-  _EntrÈes._
-  Mutton cutlets, tomato sauce. Rabbit ‡ la Tartare.
+  _EntrÈ•≥._
+  Mutton cutlets, tomato sauce. Rabbit ‡†¨a Tartare.
 
   Sirloin of beef, horse-radish sauce, spinach, potatoes. Boiled turkey,
   white sauce, Brussels sprouts.
@@ -13524,9 +13533,8 @@ XIV.
 
   Cod, oyster sauce. Red mullets in cases.
 
-  _EntrÈes._
-  Chicken tartlets. Fillets de boeuf, ‡ la BÈarnaise. Mutton cutlets ‡
-  la macÈdoine.
+  _EntrÈ•≥._
+  Chicken tartlets. Fillets de boeuf, ‡†¨a BÈ°≤naise. Mutton cutlets Õä  la macÈ§Øine.
 
   Saddle of mutton, red-currant jelly, potatoes, Brussels sprouts. Boiled
   turkey, celery sauce. Boiled tongue.
@@ -13547,11 +13555,11 @@ XV.
 
   Turbot, Hollandaise sauce. Lobster cutlets.
 
-  _EntrÈes._
-  Braised sweetbreads. Pigeons ‡ l'Italienne. Fillets of chicken.
+  _EntrÈ•≥._
+  Braised sweetbreads. Pigeons ‡†¨'Italienne. Fillets of chicken.
 
   Saddle of lamb, mint sauce, asparagus, potatoes. Boiled fowls, bacon.
-  BÈchamel sauce, potato croquettes.
+  BÈ£®amel sauce, potato croquettes.
 
   Ducklings, green peas.
 
@@ -13565,19 +13573,19 @@ XV.
 
 XVI.
 
-  Potage ‡ l'AmÈricaine.
+  Potage ‡†¨'AmÈ≤©caine.
 
   Boiled turbot, lobster sauce.
 
-  _EntrÈes._
-  Oyster patties. Fillets de boeuf ‡ la BÈarnaise.
+  _EntrÈ•≥._
+  Oyster patties. Fillets de boeuf ‡†¨a BÈ°≤naise.
 
   Roast leg of mutton, red-currant jelly, Brussels sprouts potatoes.
   Boiled fowl, bacon, celery sauce.
 
   Jugged hare.
 
-  G‚teau de cerise, croquant of oranges, boiled custards.
+  G‚¥•au de cerise, croquant of oranges, boiled custards.
 
   Cheese.
 
@@ -13586,12 +13594,12 @@ XVI.
 
 XVII.
 
-  Mock-turtle soup. Potato purÈe.
+  Mock-turtle soup. Potato purÈ•Æ
 
-  Salmon, Hollandaise sauce, cucumber. Sole ‡ la BÈchamel.
+  Salmon, Hollandaise sauce, cucumber. Sole ‡†¨a BÈ£®amel.
 
-  _EntrÈes._
-  Chicken ‡ la Marengo. Braised sweetbreads.
+  _EntrÈ•≥._
+  Chicken ‡†¨a Marengo. Braised sweetbreads.
 
   Saddle of lamb, mint sauce, peas, potatoes. Boiled fowl, egg sauce,
   boiled ham, potato croquettes, asparagus.
@@ -13610,10 +13618,10 @@ XVIII.
 
   Julienne. Oyster soup.
 
-  Turbot, lobster sauce. Sole ‡ la Genoise.
+  Turbot, lobster sauce. Sole ‡†¨a Genoise.
 
-  _EntrÈes._
-  Sweetbreads ‡ la BÈchamel. Mutton cutlets ‡ la Rachel.
+  _EntrÈ•≥._
+  Sweetbreads ‡†¨a BÈ£®amel. Mutton cutlets ‡†¨a Rachel.
 
   Sirloin of beef, horse-radish sauce, asparagus, potatoes. Boiled leg of
   mutton, caper sauce, mashed turnips.
@@ -13631,10 +13639,10 @@ XIX.
 
   Ox-tail soup. Tapioca cream.
 
-  Boiled salmon, Tartare sauce. Sole ‡ la maÓtre d'hÙtel.
+  Boiled salmon, Tartare sauce. Sole ‡†¨a maÓ¥≤e d'h‰¥•l.
 
-  _EntrÈes._
-  Chicken ‡ la Marengo. Mutton cutlets ‡ la Milanaise. Podovies.
+  _EntrÈ•≥._
+  Chicken ‡†¨a Marengo. Mutton cutlets ‡†¨a Milanaise. Podovies.
 
   Roast fillet of veal, French beans, potatoes. Haunch of mutton, red
   currant jelly.
@@ -13713,7 +13721,7 @@ Cold Supper. 20 People.
   Cheese cakes.
   Boiled custards.
   Normandy pippins.
-  G‚teau de cerise.
+  G‚¥•au de cerise.
   Cakes.
   Biscuits.
   Fruit.
@@ -13752,7 +13760,7 @@ Supper for 50 People. Guests not seated. Less expensive.
 
   Ham and beef sandwiches.
   Four quarts of blancmange, differently flavoured and decorated.
-  Two quarts of apple g‚teau.
+  Two quarts of apple g‚¥•au.
   Four jellies of different kinds.
   One large lemon-sponge.
   Two dishes of light pastry.
@@ -13810,7 +13818,7 @@ INDEX.
   Beef, aitch-bone, round, thick and thin flank of, 28
   -- brisket of, 28
   -- -- stewed, 41
-  -- fillets of, ‡ la BÈarnaise, 95
+  -- fillets of, ‡†¨a BÈ°≤naise, 95
   -- olives, 102
   -- ribs of, 28
   -- scalloped, 90
@@ -13875,7 +13883,7 @@ INDEX.
 
   Cabbage, 196
 
-  CafÈ au lait, 82
+  CafÈ†°u lait, 82
 
   Cake, cornflour, 232
   -- currant, 233
@@ -13919,7 +13927,7 @@ INDEX.
   Cheese cakes, 146
   -- d'Artois, 147
   -- fondu, 265
-  -- p‚tÈs, 283
+  -- p‚¥©s, 283
   -- pudding, 284
   -- ramequins, 266
   -- rice stewed with, 286
@@ -13929,9 +13937,9 @@ INDEX.
   -- toasted, 284
   -- and macaroni, 285
 
-  Chicken ‡ la Cardinal, 106
-  -- ‡ la Marengo, 106
-  -- ‡ la Tartare, 96
+  Chicken ‡†¨a Cardinal, 106
+  -- ‡†¨a Marengo, 106
+  -- ‡†¨a Tartare, 96
   -- croquettes, 94
   -- curried, 108
   -- fillets of, 105
@@ -13947,8 +13955,8 @@ INDEX.
 
   Cod, boiled, 113
   -- cutlets of, 121
-  -- -- ‡ la Genoise, 121
-  -- -- ‡ l'Italienne, 121
+  -- -- ‡†¨a Genoise, 121
+  -- -- ‡†¨'Italienne, 121
   -- fricassee, 122
   -- salt, 113
   -- sounds, boiled, 122
@@ -13964,7 +13972,7 @@ INDEX.
   -- -- curry of, 85
   -- -- mayonnaise of, 89
   -- -- pie, 88
-  -- -- with purÈe of tomatoes, 87
+  -- -- with purÈ•†of tomatoes, 87
   -- potatoes, 291
   -- vegetables, 292
 
@@ -13987,11 +13995,11 @@ INDEX.
   Creams and jellies, 243, 244
   -- to make, 244
 
-  CrËme frite, 156
+  CrË≠• frite, 156
 
   Croquant of oranges, 255
 
-  Croustards ‡ la Reine, 97
+  Croustards ‡†¨a Reine, 97
   -- with mincemeat, 74
 
   Crust, economical short, 136
@@ -14012,12 +14020,12 @@ INDEX.
   -- savoury, 207
   -- Welsh, 259
 
-  Cutlets, mutton, ‡ la MacÈdoine, 92
-  -- -- ‡ la Milanaise, 108
-  -- -- ‡ la Rachel, 93
+  Cutlets, mutton, ‡†¨a MacÈ§Øine, 92
+  -- -- ‡†¨a Milanaise, 108
+  -- -- ‡†¨a Rachel, 93
   -- veal, 104
-  -- -- ‡ l'Italienne, 105
-  -- -- ‡ la Talleyrand, 95
+  -- -- ‡†¨'Italienne, 105
+  -- -- ‡†¨a Talleyrand, 95
   -- -- with tomato sauce, 102
 
 
@@ -14044,7 +14052,7 @@ INDEX.
   -- scalloped, 77
   -- sur le plat, 77
 
-  EntrÈes, 92
+  EntrÈ•≥, 92
 
   Epigrammes, 93
 
@@ -14094,7 +14102,7 @@ INDEX.
 
   Game, rissoles of, 109
 
-  G‚teau aux pommes, 251
+  G‚¥•au aux pommes, 251
   -- de cerise, 157
 
   Genoise iced cakes, 145
@@ -14180,7 +14188,7 @@ INDEX.
 
   Kedgeree, 114
 
-  Kidneys, ‡ la Tartare, 73
+  Kidneys, ‡†¨a Tartare, 73
   -- and mushrooms, 107
   -- fried, 71
   -- stewed, 72
@@ -14211,9 +14219,9 @@ INDEX.
   -- stewed in milk, 285
   -- -- -- stock, 286
 
-  MacÈdoine of vegetables, 289
+  MacÈ§Øine of vegetables, 289
 
-  Mackerel ‡ la Normande, 119
+  Mackerel ‡†¨a Normande, 119
 
   Mayonnaise of fowl, 104
   -- -- salmon, 279
@@ -14225,7 +14233,7 @@ INDEX.
 
   Milk rolls, 229
 
-  Mince ‡ la Reine, 74
+  Mince ‡†¨a Reine, 74
   -- (with eggs), 85
   -- pies, 139
 
@@ -14238,8 +14246,8 @@ INDEX.
   Mock goose, or pig's fry, 45, 46
   -- hare, 42
 
-  Mullets, red, ‡ la Genoise, 126
-  -- -- ‡ l'Italienne, 125
+  Mullets, red, ‡†¨a Genoise, 126
+  -- -- ‡†¨'Italienne, 125
   -- -- in cases, 126
 
   Mushroom pie, 140
@@ -14248,8 +14256,8 @@ INDEX.
   -- boiled, 79
   -- stewed, 198
 
-  Mutton cutlets ‡ la MacÈdoine, 92
-  -- -- ‡ la Rachel, 93
+  Mutton cutlets ‡†¨a MacÈ§Øine, 92
+  -- -- ‡†¨a Rachel, 93
   -- leg of, 28
   -- neck of, 29
   -- saddle of, 29
@@ -14265,7 +14273,7 @@ INDEX.
   Odds and ends, 288
 
   Omelet, savoury, a small, 267
-  -- soufflÈe, 265
+  -- soufflÈ•¨ 265
   -- -- savoury, 266
 
   Omelets, 263, 264
@@ -14281,7 +14289,7 @@ INDEX.
   Oyster patties, 118
 
   Oysters, scalloped, 118
-  -- -- ‡ la FranÁaise, 119
+  -- -- ‡†¨a FranÁ°©se, 119
 
 
   Pancakes, 179
@@ -14316,7 +14324,7 @@ INDEX.
   -- shepherd's, 86
   -- veal and ham, 141
 
-  Pigeons stewed ‡ l'Italienne, 96
+  Pigeons stewed ‡†¨'Italienne, 96
 
   Pippins, stewed Normandy, 287
 
@@ -14452,7 +14460,7 @@ INDEX.
   -- roast, 35
   -- stewed, 36
 
-  Rabbits ‡ la Tartare, 96
+  Rabbits ‡†¨a Tartare, 96
 
   Rhubarb fool, 166
 
@@ -14492,8 +14500,8 @@ INDEX.
   Sauces, 53
   -- apple, No. 1, 65
   -- -- No. 2, 66
-  -- BÈarnaise, 68
-  -- BÈchamel, 57
+  -- BÈ°≤naise, 68
+  -- BÈ£®amel, 57
   -- bread, 62
   -- brown, 56
   -- celery, 60
@@ -14509,7 +14517,7 @@ INDEX.
   -- horse-radish, 66
   -- jam, 65
   -- lobster, 58, 59
-  -- maÓtre d'hÙtel, 54
+  -- maÓ¥≤e d'h‰¥•l, 54
   -- mayonnaise, 55
   -- melted butter, English, 54
   -- mint, 66
@@ -14518,7 +14526,7 @@ INDEX.
   -- piquante, 63
   -- plain white, 54
   -- port wine, for wild duck, 64
-  -- rÈforme, 64
+  -- rÈ¶Ørme, 64
   -- shrimp, 59
   -- soubise, 62
   -- sweet, 64
@@ -14527,7 +14535,7 @@ INDEX.
   -- tomato, 61
   -- wine, 63
 
-  Salmon ‡ la Tartare, 116
+  Salmon ‡†¨a Tartare, 116
   -- boiled, 113
   -- pickled, 117
 
@@ -14560,17 +14568,17 @@ INDEX.
 
   Snipes, 38
 
-  Sole ‡ la Parisienne, 130
-  -- ‡ la Rouennaise, 130
+  Sole ‡†¨a Parisienne, 130
+  -- ‡†¨a Rouennaise, 130
   -- au gratin, 131
-  -- fillets of, ‡ la maÓtre d'hÙtel, 131
+  -- fillets of, ‡†¨a maÓ¥≤e d'h‰¥•l, 131
   -- for an invalid, 275
   -- fried, 129
   -- fillets of, 124
 
-  SoufflÈe, steamed, 264
+  SoufflÈ•¨ steamed, 264
 
-  SoufflÈes, 263, 264
+  SoufflÈ•≥, 263, 264
 
   Soups, 203
   -- bonne femme, 217
@@ -14579,13 +14587,13 @@ INDEX.
   -- -- second stock, 205
   -- calf-tail, 212
   -- celery, 207
-  -- consommÈe ‡ la Princesse, 207
+  -- consommÈ•†‡†¨a Princesse, 207
   -- -- au Royal, 207
   -- crowdie, 224
-  -- Egyptian purÈe, or lentil soup, 212
+  -- Egyptian purÈ•¨ or lentil soup, 212
   -- Friar Tuck, 207
   -- giblet, 216
-  -- green pea purÈe, 209
+  -- green pea purÈ•¨ 209
   -- hare, 219
   -- haricot, 208
   -- Julienne, 206
@@ -14598,8 +14606,8 @@ INDEX.
   -- oyster, 208
   -- Palestine, 211
   -- parsnip, 221
-  -- potage ‡ l'AmÈricaine, 209
-  -- potato purÈe, 211
+  -- potage ‡†¨'AmÈ≤©caine, 209
+  -- potato purÈ•¨ 211
   -- pot-au-feu, 223
   -- rabbit, 218
   -- red lentil, 221
@@ -14629,8 +14637,8 @@ INDEX.
 
   Suppers, 308-311
 
-  Sweetbreads ‡ la BÈchamel, 97
-  -- ‡ la Parisienne, 100
+  Sweetbreads ‡†¨a BÈ£®amel, 97
+  -- ‡†¨a Parisienne, 100
   -- braised, 98
   -- fried, 101
   -- minced, 100
@@ -14680,13 +14688,13 @@ INDEX.
   Turnips, 195
 
 
-  Veal ‡ la BÈchamel, 103
+  Veal ‡†¨a BÈ£®amel, 103
   -- breast of, 29
   -- -- braised, 49
   -- cake, 76
   -- cutlets, 104
-  -- -- ‡ l'Italienne, 105
-  -- -- ‡ la Talleyrand, 95
+  -- -- ‡†¨'Italienne, 105
+  -- -- ‡†¨a Talleyrand, 95
   -- -- with tomato sauce, 102
   -- fillet of, 29
   -- galantine of, 278
@@ -14699,7 +14707,7 @@ INDEX.
   Vegetable marrows, 196
 
   Vegetables, cold, 292
-  -- MacÈdoine of, 289
+  -- MacÈ§Øine of, 289
   -- rules for cooking, 190
 
 
@@ -14709,8 +14717,8 @@ INDEX.
 
   Whitebait, 117
 
-  Whiting ‡ la Genoise, 128
-  -- ‡ l'Italienne, 127
+  Whiting ‡†¨a Genoise, 128
+  -- ‡†¨'Italienne, 127
   -- boiled, 127
   -- fried, 127
 
@@ -14734,11 +14742,11 @@ INDEX.
 cheese, and for the same purpose.[1]
 cheese, and for the same purpose.'[1]
 
-_Ingredients._--4†lb. shin of beef.
-_Ingredients_--4†lb. shin of beef.
+_Ingredients._--4‡¨¢. shin of beef.
+_Ingredients_--4‡¨¢. shin of beef.
 
-_Ingredients._--2†lb. of tripe.  [in Tripe and Onions recipe]
-_Ingredients_--2†lb. of tripe.
+_Ingredients._--2‡¨¢. of tripe.  [in Tripe and Onions recipe]
+_Ingredients_--2‡¨¢. of tripe.
 
 Broiled Steak
 Broiled Steak.
@@ -14755,8 +14763,8 @@ well cooked.
                1 tablespoonful of bread crumbs
                1 tablespoonful of bread crumbs.
 
-               1†oz. of butter  [in Sweetbreads ‡ la BÈchamel recipe]
-               1†oz. of butter.
+               1‡Ø∫. of butter  [in Sweetbreads ‡†¨a BÈ£®amel recipe]
+               1‡Ø∫. of butter.
 
 Simmer them in the stock until they are quite tender
 Simmer them in the stock until they are quite tender.
@@ -14770,7 +14778,7 @@ dish, and pour melted glaze over them.
 Hallibut.
 Halibut.
 
-Garnish with truffle and coral  [in Red Mullets ‡ l'Italienne recipe]
+Garnish with truffle and coral  [in Red Mullets ‡†¨'Italienne recipe]
 Garnish with truffle and coral.
 
                Half a sponge cake
@@ -14806,8 +14814,8 @@ _Ingredients_--2 quarts of second stock.
                1 blade of mace, [in Giblet Soup recipe]
                1 blade of mace.
 
-               2†lb. of parsnips  [in Red Lentil Soup recipe]
-               2†lb. of parsnips.
+               2‡¨¢. of parsnips  [in Red Lentil Soup recipe]
+               2‡¨¢. of parsnips.
 
                2 or 3 large crusts of bread
                2 or 3 large crusts of bread.
@@ -14815,8 +14823,8 @@ _Ingredients_--2 quarts of second stock.
                Grated rind of one lemon and juice of two
                Grated rind of one lemon and juice of two.
 
-A Savoury Omelet SoufflÈe
-A Savoury Omelet SoufflÈe.
+A Savoury Omelet SoufflÈ•ç
+A Savoury Omelet SoufflÈ•Æ
 
 _Method._--Peel and cut up the apples
 _Method._--Peel and cut up the apples.
@@ -14824,17 +14832,17 @@ _Method._--Peel and cut up the apples.
 Shape the fowl nicely, and fasten it securely in a cloth
 Shape the fowl nicely, and fasten it securely in a cloth.
 
-_Ingredients._--1†lb. of pippins.
-_Ingredients_--1†lb. of pippins.
+_Ingredients._--1‡¨¢. of pippins.
+_Ingredients_--1‡¨¢. of pippins.
 
-               1†oz. of saltpetre,
-               1†oz. of saltpetre.
+               1‡Ø∫. of saltpetre,
+               1‡Ø∫. of saltpetre.
 
 The add the sugar broken into small lumps; stir and boil for about
 Then add the sugar broken into small lumps; stir and boil for about
 
-  Mutton cutlets ‡ la macÈdoine. Tomatos farni.
-  Mutton cutlets ‡ la macÈdoine. Tomato farni.
+  Mutton cutlets ‡†¨a macÈ§Øine. Tomatos farni.
+  Mutton cutlets ‡†¨a macÈ§Øine. Tomato farni.
 
   -- -- fillets of, 105
   -- fillets of, 105
@@ -14843,13 +14851,13 @@ Then add the sugar broken into small lumps; stir and boil for about
   -- -- for an invalid, 276
 
   Gateaux aux pommes, 251
-  G‚teau aux pommes, 251
+  G‚¥•au aux pommes, 251
 
-  Mullets, red, ‡ la Genoise, 125
-  Mullets, red, ‡ la Genoise, 126
+  Mullets, red, ‡†¨a Genoise, 125
+  Mullets, red, ‡†¨a Genoise, 126
 
-  -- -- ‡ l'Italienne, 126
-  -- -- ‡ l'Italienne, 125
+  -- -- ‡†¨'Italienne, 126
+  -- -- ‡†¨'Italienne, 125
 
   -- app  , 161
   -- apple, 161
@@ -14857,11 +14865,11 @@ Then add the sugar broken into small lumps; stir and boil for about
   -- diplomatic, 137
   -- diplomatic, 187
 
-  SoufflÈe, stewed, 264
-  SoufflÈe, steamed, 264
+  SoufflÈ•¨ stewed, 264
+  SoufflÈ•¨ steamed, 264
 
-  -- consommÈ ‡ la Princesse, 207
-  -- consommÈe ‡ la Princesse, 207
+  -- consommÈ†† la Princesse, 207
+  -- consommÈ•†‡†¨a Princesse, 207
 
   -- mock turtle, 212
   -- mock turtle, 222
