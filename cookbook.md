@@ -449,7 +449,7 @@ will also keep up the heat of the body, and give force, or the power of
 movement. These foods must contain a certain quantity of liquid, and the
 salts necessary to keep the blood pure.
 
-  ##TABLE OF FOODS.
+##TABLE OF FOODS.
 
   Flesh-forming or Nitrogenous.
 
