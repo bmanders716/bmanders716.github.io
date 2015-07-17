@@ -1,4 +1,4 @@
-[](%20http://inls161.johndmart.in%20) Tools for Information Literacy
+Tools for Information Literacy
 ============================== INLS161-001 (Summer II)
 ----------------------- [![](/images/silslogo.png)](http://sils.unc.edu)
 INLS161-001 Summer II 2015 ========================== Course Info
