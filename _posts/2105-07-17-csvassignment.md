@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    CSV Assignment
-date:     2015-17-07
+date:     2015-07-17
 summary:  A collection of files for Assignment 4
 author:   Brittany Anderson
 ---
